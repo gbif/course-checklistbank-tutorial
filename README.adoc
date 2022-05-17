@@ -6,7 +6,7 @@ https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/bad
 // Build status badge: In the text below, please update "course-template" to "course-your-course-name", and remove this line.
 https://builds.gbif.org/job/course-template/lastBuild/console[image:https://builds.gbif.org/job/course-template/badge/icon[Build status]]
 
-= GBIF Course Template
+= Checklist bank tutorial
 
 ////////////////////////////////////////////////////////////////////////////////
 // Please delete this text after cloning the repository for a new course!
@@ -20,6 +20,6 @@ This `README.adoc` file should not normally be part of the course.  It is shown 
 
 _This is information *about* this course's source code.  It is not part of the document._
 
-The course is available as HTML and PDF at https://docs.gbif-uat.org/course-template/[Course Template].
+The course is available as HTML and PDF at https://docs.gbif-uat.org/course-checklistbank-tutorial.
 
 The course is built using AsciiDoc, for guidance on how to make changes or suggestions see the https://docs.gbif.org/documentation-guidelines/[GBIF Documentation Guidelines].
