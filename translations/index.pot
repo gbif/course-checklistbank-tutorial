@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-30 15:36+0000\n"
+"POT-Creation-Date: 2022-05-30 15:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,39 +75,47 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:10
 msgid ""
-"Currently, ChecklistBank provides a suite of tools to explore the repository "
-"but also to further investigate particular taxonomic checklists. In this "
-"tutorial, we provide 4 exercises to explore these tools:"
+"ChecklistBank is provided as a fundamental tool to ensure that basic data on "
+"species names and classifications can be shared and reused in support of the "
+"biological sciences and wider societal uses."
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:12
-msgid "Explore the ChecklistBank repository"
-msgstr ""
-
-#. type: delimited block *
-#: description.en.adoc:13
-msgid "Explore the nameusage tool"
+msgid ""
+"Currently, ChecklistBank provides a suite of tools to explore the "
+"repository, but also to further investigate particular taxonomic "
+"checklists. In this tutorial, we provide 4 exercises to explore these tools:"
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:14
-msgid "Explore the namematch tool"
+msgid "Explore the ChecklistBank repository"
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:15
+msgid "Explore the nameusage tool"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:16
+msgid "Explore the namematch tool"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:17
 msgid "Explore the diff viewer tool"
 msgstr ""
 
 #. type: Title ===
-#: description.en.adoc:18
+#: description.en.adoc:20
 #, no-wrap
 msgid "Audience"
 msgstr ""
 
 #. type: Plain text
-#: description.en.adoc:20
+#: description.en.adoc:22
 msgid ""
 "This tutorial is for anyone interested in discovering, curating and "
 "publishing taxonomic checklists."
