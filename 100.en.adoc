@@ -5,7 +5,7 @@ ChecklistBank includes >40,000 taxonomic checklists. You can search through thes
 
 Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps here.
 
-*Search for a checklist*
+=== Search for a checklist
 
 Click on Datasets in the menu on the left. This will bring you to the dataset search page.
 
@@ -17,7 +17,7 @@ You can use the Search field to type any keyword of the checklist you are search
 - search 'Carabcat': the top result shows the Carabcat checklist, a global database of ground beetles, but additionally it will also show COL Checklists in which this checklist was included (since 2021).
 - search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF.
 
-*Explore a checklist*
+=== Explore a checklist
 
 Let’s have a closer look at the information you can find for a particular dataset.
 In this example, we use the https://www.checklistbank.org/dataset/2207/about[Alucitoidea dataset] by Donald Hobern.
