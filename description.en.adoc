@@ -2,7 +2,7 @@
 == Description
 
 ****
-ChecklistBank is a platform to support the publication and curation of taxonomic checklists. The platform is developed and maintained in a joint effort by the Global Biodiversity Information Facility (GBIF) and the Catalogue of Life (COL).
+ChecklistBank is a platform that provides a data repository for taxonomic and nomenclatural data sources to support the publication and curation of these sources. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF).
 
 ChecklistBank includes all checklists that form the Catalogue of Life Checklist, which are primarily global species lists provided by specific taxonomic communities. However, there are many other sources and uses for taxonomic checklists, such as national or local species lists, lists that share a common attribute such as red lists or invasive species lists, or lists that summarise taxonomic publications. Through ChecklistBank, we facilitate the discovery, use and citation of these valuable resources.
  
