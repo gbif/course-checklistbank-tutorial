@@ -27,9 +27,9 @@ endif::backend-pdf[]
 
 include::description.en.adoc[]
 
-:sectnums:
+include::login.en.adoc[]
 
-include::100.en.adoc[]
+:sectnums:
 
 include::200.en.adoc[]
 
