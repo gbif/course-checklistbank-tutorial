@@ -1,4 +1,4 @@
-[multipage-level=2]
+[multipage-level=1]
 == Explore the ChecklistBank repository
 
 ChecklistBank includes >40,000 taxonomic checklists. You can search through these checklists and discover their metadata, browse taxon names, and also download the checklist in various formats.
