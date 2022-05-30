@@ -11,7 +11,7 @@ Please make sure you are logged in to ChecklistBank. If you don’t know how to 
 
 You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘name match’.
 
-image::img/web/CLB-tools-match.png[align=left]
+image::img/web/CLB-tools-match.png[align=left, width=300]
 
 === Example 1: Acacia Mill.
 
