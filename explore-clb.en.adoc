@@ -1,0 +1,12 @@
+[multipage-level=2]
+== Explore the ChecklistBank repository
+
+ChecklistBank includes >40,000 taxonomic checklists. You can search through these checklists and discover their metadata, browse taxon names, and also download the checklist in various formats.
+
+Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps here.
+
+Once you are logged in, you can search for a checklist.
+
+* 1. Click on Datasets in the menu on the left.
+This will bring you to the dataset search page.
+
