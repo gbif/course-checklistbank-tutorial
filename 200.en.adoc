@@ -9,7 +9,7 @@ Please make sure you are logged in to ChecklistBank. If you don't know how to do
 
 You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘nameusage search’.
 
-image::img/web/CLB-tools-usage.png[align=left, width=120]
+image::img/web/CLB-tools-usage.png[align=left, width=200]
 
 === Example 1: _Quercus robur_ L.
 
