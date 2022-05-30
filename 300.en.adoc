@@ -1,2 +1,13 @@
-[multipage-level=2]
-== Explore the namematch tool
+[multipage-level=1]
+== Name match tool
+
+The 'name match' tool in ChecklistBank enables comparison of the Catalogue of Life (COL) Checklist with one or two other datasets in ChecklistBank in terms of taxon name matching. 
+
+Matching is performed against the COL Checklist, by default this is always performed against the latest release of the COL Checklist. It is also possible to compare two datasets without any matching against the COL Checklist. 
+
+To use this tool, you can upload a custom CSV file for comparison. Please note that there is a limit to matching a maximum of 6000 taxon names in one request. The results of the matchings can be explored in web pages in ChecklistBank or downloaded as a CSV file.
+
+Please make sure you are logged in to ChecklistBank. If you don’t know how to do that, follow the steps here (link back to login tutorial page).
+
+You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘name match’.
+
