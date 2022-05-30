@@ -23,6 +23,7 @@ The matching is set to be 'Exact'. This matching ensures that all results relate
 The search results show all datasets in ChecklistBank where the scientific name _Quercus robur_ L. appears in. The screenshot below shows that this scientific name appears in 52 datasets in ChecklistBank (this includes all COL Checklist releases).
 
 The search results show all datasets in ChecklistBank where the scientific name _Quercus robur_ L. appears in. 
+
 image::img/web/CLB-name-usage.png[align=center]
 
 Through these results, it is possible to explore individual datasets in ChecklistBank which include _Quercus robur_ L. Several options for filtering the search results are also available.
