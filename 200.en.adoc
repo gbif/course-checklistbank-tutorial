@@ -17,6 +17,26 @@ image::img/web/CLB-search.png[align=center]
 - search 'Carabcat': the top result shows the Carabcat checklist, a global database of ground beetles, but additionally it will also show COL Checklists in which this checklist was included (since 2021).
 - search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF.
 
+3. Let’s have a closer look at the information you can find for a particular dataset.
+In this example, we use the Carabcat dataset (https://www.checklistbank.org/dataset/1146/about).
+
+The menu on the left shows various options to explore this dataset:
+
+*About*: here you can find all the metadata about this dataset including the author and contact person, the version of the dataset and date of when it was issued, licensing information and how to cite this source, link to the website of the dataset (if applicable), taxonomic scope, etc.
+
+*Download*: on this page you can download this dataset in various formats:
+- Darwin Core Archive (dwca): commonly used standard for biodiversity data.
+- Annual Checklist Exchange Format (acef): data format previously used by Catalogue of Life.
+- Catalogue of Life Data Package (https://github.com/CatalogueOfLife/coldp[COLDP]): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life. 
+- newick: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data. 
+- dot: http://www.graphviz.org/doc/info/lang.html[Graphviz dot] a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools.
+
+*Browse*
+*Search*
+*Imports*
+*Issues*
+*References*
+*Verbatim*
 
 
 
