@@ -11,7 +11,7 @@ Currently, ChecklistBank provides a suite of tools to explore the repository but
 1. Explore the ChecklistBank repository
 2. Explore the nameusage tool
 3. Explore the namematch tool
-4. Explorethe diff viewer tool
+4. Explore the diff viewer tool
 
 ****
 
