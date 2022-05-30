@@ -5,7 +5,7 @@ Use the following steps to login to ChecklistBank:
 
 1. Go to https://www.checklistbank.org/
 2. Click on Login (top right)
-3. Login with your GBIF account
+3. Login with your GBIF account +
 If you don’t have a GBIF account yet, use the ‘register at gbif.org now!’ link.
 
 image::img/web/CLB-front.png[align=center,width=640,height=360]
