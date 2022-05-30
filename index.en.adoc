@@ -1,4 +1,4 @@
-= Checklist bank tutorial
+= ChecklistBank tutorial
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
