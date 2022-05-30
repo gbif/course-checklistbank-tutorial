@@ -20,7 +20,7 @@ endif::backend-pdf[]
 ifndef::backend-pdf[]
 :figure-caption!:
 .this is the image caption
-image::img/web/photo.jpg[align=center,width=640,height=360]
+image::img/logos/clb-col-dark.jpg[align=center,width=640,height=360]
 endif::backend-pdf[]
 
 :sectnums!:
