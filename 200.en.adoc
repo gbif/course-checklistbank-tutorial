@@ -10,5 +10,7 @@ Once you are logged in, you can search for a checklist.
 1. Click on Datasets in the menu on the left. +
 This will bring you to the dataset search page.
 
+image::img/web/CLB-search.png[align=center,width=640,height=360]
+
 
 
