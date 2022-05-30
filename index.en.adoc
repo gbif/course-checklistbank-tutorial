@@ -29,8 +29,6 @@ include::description.en.adoc[]
 
 include::login.en.adoc[]
 
-:sectnums:
-
 include::100.en.adoc[]
 
 include::200.en.adoc[]
