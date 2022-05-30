@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-17 11:29+0000\n"
+"POT-Creation-Date: 2022-05-30 12:15+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,23 +52,51 @@ msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:6
-msgid "this is the description..."
+msgid ""
+"ChecklistBank is a platform to support the publication and curation of "
+"taxonomic checklists. The platform is developed and maintained in a joint "
+"effort by the Global Biodiversity Information Facility (GBIF) and the "
+"Catalogue of Life (COL)."
 msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:8
-msgid "Topics include:"
+msgid ""
+"ChecklistBank includes all checklists that form the Catalogue of Life "
+"Checklist, which are primarily global species lists provided by specific "
+"taxonomic communities. However, there are many other sources and uses for "
+"taxonomic checklists, such as national or local species lists, lists that "
+"share a common attribute such as red lists or invasive species lists, or "
+"lists that summarise taxonomic publications. Through ChecklistBank, we "
+"facilitate the discovery, use and citation of these valuable resources."
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:10 description.en.adoc:11 description.en.adoc:12
+#: description.en.adoc:10
+msgid ""
+"Currently, ChecklistBank provides a suite of tools to explore the repository "
+"but also to further investigate particular taxonomic checklists. In this "
+"tutorial, we provide 4 exercises to explore these tools:"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:12
+msgid "Explore the ChecklistBank repository"
+msgstr ""
+
+#. type: delimited block *
 #: description.en.adoc:13
-msgid "Topic"
+msgid "Explore the nameusage tool"
 msgstr ""
 
 #. type: delimited block *
-#: description.en.adoc:16
-msgid "This course is comprised of ...  Second sentence..."
+#: description.en.adoc:14
+msgid "Explore the namematch tool"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:15
+msgid "Explorethe diff viewer tool"
 msgstr ""
 
 #. type: Title ===
@@ -79,67 +107,9 @@ msgstr ""
 
 #. type: Plain text
 #: description.en.adoc:20
-msgid "This course is for..."
-msgstr ""
-
-#. type: Title ===
-#: description.en.adoc:21
-#, no-wrap
-msgid "Prerequisites"
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:24
-msgid "prerequisite 1 if any"
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:26
-msgid "prerequisite 2 if any"
-msgstr ""
-
-#. type: Title ===
-#: description.en.adoc:27
-#, no-wrap
-msgid "Learning objectives"
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:30 description.en.adoc:31 description.en.adoc:32
-#: description.en.adoc:33
-msgid "Objective"
-msgstr ""
-
-#.  inlude if needed, otherwise remove
-#. type: Title ===
-#: description.en.adoc:35
-#, no-wrap
-msgid "Certification"
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:38
 msgid ""
-"Upon successful completion of the course and successful assessment of "
-"assignments (by trainers/mentors), participants have the opportunity to "
-"receive an official certification in the form of a Mozilla Open Badge."
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:40
-msgid ""
-"Participants are required to submit ... and it is scored against the "
-"educational rubrics for the course."
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:42
-msgid "An overall score of ??? earns a BASIC badge"
-msgstr ""
-
-#. type: Plain text
-#: description.en.adoc:42
-msgid "An overall score of ??? earns an ADVANCED badge"
+"This tutorial is for anyone interested in discovering, curating and "
+"publishing taxonomic checklists."
 msgstr ""
 
 #. type: Title ==
