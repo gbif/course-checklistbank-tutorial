@@ -38,7 +38,7 @@ image::img/web/CLB-browse-Alucitoidea.png[align=center]
 * https://dwc.tdwg.org/list/[Darwin Core Archive] (dwca): commonly used standard for biodiversity data.
 * Annual Checklist Exchange Format (acef): data format previously used by Catalogue of Life.
 * https://github.com/gbif/text-tree[TextTree]: a simple format to represent taxonomic trees using indented, plain text.
-* https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package (coldp): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life. 
+* https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (coldp): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life. 
 * https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data. 
 * http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools.
 
