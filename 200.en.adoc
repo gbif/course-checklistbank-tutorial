@@ -7,6 +7,8 @@ Please make sure you are logged in to ChecklistBank. If you don't know how to do
 
 Once you are logged in, you can search for a checklist.
 
-* 1. Click on Datasets in the menu on the left.
+1. Click on Datasets in the menu on the left. +
 This will bring you to the dataset search page.
+
+
 
