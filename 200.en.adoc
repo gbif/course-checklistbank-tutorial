@@ -38,6 +38,13 @@ image::img/web/Quercus-GBIF.png[align=center]
 
 This example shows that by using the  'taxonomic name usage search' tool, you can make linkages to a biodiversity data infrastructure such as GBIF to explore further evidence of specimen records of a scientific name as deposited in a natural history museum. 
 
+*Exploring synonyms*
+
+You can also check whether the name that you have searched is used as a synonym for other names.
+
+Go back to the search page in the name usage tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’.
+
+You can now see that amongst the resources in ChecklistBank, there are four instances of _Quercus robur_ as a synonym.
 
 
 
