@@ -5,19 +5,19 @@ ChecklistBank includes >40,000 taxonomic checklists. You can search through thes
 
 Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps here.
 
-Once you are logged in, you can search for a checklist.
+*Search for a checklist*
 
-1. Click on Datasets in the menu on the left.
+. Click on Datasets in the menu on the left. +
 This will bring you to the dataset search page.
 
 image::img/web/CLB-search.png[align=center]
 
-2. You can use the Search field to type any keyword of the checklist you are searching for. Here are a few suggestions that you can use for this tutorial: +
+. You can use the Search field to type any keyword of the checklist you are searching for. Here are a few suggestions that you can use for this tutorial: +
 - search 'Annual Checklist 2021' : this will only give 1 result, the Catalogue of Life Checklist 2021.
 - search 'Carabcat': the top result shows the Carabcat checklist, a global database of ground beetles, but additionally it will also show COL Checklists in which this checklist was included (since 2021).
 - search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF.
 
-3. Let’s have a closer look at the information you can find for a particular dataset.
+. Let’s have a closer look at the information you can find for a particular dataset.
 In this example, we use the Carabcat dataset (https://www.checklistbank.org/dataset/1146/about).
 
 The menu on the left shows various options to explore this dataset:
