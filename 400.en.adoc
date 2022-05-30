@@ -13,6 +13,23 @@ image::img/web/CLB-tools-diff.png[align=left]
 
 === Example: _Acacia_ Mill.
 
+We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus Acacia Mill. are provided by the World Wide Wattle (Maslin 2018) checklist.
+
+When you open the tool, the start screen of the 'difference viewer' allows you to choose two datasets to make the comparison on the basis of scientific names. 
+
+1. For dataset 1: start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. 
+
+2. For dataset 2: type COL 2021, and select the COL21 Annual Checklist 2021.
+
+3. For both datasets, select Acacia (genus) in the boxes ‘Find taxon’.
+
+You can choose whether the scientific name comparisons should include authorship and synonyms, and whether the parent should be shown in the results.
+
+Once you have made your selection, click ‘Get diff’.
+
+image::img/web/CLB-diff.png[align=center]
+
+
 
 
 
