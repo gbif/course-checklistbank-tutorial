@@ -24,6 +24,13 @@ The menu on the left shows various options to explore this dataset:
 
 *About*: here you can find all the metadata about this dataset including the author and contact person, the version of the dataset and date of when it was issued, licensing information and how to cite this source, link to the website of the dataset (if applicable), taxonomic scope, etc.
 
+*Browse*: you can use this page to browse through the taxonomic tree for this particular checklist. This is useful to get a quick overview of which taxonomic levels and names are included in the checklist.
+
+This is the view if you unfold the taxonomic tree for the Alucitoidea checklist:
+image::img/web/CLB-browse-Alucitoidea.png[align=center]
+
+*Search*:  here you can search for specific taxonomic names. This functionality is most useful if you are looking for a particular name.
+
 *Download*: on this page you can download this dataset in various formats:
 * https://dwc.tdwg.org/list/ [Darwin Core Archive] (dwca): commonly used standard for biodiversity data.
 * Annual Checklist Exchange Format (acef): data format previously used by Catalogue of Life.
@@ -32,9 +39,7 @@ The menu on the left shows various options to explore this dataset:
 * https://en.wikipedia.org/wiki/Newick_format [Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data. 
 * http://www.graphviz.org/doc/info/lang.html [Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools.
 
-*Browse*
 
-*Search*
 
 *Imports*
 
