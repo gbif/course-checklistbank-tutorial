@@ -4,5 +4,6 @@
 Please make sure you are logged in to ChecklistBank. If you don’t know how to do that, follow the steps here (link back to login tutorial page).
 
 You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘name match’.
+
 image::img/web/CLB-tools-diff.png[align=left]
 
