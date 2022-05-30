@@ -18,8 +18,9 @@ You can use the Search field to type any keyword of the checklist you are search
 - search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF.
 
 *Explore a checklist*
+
 Let’s have a closer look at the information you can find for a particular dataset.
-In this example, we use the Carabcat dataset (https://www.checklistbank.org/dataset/1146/about).
+In this example, we use the https://www.checklistbank.org/dataset/2207/about [Alucitoidea dataset] by Donald Hobern.
 
 The menu on the left shows various options to explore this dataset:
 
