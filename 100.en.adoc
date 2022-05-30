@@ -7,3 +7,5 @@ Use the following steps to login to ChecklistBank:
 3. Login with your GBIF account
 If you don’t have a GBIF account yet, use the ‘register at gbif.org now!’ link.
 
+image::img/web/Correctness.svg[align=center,width=640,height=360]
+
