@@ -30,5 +30,12 @@ A blue box will appear with the number of names that will be matched.
 
 image::img/web/CLB--match-Acacia.png[align=center]
 
+The results of the matching can either be explored in a web page or downloaded as a CSV file. +
+The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset). +
+The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist (usage in COL v), or the names that do not have a match (NO usage in COL v).
+
+image::img/web/CLB--match-result.png[align=center]
+
+
 
 
