@@ -18,7 +18,7 @@ We showcase the functionality and usability of the 'taxonomic name usage search'
 1. Type Quercus robur in the search bar
 2. Select Exact in the options.
 
-The matching is set to be 'Exact'. This matching ensures that all results relate to tree taxa in the family of the Fagaceae plant family. If the matching on 'Words' is used, zoological taxa (for example _Stomaphis quercus_ (Linnaeus, 1758) from the Fauna Europaea dataset would also appear.
+Setting the matching to 'Exact' ensures that all results relate to tree taxa in the family of the Fagaceae plant family. If the matching on 'Words' is used, zoological taxa (for example _Stomaphis quercus_ (Linnaeus, 1758) from the Fauna Europaea dataset would also appear.
 
 The search results show all datasets in ChecklistBank where the scientific name _Quercus robur_ L. appears in. The screenshot below shows that this scientific name appears in 52 datasets in ChecklistBank (this includes all COL Checklist releases).
 
