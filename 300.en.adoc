@@ -17,7 +17,7 @@ image::img/web/CLB-tools-match.png[align=left]
 
 In this tutorial, we showcase the functionality of the name match tool with a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae.
 
-When you open the tool, the Catalogue of Life Checklist is already selected. This is always the latest version.
+When you open the tool, the Catalogue of Life Checklist is already selected. This is always the latest release.
 
 1. Select the ‘WCVP-Fabaceae [2304]’ dataset under ‘Or select a subject dataset’. This is a dataset from the Legume Phylogeny Working Group 2021. +
 You can type the first letters and then a drop down will appear.
