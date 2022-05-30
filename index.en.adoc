@@ -19,7 +19,6 @@ endif::backend-pdf[]
 // add cover image to img directory and update filename below
 ifndef::backend-pdf[]
 :figure-caption!:
-.this is the image caption
 image::img/logos/clb-col-dark.png[align=center,width=640,height=360]
 endif::backend-pdf[]
 
