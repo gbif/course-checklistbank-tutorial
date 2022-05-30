@@ -2,41 +2,19 @@
 == Description
 
 ****
-this is the description...
+ChecklistBank is a platform to support the publication and curation of taxonomic checklists. The platform is developed and maintained in a joint effort by the Global Biodiversity Information Facility (GBIF) and the Catalogue of Life (COL).
 
-Topics include:
+ChecklistBank includes all checklists that form the Catalogue of Life Checklist, which are primarily global species lists provided by specific taxonomic communities. However, there are many other sources and uses for taxonomic checklists, such as national or local species lists, lists that share a common attribute such as red lists or invasive species lists, or lists that summarise taxonomic publications. Through ChecklistBank, we facilitate the discovery, use and citation of these valuable resources.
+ 
+Currently, ChecklistBank provides a suite of tools to explore the repository but also to further investigate particular taxonomic checklists. In this tutorial, we provide 4 exercises to explore these tools:
 
-* Topic
-* Topic
-* Topic
-* Topic
+1. Explore the ChecklistBank repository
+2. Explore the nameusage tool
+3. Explore the namematch tool
+4. Explorethe diff viewer tool
 
-This course is comprised of ... 
-Second sentence...
 ****
 
 === Audience
-This course is for...
+This tutorial is for anyone interested in discovering, curating and publishing taxonomic checklists.
 
-=== Prerequisites
-
-. prerequisite 1 if any
-
-. prerequisite 2 if any
-
-=== Learning objectives
-
-* Objective
-* Objective
-* Objective
-* Objective
-
-// inlude if needed, otherwise remove
-=== Certification
-
-Upon successful completion of the course and successful assessment of assignments (by trainers/mentors), participants have the opportunity to receive an official certification in the form of a Mozilla Open Badge.
-
-Participants are required to submit ... and it is scored against the educational rubrics for the course. 
-
-* An overall score of ??? earns a BASIC badge
-* An overall score of ??? earns an ADVANCED badge
