@@ -1,5 +1,14 @@
-[multipage-level=2]
-== Explore the nameusage tool
+[multipage-level=1]
+== Name usage tool
+
+The 'taxonomic name usage search' gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, available in ChecklistBank.
+
+A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource. The 'taxonomic name usage search' can be accessed in ChecklistBank. The tool is in production and usable for the wider public.
+
+
+
+
+
 
 
 
