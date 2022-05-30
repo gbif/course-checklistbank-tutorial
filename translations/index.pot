@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-30 12:27+0000\n"
+"POT-Creation-Date: 2022-05-30 15:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,11 +42,6 @@ msgstr ""
 #: index.en.adoc:23
 #, no-wrap
 msgid "img/web/photo.jpg"
-msgstr ""
-
-#. type: Plain text
-#: index.en.adoc:31
-msgid "downloads.en.adoc[]"
 msgstr ""
 
 #. type: Title ==
@@ -101,7 +96,7 @@ msgstr ""
 
 #. type: delimited block *
 #: description.en.adoc:15
-msgid "Explorethe diff viewer tool"
+msgid "Explore the diff viewer tool"
 msgstr ""
 
 #. type: Title ===
