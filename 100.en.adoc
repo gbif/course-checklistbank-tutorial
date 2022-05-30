@@ -1,9 +1,13 @@
 [multipage-level=1]
 == Explore the ChecklistBank repository
 
-ChecklistBank includes >40,000 taxonomic checklists. You can search through these checklists and discover their metadata, browse taxon names, and also download the checklist in various formats.
+ChecklistBank is a public repository including over 40,000 taxonomic checklists. It is established to simplify FAIR data sharing for taxonomic and nomenclatural lists. It allows contributors to publish lists using a variety of typical data formats. Each list is then accessible through a standard API and reusable web browser components and can be cited using a ChecklistBank Digital Object Identifier. 
 
-Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps here.
+Data publishers benefit both by making their datasets accessible for reuse and attribution and also through ChecklistBank tools for data review and detection of possible issues. Some of the datasets in ChecklistBank serve as authoritative sources for sections of the Catalogue of Life Checklist, and new releases of the COL Checklist are also published as ChecklistBank datasets.
+
+You can search through the ChecklistBank repository and explore the information and content of each checklist. All checklists can also be downloaded in multiple formats.
+
+Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps here.
 
 === Search for a checklist
 
