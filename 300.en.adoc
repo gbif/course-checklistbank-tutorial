@@ -12,3 +12,23 @@ Please make sure you are logged in to ChecklistBank. If you don’t know how to 
 You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘name match’.
 
 image::img/web/CLB-tools-match.png[align=left]
+
+=== Example 1: Acacia Mill.
+
+In this tutorial, we showcase the functionality of the name match tool with a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae.
+
+When you open the tool, the Catalogue of Life Checklist is already selected. This is always the latest version.
+
+1. Select the ‘WCVP-Fabaceae [2304]’ dataset under ‘Or select a subject dataset’. This is a dataset from the Legume Phylogeny Working Group 2021. +
+You can type the first letters and then a drop down will appear.
+
+Note that you can also upload your own csv file here, but for the tutorial we use an already existing checklist in ChecklistBank.
+
+2. Choose under ‘And a root taxon’ the genus Acacia.
+
+A blue box will appear with the number of names that will be matched.
+
+image::img/web/CLB--match-Acacia.png[align=center]
+
+
+
