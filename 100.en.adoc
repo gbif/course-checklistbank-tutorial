@@ -12,6 +12,7 @@ Click on Datasets in the menu on the left. This will bring you to the dataset se
 image::img/web/CLB-search.png[align=center]
 
 You can use the Search field to type any keyword of the checklist you are searching for. Here are a few suggestions that you can use for this tutorial:
+
 - search 'Annual Checklist 2021' : this will only give 1 result, the Catalogue of Life Checklist 2021.
 - search 'Carabcat': the top result shows the Carabcat checklist, a global database of ground beetles, but additionally it will also show COL Checklists in which this checklist was included (since 2021).
 - search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF.
