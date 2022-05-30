@@ -2,6 +2,7 @@
 ChecklistBank login
 
 Use the following steps to login to ChecklistBank:
+
 1. Go to https://www.checklistbank.org/
 2. Click on Login (top right)
 3. Login with your GBIF account
