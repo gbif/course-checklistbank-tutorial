@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-30 15:30+0000\n"
+"POT-Creation-Date: 2022-05-30 15:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,10 +53,11 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:6
 msgid ""
-"ChecklistBank is a platform to support the publication and curation of "
-"taxonomic checklists. The platform is developed and maintained in a joint "
-"effort by the Global Biodiversity Information Facility (GBIF) and the "
-"Catalogue of Life (COL)."
+"ChecklistBank is a platform that provides a data repository for taxonomic "
+"and nomenclatural data sources to support the publication and curation of "
+"these sources. It is an integral part of the infrastructure developed and "
+"maintained by the Catalogue of Life (COL) and the Global Biodiversity "
+"Information Facility (GBIF)."
 msgstr ""
 
 #. type: delimited block *
