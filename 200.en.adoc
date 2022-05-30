@@ -31,6 +31,8 @@ This brings you to the record of this name, which includes its original resource
 
 This brings you to the GBIF webpage for an occurrence record for the scientific name _Quercus robur L., which provides details of the type specimen (a lectotype) for the species. A lectotype is a specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type. 
 
+image::img/web/Quercus-GBIF.png[align=center]
+
 This example shows that by using the  'taxonomic name usage search' tool, you can make linkages to a biodiversity data infrastructure such as GBIF to explore further evidence of specimen records of a scientific name as deposited in a natural history museum. 
 
 
