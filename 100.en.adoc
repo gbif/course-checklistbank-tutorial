@@ -20,7 +20,7 @@ You can use the Search field to type any keyword of the checklist you are search
 *Explore a checklist*
 
 Let’s have a closer look at the information you can find for a particular dataset.
-In this example, we use the https://www.checklistbank.org/dataset/2207/about [Alucitoidea dataset] by Donald Hobern.
+In this example, we use the https://www.checklistbank.org/dataset/2207/about[Alucitoidea dataset] by Donald Hobern.
 
 The menu on the left shows various options to explore this dataset:
 
@@ -34,12 +34,13 @@ image::img/web/CLB-browse-Alucitoidea.png[align=center]
 *Search*:  here you can search for specific taxonomic names. This functionality is most useful if you are looking for a particular name.
 
 *Download*: on this page you can download this dataset in various formats:
-* https://dwc.tdwg.org/list/ [Darwin Core Archive] (dwca): commonly used standard for biodiversity data.
+
+* https://dwc.tdwg.org/list/[Darwin Core Archive] (dwca): commonly used standard for biodiversity data.
 * Annual Checklist Exchange Format (acef): data format previously used by Catalogue of Life.
-* https://github.com/gbif/text-tree [TextTree]: a simple format to represent taxonomic trees using indented, plain text.
-* https://github.com/CatalogueOfLife/coldp [Catalogue of Life Data Package (coldp): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life. 
-* https://en.wikipedia.org/wiki/Newick_format [Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data. 
-* http://www.graphviz.org/doc/info/lang.html [Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools.
+* https://github.com/gbif/text-tree[TextTree]: a simple format to represent taxonomic trees using indented, plain text.
+* https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package (coldp): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life. 
+* https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data. 
+* http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools.
 
 
 
