@@ -1,5 +1,5 @@
 [multipage-level=1]
-== The diff viewer tool
+== Difference viewer
 
 Please make sure you are logged in to ChecklistBank. If you don’t know how to do that, follow the steps here (link back to login tutorial page).
 
