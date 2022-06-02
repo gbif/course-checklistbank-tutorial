@@ -28,13 +28,13 @@ include::description.en.adoc[]
 
 include::login.en.adoc[]
 
-include::100.en.adoc[]
+include::explore-clb.en.adoc[]
 
-include::200.en.adoc[]
+include::name-usage.en.adoc[]
 
-include::300.en.adoc[]
+include::name-match.en.adoc[]
 
-include::400.en.adoc[]
+include::diff-viewer.en.adoc[]
 
 include::downloads.en.adoc[]
 
