@@ -1,7 +1,7 @@
 [multipage-level=1]
-== Difference viewer
+== Diff viewer
 
-The 'difference viewer' allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis. 
+The 'diff viewer' allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis. 
 
 All datasets in ChecklistBank can be compared including the COL Checklist releases. The tool provides an overview of the differences in scientific names between datasets. The set of names to be compared can be filtered by various parameters, and a root taxon can also be selected to include only a certain group. Synonyms and names below a certain rank can be excluded on demand, i.e. you can just compare accepted genera or families.
 
@@ -15,7 +15,7 @@ image::img/web/CLB-tools-diff.png[align=left, width=300]
 
 We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus Acacia Mill. are provided by the World Wide Wattle (Maslin 2018) checklist.
 
-When you open the tool, the start screen of the 'difference viewer' allows you to choose two datasets to make the comparison on the basis of scientific names. 
+When you open the tool, the start screen of the 'diff viewer' allows you to choose two datasets to make the comparison on the basis of scientific names. 
 
 1. For dataset 1: start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. 
 
