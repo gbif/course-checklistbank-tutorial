@@ -31,6 +31,7 @@ image::img/web/CLB-diff-Lysiloma.png[align=center]
 
 The results of the comparison can be explored in the webpage. You can see two columns, one for each dataset. Scientific name differences are shown in each column where a '-' or '+' sign indicates in which dataset the difference occurs. The results of the comparisons can also be downloaded in a CSV file for further investigation.
 
-CH TO DO: include results and explain.
+image::img/web/CLB-diff-Lysiloma-result.png[align=center]
+
 
 
