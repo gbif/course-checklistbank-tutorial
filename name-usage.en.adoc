@@ -1,19 +1,19 @@
 [multipage-level=1]
-== Name usage tool
+== Cross dataset search
 
-The 'taxonomic name usage search' gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, available in ChecklistBank.
+The 'cross dataset search' gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, that are available in ChecklistBank.
 
 A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource. The 'taxonomic name usage search' can be accessed in ChecklistBank. The tool is in production and usable for the wider public.
 
-Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps here (link back to login tutorial page).
+Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps https://docs.gbif-uat.org/course-checklistbank-tutorial/en/checklistbank-login.html[here].
 
-You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘nameusage search’.
+You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Cross dataset search’.
 
 image::img/web/CLB-tools-usage.png[align=left, width=300]
 
 === Example 1: _Quercus robur_ L.
 
-We showcase the functionality and usability of the 'taxonomic name usage search' by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
+We showcase the functionality and usability of the 'cross dataset search' by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
 
 . Type Quercus robur in the search bar
 . Select Exact in the options.
@@ -36,7 +36,7 @@ This brings you to the GBIF webpage for an occurrence record for the scientific 
 
 image::img/web/Quercus-GBIF.png[align=center]
 
-This example shows that by using the  'taxonomic name usage search' tool, you can make linkages to a biodiversity data infrastructure such as GBIF to explore further evidence of specimen records of a scientific name as deposited in a natural history museum. 
+This example shows that by using the 'cross dataset search' tool, you can make linkages to a biodiversity data infrastructure such as GBIF to explore further evidence of specimen records of a scientific name as deposited in a natural history museum. 
 
 *Exploring synonyms*
 
