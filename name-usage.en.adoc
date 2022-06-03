@@ -1,9 +1,9 @@
 [multipage-level=1]
 == Cross dataset search
 
-The 'cross dataset search' gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, that are available in ChecklistBank.
+The 'cross dataset search' tool gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, that are available in ChecklistBank.
 
-A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource. The 'taxonomic name usage search' can be accessed in ChecklistBank. The tool is in production and usable for the wider public.
+A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource. The 'cross dataset search' tool can be accessed in ChecklistBank.
 
 Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps https://docs.gbif-uat.org/course-checklistbank-tutorial/en/checklistbank-login.html[here].
 
@@ -13,7 +13,7 @@ image::img/web/CLB-tools-dataset-search.png[align=left, width=300]
 
 === Example: _Quercus robur_ L.
 
-We showcase the functionality and usability of the 'cross dataset search' by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
+We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
 
 . Type Quercus robur in the search bar
 . Select Exact in the options.
@@ -42,7 +42,7 @@ This example shows that by using the 'cross dataset search' tool, you can make l
 
 You can also check whether the name that you have searched is used as a synonym for other names.
 
-Go back to the search page in the name usage tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’.
+Go back to the search page in the 'cross dataset search' tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’.
 
 You can now see that amongst the resources in ChecklistBank, there are four instances of _Quercus robur_ as a synonym.
 
