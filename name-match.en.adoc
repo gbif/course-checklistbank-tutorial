@@ -32,6 +32,8 @@ Step 3. Click Match
 
 image::img/web/CLB-match-Acacia.png[align=center]
 
+*Results*
+
 The results of the matching can either be explored in a web page or downloaded as a CSV file.
 
 The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset). +
