@@ -11,9 +11,9 @@ ChecklistBank is provided as a fundamental tool to ensure that basic data on spe
 Currently, ChecklistBank provides a suite of tools to explore the repository, but also to further investigate particular taxonomic checklists. In this tutorial, we provide 4 exercises to explore these tools:
 
 1. Explore the *ChecklistBank repository*: search, inspect and download checklists.
-2. *Name usage* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.
+2. *Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.
 3. *Name match* tool: enables comparison of the COL Checklist with one or two other datasets in ChecklistBank in terms of taxon name matching.
-4. *Difference viewer* tool: allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis.
+4. *Diff viewer* tool: allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis.
 
 ****
 
