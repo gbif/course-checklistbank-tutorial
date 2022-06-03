@@ -9,7 +9,7 @@ To use this tool, you can upload a custom CSV file for comparison. Please note t
 
 Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps https://docs.gbif-uat.org/course-checklistbank-tutorial/en/checklistbank-login.html[here].
 
-You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘name match’.
+You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’.
 
 image::img/web/CLB-tools-match.png[align=left, width=300]
 
@@ -33,7 +33,7 @@ image::img/web/CLB-match-Acacia.png[align=center]
 
 The results of the matching can either be explored in a web page or downloaded as a CSV file. +
 The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset). +
-The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist (usage in COL v), or the names that do not have a match (NO usage in COL v).
+The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist (usage in COL), or the names that do not have a match (NO usage in COL).
 
 image::img/web/CLB-match-result.png[align=center]
 
