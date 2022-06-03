@@ -13,7 +13,7 @@ You can find the tool in the menu on the left. Expand the Tools menu by clicking
 
 image::img/web/CLB-tools-match.png[align=left, width=300]
 
-=== Example 1: Acacia Mill.
+=== Example: Acacia Mill.
 
 In this tutorial, we showcase the functionality of the name match tool with a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae.
 
