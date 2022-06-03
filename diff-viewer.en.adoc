@@ -5,7 +5,7 @@ The 'diff viewer' allows for comparison of two taxonomic datasets in ChecklistBa
 
 All datasets in ChecklistBank can be compared including the COL Checklist releases. The tool provides an overview of the differences in scientific names between datasets. The set of names to be compared can be filtered by various parameters, and a root taxon can also be selected to include only a certain group. Synonyms and names below a certain rank can be excluded on demand, i.e. you can just compare accepted genera or families.
 
-Please make sure you are logged in to ChecklistBank. If you don’t know how to do that, follow the steps here (link back to login tutorial page).
+Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps https://docs.gbif-uat.org/course-checklistbank-tutorial/en/checklistbank-login.html[here].
 
 You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘diff viewer’.
 
