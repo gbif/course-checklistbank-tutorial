@@ -7,13 +7,13 @@ All datasets in ChecklistBank can be compared including the COL Checklist releas
 
 Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps https://docs.gbif-uat.org/course-checklistbank-tutorial/en/checklistbank-login.html[here].
 
-You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘diff viewer’.
+You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Diff viewer’.
 
 image::img/web/CLB-tools-diff.png[align=left, width=300]
 
-=== Example: _Acacia_ Mill.
+=== Example: Lysiloma (genus in Fabaceae)
 
-We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus Acacia Mill. are provided by the World Wide Wattle (Maslin 2018) checklist.
+We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus Lysiloma are provided by the ILDIS World Database of Legumes checklist (Roskov et al. 2014).
 
 When you open the tool, the start screen of the 'diff viewer' allows you to choose two datasets to make the comparison on the basis of scientific names. 
 
@@ -21,13 +21,13 @@ When you open the tool, the start screen of the 'diff viewer' allows you to choo
 
 2. For dataset 2: type COL 2021, and select the COL21 Annual Checklist 2021.
 
-3. For both datasets, select Acacia (genus) in the boxes ‘Find taxon’.
+3. For both datasets, select Lysiloma (genus) in the boxes ‘Find taxon’.
 
-You can choose whether the scientific name comparisons should include authorship and synonyms, and whether the parent should be shown in the results.
+You can choose whether the scientific name comparisons should include authorship and synonyms, and whether the parent should be shown in the results. For this example, select all three boxes.
 
 Once you have made your selection, click ‘Get diff’.
 
-image::img/web/CLB-diff.png[align=center]
+image::img/web/CLB-diff-Lysiloma.png[align=center]
 
 The results of the comparison can be explored in the webpage. You can see two columns, one for each dataset. Scientific name differences are shown in each column where a '-' or '+' sign indicates in which dataset the difference occurs. The results of the comparisons can also be downloaded in a CSV file for further investigation.
 
