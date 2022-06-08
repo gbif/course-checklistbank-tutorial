@@ -17,16 +17,16 @@ We use the Fabaceae checklist, which was also used in the ‘name match tool’ 
 
 When you open the tool, the start screen of the 'diff viewer' allows you to choose two datasets to make the comparison on the basis of scientific names. 
 
-Step 1. For dataset 1: start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. 
+. For dataset 1: start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. 
 
-Step 2. For dataset 2: type COL 2021, and select the COL21 Annual Checklist 2021.
+. For dataset 2: type COL 2021, and select the COL21 Annual Checklist 2021.
 
-Step 3. For both datasets, select Lysiloma (genus) in the boxes ‘Find taxon’.
-
+. For both datasets, select Lysiloma (genus) in the boxes ‘Find taxon’.
++
 You can choose whether the scientific name comparisons should include authorship and synonyms, and whether the parent should be shown in the results. For this example, select all three boxes.
 
-Step 4. Once you have made your selection, click ‘Get diff’.
-
+. Once you have made your selection, click ‘Get diff’.
++
 image::img/web/CLB-diff-Lysiloma.png[align=center]
 
 *Results*
