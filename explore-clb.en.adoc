@@ -63,7 +63,7 @@ When you click on the count number it will take you to the search page displayin
 
 *References*: these are the references used to generate this checklist.
 
-*Verbatim*: CH to ask Markus what this means.
+*Verbatim*: this shows the exact data as it was supplied without any alterations done by the importer to best fit the ChecklistBank data model. You can perform a full text search and browse the csv files. This page can be useful for data providers in debugging why ChecklistBank has interpreted things in a particular way, but also for others to search the original data and browse it.
 
 
 
