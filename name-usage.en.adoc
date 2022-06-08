@@ -27,17 +27,17 @@ image::img/web/CLB-name-usage.png[align=center]
 
 Through these results, it is possible to explore individual datasets in ChecklistBank which include _Quercus robur_ L. Several options for filtering the search results are also available.
 
-Step 3: Click on the Scientific Name (Quercus robur) for the Dataset ‘GBIF Type Specimen Names’ (the first one in the list).
+Step 3: Click on the Scientific Name (Quercus robur Asso) for the Dataset ‘World Flora Online consortium’.
 
 This brings you to the record of this name, which includes its original resource.
 
 Step 4: Click on the link of the Online Resource.
 
-This brings you to the GBIF webpage for an occurrence record for the scientific name _Quercus robur L., which provides details of the type specimen (a lectotype) for the species. A lectotype is a specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type. 
+This brings you to the information page about this name of the original source checklist.
 
-image::img/web/Quercus-GBIF.png[align=center]
+image::img/web/Quercus-WFO.png[align=center]
 
-This example shows that by using the 'cross dataset search' tool, you can make linkages to a biodiversity data infrastructure such as GBIF to explore further evidence of specimen records of a scientific name as deposited in a natural history museum. 
+This example shows that by using the 'cross dataset search' tool, you can make linkages to other data providers to explore further evidence of a scientific name.
 
 *Exploring synonyms*
 
@@ -45,4 +45,4 @@ You can also check whether the name that you have searched is used as a synonym 
 
 Go back to the search page in the 'cross dataset search' tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’.
 
-You can now see that amongst the resources in ChecklistBank, there are four instances of _Quercus robur_ as a synonym.
+You can now see that amongst the resources in ChecklistBank, there are five instances of _Quercus robur_ as a synonym.
