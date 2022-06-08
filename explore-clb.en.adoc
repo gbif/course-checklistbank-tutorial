@@ -56,7 +56,8 @@ For example, if we choose ‘genus’ all levels below will be excluded, thus sp
 
 The download consists of a zip file containing several tsv files of which the file ‘NameUsage.tsv’ includes the names in the checklist. 
 
-*Imports*: this shows the history and metrics of the import of this checklist into ChecklistBank including the different versions of the checklist. The timeline compares counts across imports, making it possible to see the growth in taxon counts, new datatypes added, etc.
+*Imports*: this shows the history and metrics of the import of this checklist into ChecklistBank including the different versions of the checklist. The timeline compares counts across imports, making it possible to see the growth in taxon counts, new datatypes added, etc. +
+Note: for the Catalogue of Life monthly and annual releases, the Imports is not available, because each release is a new checklist. For these checklists, there is just a Metrics page.
 
 *Issues*: this lists the issues found by automatic checks. When you hover your mouse over a particular issue it will show the definition of that issue. A full list of all issues can be found http://api.checklistbank.org/vocab/issue[here]. +
 When you click on the count number it will take you to the search page displaying the names with that particular issue.
