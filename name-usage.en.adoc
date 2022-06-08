@@ -5,7 +5,7 @@ The 'cross dataset search' tool gives an overview of the appearance of a particu
 
 A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource. The 'cross dataset search' tool can be accessed in ChecklistBank.
 
-Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps https://docs.gbif-uat.org/course-checklistbank-tutorial/en/checklistbank-login.html[here].
+Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>.
 
 You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Cross dataset search’.
 
@@ -45,14 +45,3 @@ You can also check whether the name that you have searched is used as a synonym 
 Go back to the search page in the 'cross dataset search' tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’.
 
 You can now see that amongst the resources in ChecklistBank, there are four instances of _Quercus robur_ as a synonym.
-
-
-
-
-
-
-
-
-
-
-

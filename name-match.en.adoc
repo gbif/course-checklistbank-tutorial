@@ -7,7 +7,7 @@ Matching is performed against the COL Checklist, by default this is always perfo
 
 To use this tool, you can upload a custom CSV file for comparison. Please note that there is a limit to matching a maximum of 6000 taxon names in one request. The results of the matchings can be explored in web pages in ChecklistBank or downloaded as a CSV file.
 
-Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps https://docs.gbif-uat.org/course-checklistbank-tutorial/en/checklistbank-login.html[here].
+Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>.
 
 You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’.
 
@@ -40,7 +40,3 @@ The first column lists the scientific name from the provided dataset (in this ca
 The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist (usage in COL), or the names that do not have a match (NO usage in COL).
 
 image::img/web/CLB-match-result.png[align=center]
-
-
-
-

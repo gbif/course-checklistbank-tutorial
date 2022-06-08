@@ -7,7 +7,7 @@ Data publishers benefit both by making their datasets accessible for reuse and a
 
 You can search through the ChecklistBank repository and explore the information and content of each checklist. All checklists can also be downloaded in multiple formats.
 
-Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps here.
+Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>.
 
 === Search for a checklist
 
