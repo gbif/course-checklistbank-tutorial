@@ -36,8 +36,6 @@ include::name-match.en.adoc[]
 
 include::diff-viewer.en.adoc[]
 
-include::downloads.en.adoc[]
-
 include::glossary.en.adoc[]
 
 include::colophon.en.adoc[]
