@@ -15,7 +15,8 @@ image::img/web/CLB-tools-dataset-search.png[align=left, width=300]
 
 We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
 
-Step 1: Type Quercus robur in the search bar
+Step 1: Type Quercus robur in the search bar.
+
 Step 2: Select Exact in the options.
 
 Setting the matching to 'Exact' ensures that all results relate to tree taxa in the family of the Fagaceae plant family. If the matching on 'Words' is used, zoological taxa (for example _Stomaphis quercus_ (Linnaeus, 1758) from the Fauna Europaea dataset would also appear.
