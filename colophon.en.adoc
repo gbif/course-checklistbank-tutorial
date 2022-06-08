@@ -2,17 +2,17 @@
 
 === Suggested citation
 
-GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th edition. GBIF Secretariat: Copenhagen.
+Catalogue of Life and GBIF Secretariats (2022) ChecklistBank Tutorial, version 1.
 // Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 [Date of course.]
 
 === Contributors
 
-The _Course Name_ was originally developed as part of ..., a programme funded by the ... The original curriculum was created by Name 1, Name 2, Name 3.
+The ChecklistBank tutorial was developed as part of workshop series at various international meetings. The content is created and updated by Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, and Joe Miller.
 
 === Licence
 
-_Course Name_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The ChecklistBank tutorial is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 // Uncomment once a DOI is assigned.
 //=== Persistent URI
@@ -21,4 +21,4 @@ _Course Name_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[C
 
 === Document control
 
-Third edition, April 2020
+First edition, June 2022
