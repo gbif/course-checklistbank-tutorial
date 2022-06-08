@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-06-08 16:06+0000\n"
+"POT-Creation-Date: 2022-06-08 16:12+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -555,8 +555,8 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:7
 msgid ""
-"GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th "
-"edition. GBIF Secretariat: Copenhagen."
+"Catalogue of Life and GBIF Secretariats (2022) ChecklistBank Tutorial, "
+"version 1."
 msgstr ""
 
 #. type: Title ===
@@ -568,9 +568,10 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid ""
-"The _Course Name_ was originally developed as part of ..., a programme "
-"funded by the ... The original curriculum was created by Name 1, Name 2, "
-"Name 3."
+"The ChecklistBank tutorial was developed as part of workshop series at "
+"various international meetings. The content is created and updated by "
+"Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, "
+"and Joe Miller."
 msgstr ""
 
 #. type: Title ===
@@ -582,7 +583,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid ""
-"_Course Name_ is licensed under "
+"The ChecklistBank tutorial is licensed under "
 "https://creativecommons.org/licenses/by-sa/4.0[Creative Commons "
 "Attribution-ShareAlike 4.0 Unported License]."
 msgstr ""
@@ -599,7 +600,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:24
-msgid "Third edition, April 2020"
+msgid "First edition, June 2022"
 msgstr ""
 
 #. type: Plain text
