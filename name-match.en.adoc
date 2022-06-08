@@ -19,24 +19,28 @@ In this tutorial, we showcase the functionality of the name match tool with a co
 
 When you open the tool, the Catalogue of Life Checklist is already selected. This is always the latest release.
 
-Step 1. Select the ‘WCVP-Fabaceae [2304]’ dataset under ‘Or select a subject dataset’. +
+. Select the ‘WCVP-Fabaceae [2304]’ dataset under ‘Or select a subject dataset’.
++
+--
 This is a dataset from the Legume Phylogeny Working Group 2021, which is a group of Fabaceae specialists that have worked on a comprehensive global taxonomic list for this taxon. +
 You can type the first letters and then a drop down will appear.
 
-Note that you can also upload your own csv file here, but for the tutorial we use an already existing checklist in ChecklistBank.
+Note that you can also upload your own CSV file here, but for the tutorial we use an already existing checklist in ChecklistBank.
+--
 
-Step 2. Choose under ‘And a root taxon’ the genus Acacia.
+. Choose under ‘And a root taxon’ the genus Acacia.
 A blue box will appear with the number of names that will be matched.
 
-Step 3. Click Match
-
+. Click Match
++
 image::img/web/CLB-match-Acacia.png[align=center]
 
 *Results*
 
 The results of the matching can either be explored in a web page or downloaded as a CSV file.
 
-The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset). +
+The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset).
+
 The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist (usage in COL), or the names that do not have a match (NO usage in COL).
 
 image::img/web/CLB-match-result.png[align=center]
