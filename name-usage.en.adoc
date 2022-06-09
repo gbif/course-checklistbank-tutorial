@@ -27,17 +27,17 @@ image::img/web/CLB-name-usage.png[align=center]
 
 Through these results, it is possible to explore individual datasets in ChecklistBank which include _Quercus robur_ L. Several options for filtering the search results are also available.
 
-Step 3: Click on the Scientific Name (Quercus robur Asso) for the Dataset ‘World Flora Online consortium’.
+Step 3: Click on the Scientific Name (Quercus robur L.) for the Dataset ‘World Checklist of Selected Plant Families’.
 
 This brings you to the record of this name, which includes its original resource.
 
 Step 4: Click on the link of the Online Resource.
 
-This brings you to the information page about this name of the original source checklist.
+This brings you to the information page about this name of the original source, in this case the International Plant Names Index (IPNI).
 
-image::img/web/Quercus-WFO.png[align=center]
+image::img/web/Quercus-IPNI.png[align=center]
 
-This example shows that by using the 'cross dataset search' tool, you can make linkages to other data providers to explore further evidence of a scientific name.
+This example shows that by using the 'cross dataset search' tool, you can make linkages to other infrastructures to explore further evidence of a scientific name.
 
 *Exploring synonyms*
 
