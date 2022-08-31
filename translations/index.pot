@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-06-08 16:12+0000\n"
+"POT-Creation-Date: 2022-08-31 08:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -109,8 +109,8 @@ msgstr ""
 #: description.en.adoc:17
 #, no-wrap
 msgid ""
-"*Diff viewer* tool: allows for comparison of two taxonomic datasets in "
-"ChecklistBank on a scientific name by scientific name basis.\n"
+"*Dataset comparison* tool: allows for comparison of two taxonomic datasets "
+"in ChecklistBank on a scientific name by scientific name basis.\n"
 msgstr ""
 
 #. type: Title ===
