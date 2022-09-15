@@ -1,7 +1,7 @@
 [multipage-level=1]
-== Diff viewer
+== Dataset comparison
 
-The 'diff viewer' allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis. 
+The 'dataset comparison' allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis. 
 
 All datasets in ChecklistBank can be compared including the COL Checklist releases. The tool provides an overview of the differences in scientific names between datasets. The set of names to be compared can be filtered by various parameters, and a root taxon can also be selected to include only a certain group. Synonyms and names below a certain rank can be excluded on demand, i.e. you can just compare accepted genera or families.
 
@@ -17,13 +17,27 @@ We use the Fabaceae checklist, which was also used in the ‘name match tool’ 
 
 When you open the tool, the start screen of the 'diff viewer' allows you to choose two datasets to make the comparison on the basis of scientific names. 
 
-Step 1. For dataset 1: start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. 
+Step 1. Select dataset 1
 
-Step 2. For dataset 2: type COL 2021, and select the COL21 Annual Checklist 2021.
+- Start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. +
+- In the box 'Find taxon', type 'Lysiloma' and select it.
 
-Step 3. For both datasets, select Lysiloma (genus) in the boxes ‘Find taxon’.
+Step 2. Select dataset 2
 
-You can choose whether the scientific name comparisons should include authorship and synonyms, and whether the parent should be shown in the results. For this example, select all three boxes.
+- Type COL 2021, and select the COL21 Annual Checklist 2021. +
+- Click on 'Go to Lysiloma' to select the same genus as in dataset 1.
+
+- Click on Show diff
+
+image::img/web/CLB-compare-selection.png[align=center]
+
+Step 3. Check you selection
+
+The next view shows you which datasets and roots you have selected. +
+You can choose whether the scientific name comparisons should include authorship and synonyms, for this example select both options. +
+Additionally, you can select whether to show the parent, and at which level. For this example, also select the box 'Show parent'.
+
+Click 'Get Diff'
 
 Step 4. Once you have made your selection, click ‘Get diff’.
 
@@ -35,7 +49,7 @@ The results of the comparison can be explored in the webpage.
 
 You can see two columns, one for each dataset. Scientific name differences are shown in each column where a '-' or '+' sign indicates in which dataset the difference occurs. The results of the comparisons can also be downloaded in a CSV file for further investigation.
 
-image::img/web/CLB-diff-Lysiloma-result.png[align=center]
+image::img/web/CLB-compare-Lysiloma-result.png[align=center]
 
 
 
