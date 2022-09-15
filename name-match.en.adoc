@@ -62,7 +62,7 @@ image::img/web/CLB-match-Acacia.png[align=center]
 Step 4. Review result
 
 The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset). +
-The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist (usage in COL), or the names that do not have a match (NO usage in COL).
+The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist 2021 (usage in COL21), or the names that do not have a match (NO usage in COL21).
 
 image::img/web/CLB-match-result.png[align=center]
 
