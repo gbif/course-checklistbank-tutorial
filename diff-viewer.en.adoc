@@ -11,11 +11,11 @@ You can find the tool in the menu on the left. Expand the Tools menu by clicking
 
 image::img/web/CLB-tools-compare.png[align=left, width=300]
 
-=== Example: Lysiloma (genus in Fabaceae)
+=== Example: _Lysiloma_ (genus in Fabaceae)
 
-We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus Lysiloma are provided by the ILDIS World Database of Legumes checklist (Roskov et al. 2014).
+We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus _Lysiloma_ are provided by the ILDIS World Database of Legumes checklist (Roskov et al. 2014).
 
-When you open the tool, the start screen of the 'diff viewer' allows you to choose two datasets to make the comparison on the basis of scientific names. 
+When you open the tool, the start screen of the dataset comparison allows you to choose two datasets to make the comparison on the basis of scientific names. 
 
 Step 1. Select dataset 1
 
