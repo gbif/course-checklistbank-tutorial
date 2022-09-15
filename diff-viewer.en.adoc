@@ -7,7 +7,7 @@ All datasets in ChecklistBank can be compared including the COL Checklist releas
 
 Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>.
 
-You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Diff viewer’.
+You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Dataset comparison’.
 
 image::img/web/CLB-tools-compare.png[align=left, width=300]
 
