@@ -9,7 +9,7 @@ image::img/web/CLB-tools-match.png[align=left, width=300]
 
 The user interface guides you through the steps to match your lists of interest.
 
-image::img/web/CLB-match-steps.png[align=left, width=300]
+image::img/web/CLB-match-steps.png[align=left]
 
 *Step 1: Select your input data*
 
