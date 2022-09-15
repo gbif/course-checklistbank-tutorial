@@ -49,15 +49,15 @@ This is a dataset from the Legume Phylogeny Working Group 2021, which is a group
 
 Step 2. Select your target data
 
-Instead of the COL Checklist 2022, we are using an older checklist as an example.
-- Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'.
+Instead of the COL Checklist 2022, we are using the previous annual checklist (COL21) as an example. +
+- Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +
 - Click Next.
-
-image::img/web/CLB-match-Acacia.png[align=center]
 
 Step 3. Matching
 
 The matching will start, please wait until it is complete.
+
+image::img/web/CLB-match-Acacia.png[align=center]
 
 Step 4. Review result
 
