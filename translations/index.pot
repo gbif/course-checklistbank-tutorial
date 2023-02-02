@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-08-31 08:50+0000\n"
+"POT-Creation-Date: 2023-02-02 11:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -569,9 +569,10 @@ msgstr ""
 #: colophon.en.adoc:12
 msgid ""
 "The ChecklistBank tutorial was developed as part of workshop series at "
-"various international meetings. The content is created and updated by "
-"Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, "
-"and Joe Miller."
+"various international meetings. Naturalis Biodiversity Center acknowledges "
+"the European Commission funded project Synthesys+ (grant agreement number "
+"823827). The content is created and updated by Chantal Huijbers, Olaf Bánki, "
+"Markus Döring, Thomas Stjernegaard Jeppesen, and Joe Miller."
 msgstr ""
 
 #. type: Title ===
