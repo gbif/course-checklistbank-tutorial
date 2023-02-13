@@ -25,7 +25,7 @@ First edition, June 2022
 
 [cols="3*^.^a",frame=none,grid=none]
 |=======================
-|image::img/logos/col_logo.svg[Catalogue of Life,height=3em]
-|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,height=3em]
-|image::img/logos/gbif-standard-logo-green.png[GBIF,height=3em]
+|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]
+|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,width=104,height=70]
+|image::img/logos/logo-gbif.svg[GBIF,width=174,height=70]
 |=======================
