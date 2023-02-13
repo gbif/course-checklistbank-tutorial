@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-02-13 14:20+0000\n"
+"POT-Creation-Date: 2023-02-13 14:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -557,7 +557,7 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:7
 msgid ""
-"Catalogue of Life and GBIF Secretariats (2022) ChecklistBank Tutorial, "
+"Catalogue of Life and GBIF Secretariat (2022) ChecklistBank Tutorial, "
 "version 1."
 msgstr ""
 
@@ -602,8 +602,44 @@ msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:24
+#: colophon.en.adoc:25
 msgid "First edition, June 2022"
+msgstr ""
+
+#. type: Positional ($1) AttributeList argument for macro 'image'
+#: colophon.en.adoc:26
+#, no-wrap
+msgid "Catalogue of Life logo"
+msgstr ""
+
+#. type: Target for macro image
+#: colophon.en.adoc:26
+#, no-wrap
+msgid "img/logos/650px-wide-CoL.ai"
+msgstr ""
+
+#. type: Positional ($1) AttributeList argument for macro 'image'
+#: colophon.en.adoc:27
+#, no-wrap
+msgid "EU flag"
+msgstr ""
+
+#. type: Target for macro image
+#: colophon.en.adoc:27
+#, no-wrap
+msgid "img/logos/normal-reproduction-low-resolution.jpg"
+msgstr ""
+
+#. type: Positional ($1) AttributeList argument for macro 'image'
+#: colophon.en.adoc:28
+#, no-wrap
+msgid "GBIF logo"
+msgstr ""
+
+#. type: Target for macro image
+#: colophon.en.adoc:28
+#, no-wrap
+msgid "img/logos/gbif-standard-logo-green.png"
 msgstr ""
 
 #. type: Plain text
