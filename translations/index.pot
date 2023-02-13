@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-02-13 14:45+0000\n"
+"POT-Creation-Date: 2023-02-13 14:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -606,40 +606,14 @@ msgstr ""
 msgid "First edition, June 2022"
 msgstr ""
 
-#. type: Positional ($1) AttributeList argument for macro 'image'
-#: colophon.en.adoc:26
-#, no-wrap
-msgid "Catalogue of Life logo"
-msgstr ""
-
-#. type: Target for macro image
-#: colophon.en.adoc:26
-#, no-wrap
-msgid "img/logos/col_logo.svg"
-msgstr ""
-
-#. type: Positional ($1) AttributeList argument for macro 'image'
-#: colophon.en.adoc:27
-#, no-wrap
-msgid "EU flag"
-msgstr ""
-
-#. type: Target for macro image
-#: colophon.en.adoc:27
-#, no-wrap
-msgid "img/logos/normal-reproduction-low-resolution.jpg"
-msgstr ""
-
-#. type: Positional ($1) AttributeList argument for macro 'image'
+#. type: Table
 #: colophon.en.adoc:28
 #, no-wrap
-msgid "GBIF logo"
-msgstr ""
-
-#. type: Target for macro image
-#: colophon.en.adoc:28
-#, no-wrap
-msgid "img/logos/gbif-standard-logo-green.png"
+msgid ""
+"|image::img/logos/col_logo.svg[Catalogue of Life "
+"logo,width=25%,height=25%,align=left]|image::img/logos/normal-reproduction-low-resolution.jpg[EU "
+"flag,width=25%,height=25%,align=center]|image::img/logos/gbif-standard-logo-green.png[GBIF "
+"logo,width=25%,height=25%,align=right]\n"
 msgstr ""
 
 #. type: Plain text
