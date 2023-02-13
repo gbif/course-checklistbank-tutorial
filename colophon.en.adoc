@@ -2,7 +2,7 @@
 
 === Suggested citation
 
-Catalogue of Life and GBIF Secretariats (2022) ChecklistBank Tutorial, version 1.
+Catalogue of Life and GBIF Secretariat (2022) ChecklistBank Tutorial, version 1.
 // Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 [Date of course.]
 
@@ -22,3 +22,7 @@ The ChecklistBank tutorial is licensed under https://creativecommons.org/license
 === Document control
 
 First edition, June 2022
+
+image::img/logos/650px-wide-CoL.ai[Catalogue of Life logo,align=center]
+image::img/logos/normal-reproduction-low-resolution.jpg[EU flag,align=center]
+image::img/logos/gbif-standard-logo-green.png[GBIF logo,align=center]
