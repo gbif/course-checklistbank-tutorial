@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-02-13 14:54+0000\n"
+"POT-Creation-Date: 2023-02-13 15:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -607,13 +607,13 @@ msgid "First edition, June 2022"
 msgstr ""
 
 #. type: Table
-#: colophon.en.adoc:28
+#: colophon.en.adoc:31
 #, no-wrap
 msgid ""
-"|image::img/logos/col_logo.svg[Catalogue of Life "
-"logo,width=25%,height=25%,align=left]|image::img/logos/normal-reproduction-low-resolution.jpg[EU "
-"flag,width=25%,height=25%,align=center]|image::img/logos/gbif-standard-logo-green.png[GBIF "
-"logo,width=25%,height=25%,align=right]\n"
+"|image::img/logos/col_logo.svg[Catalogue of Life,height=3em]\n"
+"|image::img/logos/normal-reproduction-low-resolution.jpg[European "
+"Union,height=3em]\n"
+"|image::img/logos/gbif-standard-logo-green.png[GBIF,height=3em]\n"
 msgstr ""
 
 #. type: Plain text
