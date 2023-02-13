@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-02-02 11:32+0000\n"
+"POT-Creation-Date: 2023-02-13 14:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,17 +23,19 @@ msgid "ChecklistBank tutorial"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:3
-msgid "GBIF Secretariat <training@gbif.org>"
+#: index.en.adoc:4
+msgid ""
+"Catalogue of Life <support@catalogueoflife.org> GBIF Secretariat "
+"<training@gbif.org>"
 msgstr ""
 
 #. type: Plain text
-#: index.en.adoc:17
+#: index.en.adoc:18
 msgid "languageLinks:combined[]"
 msgstr ""
 
 #. type: Target for macro image
-#: index.en.adoc:22
+#: index.en.adoc:23
 #, no-wrap
 msgid "img/logos/clb-col-dark.png"
 msgstr ""
