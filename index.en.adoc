@@ -1,4 +1,5 @@
 = ChecklistBank tutorial
+Catalogue of Life <support@catalogueoflife.org>
 GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
