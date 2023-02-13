@@ -23,6 +23,9 @@ The ChecklistBank tutorial is licensed under https://creativecommons.org/license
 
 First edition, June 2022
 
+[cols="3*^.^a",frame=none,grid=none]
 |=======================
-|image::img/logos/col_logo.svg[Catalogue of Life logo,width=25%,height=25%,align=left]|image::img/logos/normal-reproduction-low-resolution.jpg[EU flag,width=25%,height=25%,align=center]|image::img/logos/gbif-standard-logo-green.png[GBIF logo,width=25%,height=25%,align=right]
+|image::img/logos/col_logo.svg[Catalogue of Life,height=3em]
+|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,height=3em]
+|image::img/logos/gbif-standard-logo-green.png[GBIF,height=3em]
 |=======================
