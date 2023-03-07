@@ -24,7 +24,7 @@ You can use the Search field to type any keyword of the checklist you are search
 === Explore a checklist
 
 Let’s have a closer look at the information you can find for a particular dataset.
-In this example, we use the https://www.checklistbank.org/dataset/2207/about[Alucitoidea dataset] by Donald Hobern.
+In this example, we use the Alucitoidea dataset by Donald Hobern: https://www.checklistbank.org/dataset/2207/about.
 
 The menu on the left shows various options to explore this dataset:
 
