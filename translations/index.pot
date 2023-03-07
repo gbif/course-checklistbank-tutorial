@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-02-13 15:21+0000\n"
+"POT-Creation-Date: 2023-03-07 22:03+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -557,38 +557,50 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:7
 msgid ""
-"Catalogue of Life and GBIF Secretariat (2022) ChecklistBank Tutorial, "
-"version 1."
+"Huijbers C., Bánki O., Döring M., Stjernegaard T., & Miller J "
+"(2022). ChecklistBank Tutorial, version 1."
 msgstr ""
 
 #. type: Title ===
 #: colophon.en.adoc:9
 #, no-wrap
-msgid "Contributors"
+msgid "Authors"
 msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid ""
-"The ChecklistBank tutorial was developed as part of workshop series at "
-"various international meetings. Naturalis Biodiversity Center acknowledges "
-"the European Commission funded project Synthesys+ (grant agreement number "
-"823827). The content is created and updated by Chantal Huijbers, Olaf Bánki, "
-"Markus Döring, Thomas Stjernegaard Jeppesen, and Joe Miller."
+"Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, "
+"and Joe Miller."
 msgstr ""
 
 #. type: Title ===
 #: colophon.en.adoc:13
 #, no-wrap
-msgid "Licence"
+msgid "Contributors"
 msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid ""
+"The ChecklistBank tutorial was developed as part of workshop series at "
+"various international meetings. Naturalis Biodiversity Center acknowledges "
+"the European Commission funded project Synthesys+ (grant agreement number "
+"823827)."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:17
+#, no-wrap
+msgid "Licence"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:20
+msgid ""
 "The ChecklistBank tutorial is licensed under "
-"https://creativecommons.org/licenses/by-sa/4.0[Creative Commons "
-"Attribution-ShareAlike 4.0 Unported License]."
+"https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 "
+"Unported License]."
 msgstr ""
 
 #.  Uncomment once a DOI is assigned.
@@ -596,18 +608,18 @@ msgstr ""
 #
 #. https://doi.org/10.EXAMPLE/EXAMPLE
 #. type: Title ===
-#: colophon.en.adoc:22
+#: colophon.en.adoc:26
 #, no-wrap
 msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:25
+#: colophon.en.adoc:29
 msgid "First edition, June 2022"
 msgstr ""
 
 #. type: Table
-#: colophon.en.adoc:31
+#: colophon.en.adoc:35
 #, no-wrap
 msgid ""
 "|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]\n"
