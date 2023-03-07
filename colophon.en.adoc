@@ -2,17 +2,21 @@
 
 === Suggested citation
 
-Catalogue of Life and GBIF Secretariat (2022) ChecklistBank Tutorial, version 1.
+Huijbers C., Bánki O., Döring M., Stjernegaard T., & Miller J (2022). ChecklistBank Tutorial, version 1.
 // Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 [Date of course.]
 
+=== Authors
+
+Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, and Joe Miller.
+
 === Contributors
 
-The ChecklistBank tutorial was developed as part of workshop series at various international meetings. Naturalis Biodiversity Center acknowledges the European Commission funded project Synthesys+ (grant agreement number 823827). The content is created and updated by Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, and Joe Miller.
+The ChecklistBank tutorial was developed as part of workshop series at various international meetings. Naturalis Biodiversity Center acknowledges the European Commission funded project Synthesys+ (grant agreement number 823827). 
 
 === Licence
 
-The ChecklistBank tutorial is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
+The ChecklistBank tutorial is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
 
 // Uncomment once a DOI is assigned.
 //=== Persistent URI
