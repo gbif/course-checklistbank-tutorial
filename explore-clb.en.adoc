@@ -30,20 +30,12 @@ The menu on the left shows various options to explore this dataset:
 
 *About*: here you can find all the metadata about this dataset including the author and contact person, the version of the dataset and date of when it was issued, licensing information and how to cite this source, link to the website of the dataset (if applicable), taxonomic scope, etc.
 
-*Browse*: you can use this page to browse through the taxonomic tree for this particular checklist. This is useful to get a quick overview of which taxonomic levels and names are included in the checklist.
-
-This is the view if you unfold the taxonomic tree for the Alucitoidea checklist:
-
-image::img/web/CLB-browse-Alucitoidea.png[align=center]
-
-*Search*:  here you can search for specific taxonomic names. This functionality is most useful if you are looking for a particular name.
-
 *Download*: on this page you can download this dataset in various formats:
 
-- https://dwc.tdwg.org/list/[Darwin Core Archive] (dwca): commonly used standard for biodiversity data.
+- https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): commonly used standard for biodiversity data.
 - Annual Checklist Exchange Format (acef): data format previously used by Catalogue of Life.
 - https://github.com/gbif/text-tree[TextTree]: a simple format to represent taxonomic trees using indented, plain text.
-- https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (coldp): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life. 
+- https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life. 
 - https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data. 
 - http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools.
 
@@ -55,6 +47,14 @@ For example, if we choose 'Cenoloba' here as root taxon, only this genus and the
 For example, if we choose ‘genus’ all levels below will be excluded, thus species will not be listed.
 
 The download consists of a zip file containing several tsv files of which the file ‘NameUsage.tsv’ includes the names in the checklist. 
+
+*Browse*: you can use this page to browse through the taxonomic tree for this particular checklist. This is useful to get a quick overview of which taxonomic levels and names are included in the checklist.
+
+This is the view if you unfold the taxonomic tree for the Alucitoidea checklist:
+
+image::img/web/CLB-browse-Alucitoidea.png[align=center]
+
+*Search*:  here you can search for specific taxonomic names. This functionality is most useful if you are looking for a particular name.
 
 *Imports*: this shows the history and metrics of the import of this checklist into ChecklistBank including the different versions of the checklist. The timeline compares counts across imports, making it possible to see the growth in taxon counts, new datatypes added, etc. +
 Note: for the Catalogue of Life monthly and annual releases, the Imports is not available, because each release is a new checklist. For these checklists, there is just a Metrics page.
