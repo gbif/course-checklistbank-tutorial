@@ -39,7 +39,7 @@ The menu on the left shows various options to explore this dataset:
 - https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data. 
 - http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools.
 
-For your download you have the following optional options to select a subset of the checklist to be included in the download. This can be useful if you only want to download a selection of a large checklist.
+For your download you have the following options to select a subset of the checklist to be included in the download. This can be useful if you only want to download a selection of a large checklist.
 
 - Choose root taxon: you can select a taxon within the checklist that will be the top level for the data included in your download. This means only taxonomic levels from this root level and further down are selected. +
 For example, if we choose 'Cenoloba' here as root taxon, only this genus and the species within this genus would be included in the download.
