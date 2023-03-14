@@ -3,7 +3,7 @@
 
 ChecklistBank is a public repository including over 40,000 taxonomic checklists. It is established to simplify FAIR data sharing for taxonomic and nomenclatural lists. It allows contributors to publish lists using a variety of typical data formats. Each list is then accessible through a standard https://www.catalogueoflife.org/about/colusage#col-api[API] and reusable web browser components and can be cited using a ChecklistBank Digital Object Identifier. 
 
-Data publishers benefit both by making their datasets accessible for reuse and attribution and also through ChecklistBank tools for data review and detection of possible issues. Some of the datasets in ChecklistBank serve as authoritative sources for sections of the Catalogue of Life Checklist, and new releases of the COL Checklist are also published as ChecklistBank datasets.
+Data publishers benefit both by making their datasets accessible for reuse and attribution and also through ChecklistBank tools for data review and detection of possible issues. Some of the datasets in ChecklistBank serve as authoritative sources for the Catalogue of Life Checklist, and new releases of the COL Checklist are also published as ChecklistBank datasets.
 
 You can search through the ChecklistBank repository and explore the information and content of each checklist. All checklists can also be downloaded in multiple formats.
 
