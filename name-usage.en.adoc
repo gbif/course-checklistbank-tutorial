@@ -10,12 +10,19 @@ Please make sure you are logged in to ChecklistBank. If you don't know how to do
 You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Cross dataset search’.
 
 image::img/web/CLB-tools-dataset-search.png[align=left, width=300]
+
 === Matching options: 
-Fuzzy: attempts to find a match which may be not a 100 percent match (1, 2, 3 characters of difference)
-Extinct: match only within extinct taxa names
-Exact: compares the entire name string (no authors)
-Words: matches word parts of the name, regardless how they are combined
+Fuzzy: attempts to find a match which may be not a 100 percent match (1, 2, 3 characters of difference).
+
+Extinct: match only within extinct taxa names.
+
+Exact: compares the entire name string (no authors).
+
+Words: matches word parts of the name, regardless how they are combined.
+
 Partial: 
+
+
 === Example: _Quercus robur_ L.
 
 We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
