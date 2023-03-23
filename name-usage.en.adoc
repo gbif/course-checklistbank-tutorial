@@ -16,7 +16,7 @@ Fuzzy: attempts to find a match which may be not a 100 percent match (1, 2, 3 ch
 
 Extinct: match only within extinct taxa names.
 
-Exact: compares the entire name string (no authors).
+Exact: compares the entire name string (without considering authors).
 
 Words: matches word parts of the name, regardless how they are combined.
 
