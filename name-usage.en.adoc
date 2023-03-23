@@ -11,18 +11,6 @@ You can find the tool in the menu on the left. Expand the Tools menu by clicking
 
 image::img/web/CLB-tools-dataset-search.png[align=left, width=300]
 
-=== Matching options: 
-Fuzzy: attempts to find a match which may be not a 100 percent match (1, 2, 3 characters of difference).
-
-Extinct: match only within extinct taxa names.
-
-Exact: compares the entire name string (without considering authors).
-
-Words: matches word parts of the name, regardless how they are combined.
-
-Partial: 
-
-
 === Example: _Quercus robur_ L.
 
 We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
@@ -43,7 +31,7 @@ Step 3: In the menu 'Dataset' on the top right, you can easily select the datase
 
 This brings you to the record of this name, which includes its original resource.
 
-Step 4: Click on the link of the Online Resource.
+Step 4: Click on the link of the Online resource.
 
 This brings you to the information page about this name of the original source, in this case the International Plant Names Index (IPNI).
 
