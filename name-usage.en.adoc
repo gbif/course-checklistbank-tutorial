@@ -26,7 +26,7 @@ You will find several options to improve your dataset search:
 ** Authorship: search within the scientific name
 ** Any: search in all both scientific name and authorship
 
-image::img/web/CLB-tools-match.png[align=left, width=300]
+image::img/web/CLB-matching-options.png[align=left, width=300]
 
 === Example: _Quercus robur_ L.
 
