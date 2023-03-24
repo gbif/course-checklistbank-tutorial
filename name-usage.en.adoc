@@ -11,6 +11,23 @@ You can find the tool in the menu on the left. Expand the Tools menu by clicking
 
 image::img/web/CLB-tools-dataset-search.png[align=left, width=300]
 
+You will find several options to improve your dataset search:
+
+- Fuzzy: is an approximate string matching that matches two or more words even if there are typos or misspellings.
+- Extinct: if selected match only within extinct taxa names.
+- Matching:
+[square]
+** Exact: compares the entire name string (without considering authors).
+** Words: matches word parts of the name, regardless of how they are combined.
+** Partial: a prefix search that matches names that begin with those letters.
+- Restrict to:
+[square]
+** Scientific name: search within the scientific names without authorship
+** Authorship: search within the scientific name
+** Any: search in all both scientific name and authorship
+
+image::img/web/CLB-tools-match.png[align=left, width=300]
+
 === Example: _Quercus robur_ L.
 
 We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
