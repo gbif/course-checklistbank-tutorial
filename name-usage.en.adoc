@@ -62,4 +62,4 @@ You can also check whether the name that you have searched is used as a synonym 
 
 Go back to the search page in the 'cross dataset search' tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’.
 
-You can now see that amongst the resources in ChecklistBank, there are five instances of _Quercus robur_ as a synonym.
+You can now see how may synonyms of  _Quercus robur_ are amongst the resources in ChecklistBank.
