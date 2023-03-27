@@ -3,7 +3,9 @@
 
 The 'name match' tool in ChecklistBank enables comparison of any checklist against one or two other datasets in ChecklistBank in terms of taxon name matching. There is a limit to matching a maximum of 6000 taxon names in one request.
 
-Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>. You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’.
+Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>. 
+
+You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’.
 
 image::img/web/CLB-tools-match.png[align=left, width=300]
 
@@ -18,7 +20,7 @@ There are three different options for your input data:
 1. Simply paste a list of names in the text box. Use one name per row, and names can include author string.
 
 2. Upload a csv file with a list of names.
-This csv file must contain at least a column with the header 'scientificName' and optional columns 'author', 'rank', 'code'.
+This csv file must contain at least a column with the header 'scientificName' (which may include the author) and optional columns 'author', 'rank', 'code'(nomenclatural code).
 
 3. Choose a dataset in ChecklistBank.
 You can select any checklist from the ChecklistBank repository. If this is a large checklist, it might be helpful to select a root taxon. The matching is then done for all names below the root taxon, ignoring higher taxonomic levels.
@@ -49,7 +51,7 @@ This is a dataset from the Legume Phylogeny Working Group 2021, which is a group
 
 Step 2. Select your target data
 
-Instead of the COL Checklist 2022, we are using the previous annual checklist (COL21) as an example. +
+For this tutorial select the COL Checklist 2021 (COL21).
 - Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +
 - Click Next.
 
