@@ -27,7 +27,7 @@ When you open the tool, the start screen of the dataset comparison allows you to
 - Type COL 2021, and select the COL21 Annual Checklist 2021. +
 - Click on 'Go to Lysiloma' to select the same genus as in dataset 1.
 
-- Click on Show diff
+- Click on ‘Show diff’
 
 image::img/web/CLB-compare-selection.png[align=center]
 
