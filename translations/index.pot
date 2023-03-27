@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-03-07 22:03+0000\n"
+"POT-Creation-Date: 2023-03-27 21:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -557,8 +557,8 @@ msgstr ""
 #. type: Plain text
 #: colophon.en.adoc:7
 msgid ""
-"Huijbers C., Bánki O., Döring M., Stjernegaard T., & Miller J "
-"(2022). ChecklistBank Tutorial, version 1."
+"Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & "
+"Miller J (2022). ChecklistBank Tutorial, version 1."
 msgstr ""
 
 #. type: Title ===
@@ -571,7 +571,7 @@ msgstr ""
 #: colophon.en.adoc:12
 msgid ""
 "Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, "
-"and Joe Miller."
+"Diana Hernández, Camila Plata and Joe Miller."
 msgstr ""
 
 #. type: Title ===
