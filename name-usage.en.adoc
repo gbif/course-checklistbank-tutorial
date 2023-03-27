@@ -32,9 +32,9 @@ image::img/web/CLB-matching-options.png[align=left, width=600]
 
 We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   
 
-Step 1: Type Quercus robur in the search bar.
+*Step 1: Type Quercus robur in the search bar.*
 
-Step 2: Select Exact in the options.
+*Step 2: Select Exact in the options.*
 
 Setting the matching to 'Exact' ensures that all results relate to tree taxa in the family of the Fagaceae plant family. If the matching on 'Words' is used, zoological taxa (for example _Stomaphis quercus_ (Linnaeus, 1758) from the Fauna Europaea dataset would also appear.
 
@@ -44,11 +44,15 @@ image::img/web/CLB-search-Quercus.png[align=center]
 
 Through these results, it is possible to explore individual datasets in ChecklistBank which include _Quercus robur_ L. Several options for filtering the search results are also available.
 
-Step 3: In the menu 'Dataset' on the top right, you can easily select the dataset which you want to explore further. Click on 'International Plant Names Index (IPNI)', and then click on the Scientific Name (Quercus robur L.) in the results.
+*Step 3: Select a Dataset.*
+
+In the menu 'Dataset' on the top right, you can easily select the dataset which you want to explore further. Click on 'International Plant Names Index (IPNI)', and then click on the Scientific Name (Quercus robur L.) in the results.
 
 This brings you to the record of this name, which includes its original resource.
 
-Step 4: Click on the link of the Online resource.
+*Step 4: Navigate external resources.*
+
+Click on the link of the Online resource.
 
 This brings you to the information page about this name of the original source, in this case the International Plant Names Index (IPNI).
 
