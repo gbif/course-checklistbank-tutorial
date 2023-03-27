@@ -2,13 +2,13 @@
 
 === Suggested citation
 
-Huijbers C., Bánki O., Döring M., Stjernegaard T., & Miller J (2022). ChecklistBank Tutorial, version 1.
+Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2022). ChecklistBank Tutorial, version 1.
 // Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 [Date of course.]
 
 === Authors
 
-Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, and Joe Miller.
+Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, Diana Hernández, Camila Plata and Joe Miller.
 
 === Contributors
 
