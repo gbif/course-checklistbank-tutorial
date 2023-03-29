@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-03-29 17:10+0000\n"
+"POT-Creation-Date: 2023-03-29 18:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -560,7 +560,7 @@ msgstr ""
 #: colophon.en.adoc:7
 msgid ""
 "Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & "
-"Miller J (2022). ChecklistBank Tutorial, version 1."
+"Miller J (2023). ChecklistBank Tutorial, version 1."
 msgstr ""
 
 #. type: Title ===
@@ -617,7 +617,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:29
-msgid "First edition, June 2022"
+msgid "First edition, March 2023"
 msgstr ""
 
 #. type: Table
