@@ -41,7 +41,7 @@ The results of the matchings can be explored in web pages in ChecklistBank or do
 
 In this tutorial, we showcase the functionality of the name match tool with a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae.
 
-Step 1. Select your input data
+*Step 1. Select your input data*
 
 - Go to 'Choose a dataset in ChecklistBank'.
 - In the 'Select a subject dataset' box, start typing and select ‘WCVP-Fabaceae [2304]’. +
@@ -49,19 +49,19 @@ This is a dataset from the Legume Phylogeny Working Group 2021, which is a group
 - Under 'And a root taxon', start typing and select 'Acacia (genus in Fabaceae)'
 - Click on 'Fetch 3,297 names'.
 
-Step 2. Select your target data
+*Step 2. Select your target data*
 
 For this tutorial select the COL Checklist 2021 (COL21).
 - Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +
 - Click Next.
 
-Step 3. Matching
+*Step 3. Matching*
 
 The matching will start, please wait until it is complete.
 
 image::img/web/CLB-match-Acacia.png[align=center]
 
-Step 4. Review result
+*Step 4. Review result*
 
 The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset). +
 The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist 2021 (usage in COL21), or the names that do not have a match (NO usage in COL21).
