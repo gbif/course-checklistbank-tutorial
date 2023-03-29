@@ -2,7 +2,7 @@
 
 === Suggested citation
 
-Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2022). ChecklistBank Tutorial, version 1.
+Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2023). ChecklistBank Tutorial, version 1.
 // Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 [Date of course.]
 
@@ -25,7 +25,7 @@ The ChecklistBank tutorial is licensed under https://creativecommons.org/license
 
 === Document control
 
-First edition, June 2022
+First edition, March 2023
 
 [cols="3*^.^a",frame=none,grid=none]
 |=======================
