@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-03-29 19:32+0000\n"
+"POT-Creation-Date: 2023-04-14 16:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,11 +49,11 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:6
 msgid ""
-"ChecklistBank is a platform that provides a data repository for taxonomic "
-"and nomenclatural data sources to support the publication and curation of "
-"these sources. It is an integral part of the infrastructure developed and "
-"maintained by the Catalogue of Life (COL) and the Global Biodiversity "
-"Information Facility (GBIF)."
+"ChecklistBank is a platform that supports the publication, analysis, and "
+"curation of checklists with emphasis in taxonomic and nomenclatural data. It "
+"is an integral part of the infrastructure developed and maintained by the "
+"Catalogue of Life (COL) and the Global Biodiversity Information Facility "
+"(GBIF)."
 msgstr ""
 
 #. type: delimited block *
@@ -81,9 +81,9 @@ msgstr ""
 #. type: delimited block *
 #: description.en.adoc:12
 msgid ""
-"Currently, ChecklistBank provides a suite of tools to explore the "
-"repository, but also to further investigate particular taxonomic "
-"checklists. In this tutorial, we provide 4 exercises to explore these tools:"
+"Currently, ChecklistBank provides a repository and a suite of tools to "
+"explore its content, and further examine checklists of particular "
+"interest. In this tutorial, we provide 4 exercises to explore these tools:"
 msgstr ""
 
 #. type: delimited block *
@@ -127,7 +127,8 @@ msgstr ""
 #: description.en.adoc:22
 msgid ""
 "This tutorial is for anyone interested in discovering, curating and "
-"publishing taxonomic checklists."
+"publishing checklists with emphasis in taxonomic and nomenclatural "
+"checklists."
 msgstr ""
 
 #. type: Title ==
