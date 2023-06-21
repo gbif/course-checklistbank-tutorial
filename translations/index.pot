@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-06-21 13:27+0000\n"
+"POT-Creation-Date: 2023-06-21 15:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,11 +22,10 @@ msgstr ""
 msgid "ChecklistBank tutorial"
 msgstr ""
 
+#. GBIF Secretariat <training@gbif.org>
 #. type: Plain text
-#: index.en.adoc:4
-msgid ""
-"Catalogue of Life <support@catalogueoflife.org> GBIF Secretariat "
-"<training@gbif.org>"
+#: index.en.adoc:3
+msgid "Catalogue of Life <support@catalogueoflife.org>"
 msgstr ""
 
 #. type: Plain text
@@ -132,149 +131,959 @@ msgid ""
 msgstr ""
 
 #. type: Title ==
-#: downloads.en.adoc:1
+#: login.en.adoc:2
 #, no-wrap
-msgid "Files for download"
-msgstr ""
-
-#. type: Title ==
-#: assignments.en.adoc:1
-#, no-wrap
-msgid "Final assignments"
+msgid "ChecklistBank login"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:5
-msgid "For your final activities, you will complete and submit ... for evaluation."
+#: login.en.adoc:5
+msgid "Use the following steps to login to ChecklistBank:"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:7
+msgid "Go to https://www.checklistbank.org/"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:8
+msgid "Click on Login (top right)"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:9
+msgid "Login with your GBIF account +"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:11
+msgid ""
+"If you don’t have a GBIF account yet, use the register at "
+"https://www.gbif.org/[gbif.org] now!"
+msgstr ""
+
+#. type: Target for macro image
+#: login.en.adoc:12
+#, no-wrap
+msgid "img/web/CLB-front.png"
+msgstr ""
+
+#. type: Title ==
+#: explore-clb.en.adoc:2
+#, no-wrap
+msgid "Explore the ChecklistBank repository"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:5
+msgid ""
+"ChecklistBank is a public repository including over 40,000 checklists, "
+"established to simplify FAIR data sharing. It allows contributors to publish "
+"lists using a variety of typical data formats. Each list is then accessible "
+"through a standard API and reusable web browser components and can be cited "
+"using a ChecklistBank Digital Object Identifier."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:7
+msgid ""
+"Data publishers benefit both by making their datasets accessible for reuse "
+"and attribution and also through ChecklistBank tools for data review and "
+"detection of possible issues. Some of the datasets in ChecklistBank serve as "
+"authoritative sources for the Catalogue of Life Checklist, and new releases "
+"of the COL Checklist are also published as ChecklistBank datasets."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:9
+msgid ""
+"You can search through the ChecklistBank repository and explore the "
+"information and content of each checklist. All checklists can also be "
+"downloaded in multiple formats."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:11
+msgid ""
+"Before you start, please make sure you are logged in to ChecklistBank. If "
+"you don't know how to do that, follow the steps <<ChecklistBank "
+"login,here>>."
 msgstr ""
 
 #. type: Title ===
-#: assignments.en.adoc:6
+#: explore-clb.en.adoc:12
 #, no-wrap
-msgid "Assignment 1"
+msgid "Search for a checklist"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:8
-msgid "There are ..."
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:10
-msgid "Required files for submission:"
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:12
-msgid "completed exercise sheet (MS Word Doc or similar is acceptable)"
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:13
-msgid "spreadsheet (MS Excel, csv, txt or similar is acceptable)"
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:14
-msgid "dataset (MS Excel, csv, txt or similar is acceptable)"
-msgstr ""
-
-#. type: Plain text
-#: assignments.en.adoc:16
+#: explore-clb.en.adoc:15
 msgid ""
-"Include the assignment name and exercise number along with your name on all "
-"files submitted. For example, Russell-UC2-IS-exercise-sheet.docx, "
-"Russell-UC2-IS-2.xlsx, Russell-UC2-IS-3.xlsx. *All files must be submitted "
-"in English*. Contact training@gbif.org if you have any questions."
+"Click on Datasets in the menu on the left. This will bring you to the "
+"dataset search page."
+msgstr ""
+
+#. type: Target for macro image
+#: explore-clb.en.adoc:16
+#, no-wrap
+msgid "img/web/CLB-search.png"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:19
+msgid ""
+"You can use the Search field to type any keyword of the checklist you are "
+"searching for. Here are a few suggestions that you can use for this "
+"tutorial:"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:21
+msgid ""
+"search 'COL22' : this will only give 1 result, the Catalogue of Life "
+"Checklist 2022."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:22
+msgid ""
+"search 'Carabcat': the top result shows the Carabcat checklist, a global "
+"database of ground beetles, but additionally it will also show COL "
+"Checklists in which this checklist was included (since 2021)."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:23
+msgid ""
+"search 'Foraminifera': the top result shows the WoRMS Foraminifera "
+"checklist, below that the COL Checklists in which this checklist was "
+"included, and also a range of additional checklists that have been published "
+"in GBIF."
 msgstr ""
 
 #. type: Title ===
-#: assignments.en.adoc:17
+#: explore-clb.en.adoc:24
 #, no-wrap
-msgid "Assignment submission"
+msgid "Explore a checklist"
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:23
-msgid "Assignments can be submitted from the online (HTML) version of the course."
+#: explore-clb.en.adoc:28
+msgid ""
+"Let’s have a closer look at the information you can find for a particular "
+"dataset.  In this example, we use the Alucitoidea dataset by Donald Hobern: "
+"https://www.checklistbank.org/dataset/2207/about."
 msgstr ""
 
 #. type: Plain text
-#: assignments.en.adoc:27
-msgid ""
-"Please submit your assignment files using the form below.  If you do not see "
-"a form, you can also visit the "
-"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80:[submission "
-"site^] in a new window."
+#: explore-clb.en.adoc:30
+msgid "The menu on the left shows various options to explore this dataset:"
 msgstr ""
 
-#. type: delimited block +
-#: assignments.en.adoc:30
+#. type: Plain text
+#: explore-clb.en.adoc:32
 #, no-wrap
 msgid ""
-"<iframe src=\"https://gbif.app.box.com/f/1e44182c4bc74d659082c0e952d83e80\" "
-"style=\"width: 100%; min-height: 900px;\"></iframe>\n"
+"*About*: here you can find all the metadata about this dataset including the "
+"author and contact person, the version of the dataset and date of when it "
+"was issued, licensing information and how to cite this source, link to the "
+"website of the dataset (if applicable), taxonomic scope, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:34
+#, no-wrap
+msgid "*Download*: on this page you can download this dataset in various formats:\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:36
+msgid ""
+"https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): commonly used "
+"standard for biodiversity data."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:37
+msgid ""
+"Annual Checklist Exchange Format (acef): data format previously used by "
+"Catalogue of Life."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:38
+msgid ""
+"https://github.com/gbif/text-tree[TextTree]: a simple format to represent "
+"taxonomic trees using indented, plain text."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:39
+msgid ""
+"https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] "
+"(ColDP): this is a tabular text format with a standard set of files and "
+"columns recommended for exchanging checklists with the Catalogue of Life."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:40
+msgid ""
+"https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing "
+"graph-theoretical trees with edge lengths using parentheses and commas, "
+"often used with phylogenetic data."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:41
+msgid ""
+"http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely "
+"used format for representing graphs as nodes and edges. ChecklistBank "
+"exports will include synonym and basionym relations in the final graph that "
+"can be rendered with many software tools."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:43
+msgid ""
+"For your download you have the following options to select a subset of the "
+"checklist to be included in the download. This can be useful if you only "
+"want to download a selection of a large checklist."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:46
+#, no-wrap
+msgid ""
+"Choose root taxon: you can select a taxon within the checklist that will be "
+"the top level for the data included in your download. This means only "
+"taxonomic levels from this root level and further down are selected.\n"
+"For example, if we choose 'Cenoloba' here as root taxon, only this genus and "
+"the species within this genus would be included in the download."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:48
+#, no-wrap
+msgid ""
+"Exclude ranks below: select the highest taxonomic level you want to include "
+"in the download.\n"
+"For example, if we choose ‘genus’ all levels below will be excluded, thus "
+"species will not be listed."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:50
+msgid ""
+"The download consists of a zip file containing several tsv files of which "
+"the file ‘NameUsage.tsv’ includes the names in the checklist."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:52
+#, no-wrap
+msgid ""
+"*Browse*: you can use this page to browse through the taxonomic tree for "
+"this particular checklist. This is useful to get a quick overview of which "
+"taxonomic levels and names are included in the checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:54
+msgid ""
+"This is the view if you unfold the taxonomic tree for the Alucitoidea "
+"checklist:"
+msgstr ""
+
+#. type: Target for macro image
+#: explore-clb.en.adoc:55
+#, no-wrap
+msgid "img/web/CLB-browse-Alucitoidea.png"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:58
+#, no-wrap
+msgid ""
+"*Search*:  here you can search for specific taxonomic names. This "
+"functionality is most useful if you are looking for a particular name.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:61
+#, no-wrap
+msgid ""
+"*Imports*: this shows the history and metrics of the import of this "
+"checklist into ChecklistBank including the different versions of the "
+"checklist. The timeline compares counts across imports, making it possible "
+"to see the growth in taxon counts, new datatypes added, etc. +\n"
+"Note: for the Catalogue of Life monthly and annual releases, the Imports is "
+"not available, because each release is a new checklist. For these "
+"checklists, there is just a Metrics page.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:64
+#, no-wrap
+msgid ""
+"*Issues*: this lists the issues found by automatic checks. When you hover "
+"your mouse over a particular issue it will show the definition of that "
+"issue. A full list of all issues can be found "
+"http://api.checklistbank.org/vocab/issue[here]. +\n"
+"When you click on the count number it will take you to the search page "
+"displaying the names with that particular issue.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:66
+#, no-wrap
+msgid "*References*: these are the references used to generate this checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:68
+#, no-wrap
+msgid ""
+"*Verbatim*: this shows the exact data as it was supplied without any "
+"alterations done by the importer to best fit the ChecklistBank data "
+"model. You can perform a full text search and browse the csv files. This "
+"page can be useful for data providers in debugging why ChecklistBank has "
+"interpreted things in a particular way, but also for others to search the "
+"original data and browse it.\n"
 msgstr ""
 
 #. type: Title ==
-#: course-evaluation.en.adoc:1
+#: name-usage.en.adoc:2
 #, no-wrap
-msgid "Course evaluation"
+msgid "Cross dataset search"
 msgstr ""
 
 #. type: Plain text
-#: course-evaluation.en.adoc:5
-msgid "Complete the course evaluation"
+#: name-usage.en.adoc:5
+msgid ""
+"The 'cross dataset search' tool gives an overview of the appearance of a "
+"particular scientific name in all data sources, taxonomic or nomenclatural, "
+"that are available in ChecklistBank."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:7
+msgid ""
+"A 'Taxonomic Name Usage' is a use of a particular scientific name in a "
+"particular resource. The resource can either be a dataset itself or it is "
+"any other source (e.g. human expert, literature reference) that is provided "
+"by a data custodian in the 'accordingTo' data standard term. The tool is "
+"helpful in understanding how a scientific name refers to different synonyms "
+"and hence a taxonomic concept that is used in a particular dataset or "
+"resource."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:9 name-match.en.adoc:7 diff-viewer.en.adoc:9
+msgid ""
+"Please make sure you are logged in to ChecklistBank. If you don't know how "
+"to do that, follow the steps <<ChecklistBank login,here>>."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:11
+msgid ""
+"You can find the tool in the menu on the left. Expand the Tools menu by "
+"clicking on the arrow. Then click ‘Cross dataset search’."
+msgstr ""
+
+#. type: Target for macro image
+#: name-usage.en.adoc:12
+#, no-wrap
+msgid "img/web/CLB-tools-dataset-search.png"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:15
+msgid "You will find several options to improve your dataset search:"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:17
+msgid ""
+"Fuzzy: is an approximate string matching that matches two or more words even "
+"if there are typos or misspellings."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:18
+msgid "Extinct: if selected match only within extinct taxa names."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:19
+msgid "Matching:"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:21
+msgid "Exact: compares the entire name string (without considering authors)."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:22
+msgid "Words: matches word parts of the name, regardless of how they are combined."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:23
+msgid "Partial: a prefix search that matches names that begin with those letters."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:24
+msgid "Restrict to:"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:26
+msgid "Scientific name: search within the scientific names without authorship"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:27
+msgid "Authorship: search within the scientific name"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:28
+msgid "Any: search in all both scientific name and authorship"
+msgstr ""
+
+#. type: Target for macro image
+#: name-usage.en.adoc:29
+#, no-wrap
+msgid "img/web/CLB-matching-options.png"
+msgstr ""
+
+#. type: Title ===
+#: name-usage.en.adoc:31
+#, no-wrap
+msgid "Example: _Quercus robur_ L."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:34
+#, no-wrap
+msgid ""
+"We showcase the functionality and usability of the 'cross dataset search' "
+"tool by using a real example of a search on a scientific name. _Quercus "
+"robur_ L. is an oak tree belonging to the family of the Fagaceae with an "
+"extensive distribution across Europe.   \n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:36
+#, no-wrap
+msgid "*Step 1: Type Quercus robur in the search bar.*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:38
+#, no-wrap
+msgid "*Step 2: Select Exact in the options.*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:40
+msgid ""
+"Setting the matching to 'Exact' ensures that all results relate to tree taxa "
+"in the family of the Fagaceae plant family. If the matching on 'Words' is "
+"used, zoological taxa (for example _Stomaphis quercus_ (Linnaeus, 1758) from "
+"the Fauna Europaea dataset would also appear."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:42
+msgid ""
+"The search results show all datasets in ChecklistBank where the scientific "
+"name _Quercus robur_ L. appears in."
+msgstr ""
+
+#. type: Target for macro image
+#: name-usage.en.adoc:43
+#, no-wrap
+msgid "img/web/CLB-search-Quercus.png"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:46
+msgid ""
+"Through these results, it is possible to explore individual datasets in "
+"ChecklistBank which include _Quercus robur_ L. Several options for filtering "
+"the search results are also available."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:48
+#, no-wrap
+msgid "*Step 3: Select a Dataset.*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:50
+msgid ""
+"In the menu 'Dataset' on the top right, you can easily select the dataset "
+"which you want to explore further. Click on 'International Plant Names Index "
+"(IPNI)', and then click on the Scientific Name (Quercus robur L.) in the "
+"results."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:52
+msgid ""
+"This brings you to the record of this name, which includes its original "
+"resource."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:54
+#, no-wrap
+msgid "*Step 4: Navigate external resources.*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:56
+msgid "Click on the link of the Online resource."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:58
+msgid ""
+"This brings you to the information page about this name of the original "
+"source, in this case the International Plant Names Index (IPNI)."
+msgstr ""
+
+#. type: Target for macro image
+#: name-usage.en.adoc:59
+#, no-wrap
+msgid "img/web/Quercus-IPNI.png"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:62
+msgid ""
+"This example shows that by using the 'cross dataset search' tool, you can "
+"make linkages to other infrastructures to explore further evidence of a "
+"scientific name."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:64
+#, no-wrap
+msgid "*Exploring synonyms*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:66
+msgid ""
+"You can also check whether the name that you have searched is used as a "
+"synonym for other names."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:68
+msgid ""
+"Go back to the search page in the 'cross dataset search' tool, and again "
+"search for Quercus robur, select Exact, and under Status, select ‘Synonym’."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:69
+msgid ""
+"You can now see how may synonyms of _Quercus robur_ are amongst the "
+"resources in ChecklistBank."
 msgstr ""
 
 #. type: Title ==
-#: keydocs.en.adoc:2
+#: name-match.en.adoc:2
 #, no-wrap
-msgid "Key documentation"
+msgid "Name match tool"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:5
+#: name-match.en.adoc:5
 msgid ""
-"The following references provide further detail on the topics covered in "
-"this course"
+"The 'name match' tool in ChecklistBank enables comparison of any checklist "
+"against one or two other datasets in ChecklistBank in terms of taxon name "
+"matching. There is a limit to matching a maximum of 6000 taxon names in one "
+"request."
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:7
+#: name-match.en.adoc:9
+msgid ""
+"You can find the tool in the menu on the left. Expand the Tools menu by "
+"clicking on the arrow. Then click ‘Name match’."
+msgstr ""
+
+#. type: Target for macro image
+#: name-match.en.adoc:10
 #, no-wrap
-msgid "*Topic 1*\n"
+msgid "img/web/CLB-tools-match.png"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:9
-msgid "https://www.gbif.org/[GBIF.org]"
+#: name-match.en.adoc:13
+msgid ""
+"The user interface guides you through the steps to match your lists of "
+"interest."
 msgstr ""
 
-#. type: Plain text
-#: keydocs.en.adoc:10 keydocs.en.adoc:17
-msgid "Link 2"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:11 keydocs.en.adoc:18
-msgid "Link 3"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:12 keydocs.en.adoc:18
-msgid "Link 4"
-msgstr ""
-
-#. type: Plain text
-#: keydocs.en.adoc:14
+#. type: Target for macro image
+#: name-match.en.adoc:14
 #, no-wrap
-msgid "*Topic 2*\n"
+msgid "img/web/CLB-match-steps.png"
 msgstr ""
 
 #. type: Plain text
-#: keydocs.en.adoc:16
-msgid "Link 1"
+#: name-match.en.adoc:17
+#, no-wrap
+msgid "*Step 1: Select your input data*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:19
+msgid "There are three different options for your input data:"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:21
+msgid ""
+"Simply paste a list of names in the text box. Use one name per row, and "
+"names can include author string."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:24
+msgid ""
+"Upload a csv file with a list of names.  This csv file must contain at least "
+"a column with the header 'scientificName' (which may include the author) and "
+"optional columns 'author', 'rank', 'code'(nomenclatural code)."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:27
+msgid ""
+"Choose a dataset in ChecklistBank.  You can select any checklist from the "
+"ChecklistBank repository. If this is a large checklist, it might be helpful "
+"to select a root taxon. The matching is then done for all names below the "
+"root taxon, ignoring higher taxonomic levels."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:29
+#, no-wrap
+msgid "*Step 2: Select the target data*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:31
+msgid ""
+"The default selection for the target data is the latest release of the COL "
+"Checklist. It is also possible to select a different checklist from "
+"ChecklistBank, or even match against two datasets."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:33
+#, no-wrap
+msgid "*Step 3: Matching*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:35
+msgid ""
+"Once you click next in step 2, the matching will start. You can follow the "
+"progress in the progress bar. It is best to wait with exploring the results "
+"until the matching is complete."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:37
+#, no-wrap
+msgid "*Step 4: Review result*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:39
+msgid ""
+"The results of the matchings can be explored in web pages in ChecklistBank "
+"or downloaded as a CSV file."
+msgstr ""
+
+#. type: Title ===
+#: name-match.en.adoc:40
+#, no-wrap
+msgid "Example: Acacia Mill."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:43
+msgid ""
+"In this tutorial, we showcase the functionality of the name match tool with "
+"a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:45
+#, no-wrap
+msgid "*Step 1. Select your input data*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:47
+msgid "Go to 'Choose a dataset in ChecklistBank'."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:49
+#, no-wrap
+msgid ""
+"In the 'Select a subject dataset' box, start typing and select "
+"‘WCVP-Fabaceae [2304]’.\n"
+"This is a dataset from the Legume Phylogeny Working Group 2021, which is a "
+"group of Fabaceae specialists that have worked on a comprehensive global "
+"taxonomic list for this taxon. +"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:50
+msgid ""
+"Under 'And a root taxon', start typing and select 'Acacia (genus in "
+"Fabaceae)'"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:51
+msgid "Click on 'Fetch 3,297 names'."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:53
+#, no-wrap
+msgid "*Step 2. Select your target data*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:55
+msgid "For this tutorial select the COL Checklist 2021 (COL21)."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:56
+msgid ""
+"Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 "
+"[2328]'. +"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:57
+msgid "Click Next."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:59
+#, no-wrap
+msgid "*Step 3. Matching*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:61
+msgid "The matching will start, please wait until it is complete."
+msgstr ""
+
+#. type: Target for macro image
+#: name-match.en.adoc:62
+#, no-wrap
+msgid "img/web/CLB-match-Acacia.png"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:65
+#, no-wrap
+msgid "*Step 4. Review result*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:68
+#, no-wrap
+msgid ""
+"The first column lists the scientific name from the provided dataset (in "
+"this case the Fabaceae dataset).\n"
+"The ‘Scientific Name’ column has a filter in which you can select whether "
+"you want to view the names that are also listed in the COL Checklist 2021 "
+"(usage in COL21), or the names that do not have a match (NO usage in COL21)."
+msgstr ""
+
+#. type: Target for macro image
+#: name-match.en.adoc:69
+#, no-wrap
+msgid "img/web/CLB-match-result.png"
+msgstr ""
+
+#. type: Title ==
+#: diff-viewer.en.adoc:2
+#, no-wrap
+msgid "Dataset comparison"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:5
+msgid ""
+"The 'dataset comparison' allows for comparison of two datasets in "
+"ChecklistBank on a scientific name by scientific name basis."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:7
+msgid ""
+"All datasets in ChecklistBank can be compared including the COL Checklist "
+"releases. The tool provides an overview of the differences in scientific "
+"names between datasets. The set of names to be compared can be filtered by "
+"various parameters, and a root taxon can also be selected to include only a "
+"certain group. Synonyms and names below a certain rank can be excluded on "
+"demand, i.e. you can just compare accepted genera or families."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:11
+msgid ""
+"You can find the tool in the menu on the left. Expand the Tools menu by "
+"clicking on the arrow. Then click ‘Dataset comparison’."
+msgstr ""
+
+#. type: Target for macro image
+#: diff-viewer.en.adoc:12
+#, no-wrap
+msgid "img/web/CLB-tools-compare.png"
+msgstr ""
+
+#. type: Title ===
+#: diff-viewer.en.adoc:14
+#, no-wrap
+msgid "Example: _Lysiloma_ (genus in Fabaceae)"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:17
+msgid ""
+"We use the Fabaceae checklist, which was also used in the ‘name match tool’ "
+"tutorial. We compare this list to the 2021 COL Checklist for which the data "
+"on the genus _Lysiloma_ are provided by the ILDIS World Database of Legumes "
+"checklist (Roskov et al. 2014)."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:19
+msgid ""
+"When you open the tool, the start screen of the dataset comparison allows "
+"you to choose two datasets to make the comparison on the basis of scientific "
+"names."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:21
+#, no-wrap
+msgid "*Step 1. Select dataset 1*\n"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:23
+msgid ""
+"Start typing WCVP-Fabaceae and this dataset will appear in the menu. Select "
+"it. +"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:24
+msgid "In the box 'Find taxon', type 'Lysiloma' and select it."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:26
+#, no-wrap
+msgid "*Step 2. Select dataset 2*\n"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:28
+msgid "Type COL 2021, and select the COL21 Annual Checklist 2021. +"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:29
+msgid "Click on 'Go to Lysiloma' to select the same genus as in dataset 1."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:31
+msgid "Click on ‘Show diff’"
+msgstr ""
+
+#. type: Target for macro image
+#: diff-viewer.en.adoc:32
+#, no-wrap
+msgid "img/web/CLB-compare-selection.png"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:35
+#, no-wrap
+msgid "*Step 3. Check you selection*\n"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:39
+#, no-wrap
+msgid ""
+"The next view shows you which datasets and roots you have selected.\n"
+"You can choose whether the scientific name comparisons should include "
+"authorship and synonyms, for this example select both options.\n"
+"Additionally, you can select whether to show the parent, and at which "
+"level. For this example, also select the box 'Show parent'."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:42
+#, no-wrap
+msgid "*Step 4. Get results**\n"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:44
+msgid "Once you have made your selection, click ‘Get diff’."
+msgstr ""
+
+#. type: Target for macro image
+#: diff-viewer.en.adoc:45
+#, no-wrap
+msgid "img/web/CLB-diff-Lysiloma.png"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:49
+msgid "The results of the comparison can be explored in the webpage."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:51
+msgid ""
+"You can see two columns, one for each dataset. Scientific name differences "
+"are shown in each column where a '-' or '+' sign indicates in which dataset "
+"the difference occurs. The results of the comparisons can also be downloaded "
+"in a CSV file for further investigation."
+msgstr ""
+
+#. type: Target for macro image
+#: diff-viewer.en.adoc:52
+#, no-wrap
+msgid "img/web/CLB-compare-Lysiloma-result.png"
 msgstr ""
 
 #. type: Title ==
@@ -422,129 +1231,6 @@ msgid "<<<"
 msgstr ""
 
 #. type: Title ==
-#: solutions.en.adoc:2
-#, no-wrap
-msgid "Appendix: Solutions"
-msgstr ""
-
-#. type: Plain text
-#: solutions.en.adoc:6
-msgid ""
-"This appendix contains the answers and additional information to all of the "
-"review quizzes.  Additionally, this section contains a suggested solution to "
-"USE CASE I."
-msgstr ""
-
-#. type: Title ===
-#: solutions.en.adoc:7
-#, no-wrap
-msgid "Solutions"
-msgstr ""
-
-#. type: Title ==
-#: acknowledgements.en.adoc:3
-#, no-wrap
-msgid "Acknowledgements "
-msgstr ""
-
-#. type: Title ===
-#: acknowledgements.en.adoc:5
-#, no-wrap
-msgid "Course design and instruction"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:9
-msgid ""
-"The success of this course depends heavily on the support provided to "
-"participants from GBIF's network of capacity enhancement mentors.  Visit the "
-"GBIF page on "
-"https://www.gbif.org/article/5SExsCfj7UaUkMCsuc6Oec/mentors-and-trainers[capacity "
-"enhancement mentoring^] to read more about these individuals and their "
-"contributions."
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:11
-msgid ""
-"The following individuals are recognized for their significant contributions "
-"to the course design, materials and instruction:"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:13 acknowledgements.en.adoc:15
-msgid "instructor*"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:14 acknowledgements.en.adoc:16
-msgid "instructor"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:18
-#, no-wrap
-msgid "*Originators of the curriculum\n"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:20
-msgid "Special acknowledgement ..."
-msgstr ""
-
-#. type: Title ===
-#: acknowledgements.en.adoc:21
-#, no-wrap
-msgid "Translators"
-msgstr ""
-
-#. type: Title ====
-#: acknowledgements.en.adoc:23
-#, no-wrap
-msgid "Language 1"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:26 acknowledgements.en.adoc:31
-msgid "Name 1"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:27 acknowledgements.en.adoc:32
-msgid "Name 2"
-msgstr ""
-
-#. type: Title ====
-#: acknowledgements.en.adoc:28
-#, no-wrap
-msgid "Language 2"
-msgstr ""
-
-#. type: Title ===
-#: acknowledgements.en.adoc:33
-#, no-wrap
-msgid "Resources"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:36 acknowledgements.en.adoc:37
-#: acknowledgements.en.adoc:38 acknowledgements.en.adoc:39
-msgid "Resource"
-msgstr ""
-
-#. type: Title ===
-#: acknowledgements.en.adoc:40
-#, no-wrap
-msgid "Resource support"
-msgstr ""
-
-#. type: Plain text
-#: acknowledgements.en.adoc:43 acknowledgements.en.adoc:44
-#: acknowledgements.en.adoc:45
-msgid "Support"
-msgstr ""
-
-#. type: Title ==
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
@@ -625,7 +1311,7 @@ msgstr ""
 
 #. type: Plain text
 #: colophon.en.adoc:28
-msgid "First edition, March 2023"
+msgid "First edition, June 2023"
 msgstr ""
 
 #. type: Table
