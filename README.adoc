@@ -4,8 +4,9 @@ https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/docu
 // License badge
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 https://builds.gbif.org/job/course-checklistbank-tutorial/lastBuild/console[image:https://builds.gbif.org/job/course-checklistbank-tutorial/badge/icon[Build status]]
+https://crowdin.com/project/checklistbank-tutorial[image:https://badges.crowdin.net/checklistbank-tutorial/localized.svg[]]
 
-= Checklist bank tutorial
+= ChecklistBank tutorial
 
 _This is information *about* this course's source code.  It is not part of the document._
 
