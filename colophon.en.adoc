@@ -2,8 +2,8 @@
 
 === Suggested citation
 
-Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2023). ChecklistBank Tutorial, version 1.
-// Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
+Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2023). ChecklistBank Tutorial, version 1. 
+https://doi.org/10.35035/ce-9sw4-e095.
 [Date of course.]
 
 === Authors
@@ -18,10 +18,9 @@ The ChecklistBank tutorial was developed as part of workshop series at various i
 
 The ChecklistBank tutorial is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
 
-// Uncomment once a DOI is assigned.
-//=== Persistent URI
-//
-//https://doi.org/10.EXAMPLE/EXAMPLE
+=== Persistent URI
+
+https://doi.org/10.35035/ce-9sw4-e095
 
 === Document control
 
