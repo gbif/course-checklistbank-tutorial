@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-04-14 16:08+0000\n"
+"POT-Creation-Date: 2023-06-21 13:27+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -556,12 +556,12 @@ msgstr ""
 msgid "Suggested citation"
 msgstr ""
 
-#.  Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 #. type: Plain text
 #: colophon.en.adoc:7
 msgid ""
 "Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & "
-"Miller J (2023). ChecklistBank Tutorial, version 1."
+"Miller J (2023). ChecklistBank Tutorial, version 1.  "
+"https://doi.org/10.35035/ce-9sw4-e095."
 msgstr ""
 
 #. type: Title ===
@@ -606,23 +606,30 @@ msgid ""
 "Unported License]."
 msgstr ""
 
-#.  Uncomment once a DOI is assigned.
-#. === Persistent URI
-#
-#. https://doi.org/10.EXAMPLE/EXAMPLE
 #. type: Title ===
-#: colophon.en.adoc:26
+#: colophon.en.adoc:21
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:24
+msgid "https://doi.org/10.35035/ce-9sw4-e095"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:25
 #, no-wrap
 msgid "Document control"
 msgstr ""
 
 #. type: Plain text
-#: colophon.en.adoc:29
+#: colophon.en.adoc:28
 msgid "First edition, March 2023"
 msgstr ""
 
 #. type: Table
-#: colophon.en.adoc:35
+#: colophon.en.adoc:34
 #, no-wrap
 msgid ""
 "|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]\n"
