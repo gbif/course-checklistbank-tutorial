@@ -24,7 +24,7 @@ https://doi.org/10.35035/ce-9sw4-e095
 
 === Document control
 
-First edition, March 2023
+First edition, June 2023
 
 [cols="3*^.^a",frame=none,grid=none]
 |=======================
