@@ -1,13 +1,13 @@
 = ChecklistBank tutorial
 Catalogue of Life <support@catalogueoflife.org>
-GBIF Secretariat <training@gbif.org>
+//GBIF Secretariat <training@gbif.org>
 :multipage:
 :multipage-level: 1
 :toc: left
 :toclevels: 3
 :numbered:
-:revnumber: {git-metadata-sha-short}
-:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+:revnumber: 1
+:revdate: June 2023
 :title-logo-image: img/web/photo.jpg
 :license: https://creativecommons.org/licenses/by/4.0
 :docinfo: shared-head
