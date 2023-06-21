@@ -8,7 +8,7 @@ Catalogue of Life <support@catalogueoflife.org>
 :numbered:
 :revnumber: 1
 :revdate: June 2023
-:title-logo-image: img/web/photo.jpg
+:title-page-background-image: image::img/logos/clb-col-dark.svg[position=top center]
 :license: https://creativecommons.org/licenses/by/4.0
 :docinfo: shared-head
 // :stylesheet: /adoc/gbif-stylesheet/stylesheets/gbif-training.css
@@ -20,7 +20,7 @@ endif::backend-pdf[]
 // add cover image to img directory and update filename below
 ifndef::backend-pdf[]
 :figure-caption!:
-image::img/logos/clb-col-dark.png[align=center,width=640,height=360]
+image::img/logos/clb-col-dark.svg[align=center,width=640,height=360]
 endif::backend-pdf[]
 
 :sectnums!:
