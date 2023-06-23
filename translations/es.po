@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-06-22 10:19\n"
+"PO-Revision-Date: 2023-06-22 17:29\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -20,13 +20,13 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "ChecklistBank tutorial"
-msgstr ""
+msgstr "Tutorial de ChecklistBank"
 
 #. GBIF Secretariat <training@gbif.org>
 #. type: Plain text
 #: index.en.adoc:3
 msgid "Catalogue of Life <support@catalogueoflife.org>"
-msgstr ""
+msgstr "Catálogo de la vida <support@catalogueoflife.org>"
 
 #. type: Plain text
 #: index.en.adoc:18
