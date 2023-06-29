@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-06-29 21:40\n"
+"PO-Revision-Date: 2023-06-29 22:53\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -68,79 +68,79 @@ msgstr "ChecklistBank proporciona un repositorio y un conjunto de herramientas q
 #. type: delimited block *
 #: description.en.adoc:14
 msgid "Explore the *ChecklistBank repository*: search, inspect and download checklists."
-msgstr ""
+msgstr "Explora el *repositorio de ChecklistBank*: busca, revisa y descarga listas de especies."
 
 #. type: delimited block *
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
-msgstr ""
+msgstr "Herramienta *Cross dataset search*: busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
 
 #. type: delimited block *
 #: description.en.adoc:16
 #, no-wrap
 msgid "*Name match* tool: enables comparison of the COL Checklist with one or two other datasets in ChecklistBank in terms of taxon name matching.\n"
-msgstr ""
+msgstr "Herramienta *Name match*: permite comparar la lista de especies de COL con uno o dos conjuntos de datos disponibles en ChecklistBank. Dicha comparación la realiza en términos de coincidencia de los nombres de taxones.\n"
 
 #. type: delimited block *
 #: description.en.adoc:17
 #, no-wrap
 msgid "*Dataset comparison* tool: allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis.\n"
-msgstr ""
+msgstr "*Dataset comparison*: permite comparar dos conjuntos de datos taxonómicos disponibles en ChecklistBank contrastando nombre por nombre científico.\n"
 
 #. type: Title ===
 #: description.en.adoc:20
 #, no-wrap
 msgid "Audience"
-msgstr ""
+msgstr "Público"
 
 #. type: Plain text
 #: description.en.adoc:22
 msgid "This tutorial is for anyone interested in discovering, curating and publishing checklists with emphasis in taxonomic and nomenclatural checklists."
-msgstr ""
+msgstr "Este tutorial está dirigido a cualquier persona interesada en revisar, curar y publicar listas de especies taxonómicas o nomenclaturales."
 
 #. type: Title ==
 #: login.en.adoc:2
 #, no-wrap
 msgid "ChecklistBank login"
-msgstr ""
+msgstr "Registro en ChecklistBank"
 
 #. type: Plain text
 #: login.en.adoc:5
 msgid "Use the following steps to login to ChecklistBank:"
-msgstr ""
+msgstr "Sigue estos pasos para iniciar sesión en ChecklistBank:"
 
 #. type: Plain text
 #: login.en.adoc:7
 msgid "Go to https://www.checklistbank.org/"
-msgstr ""
+msgstr "Ir a https://www.checklistbank.org/"
 
 #. type: Plain text
 #: login.en.adoc:8
 msgid "Click on Login (top right)"
-msgstr ""
+msgstr "Haz clic en Login (arriba a la derecha)"
 
 #. type: Plain text
 #: login.en.adoc:9
 msgid "Login with your GBIF account +"
-msgstr ""
+msgstr "Inicia sesión con tu cuenta GBIF"
 
 #. type: Plain text
 #: login.en.adoc:11
 msgid "If you don’t have a GBIF account yet, use the register at https://www.gbif.org/[gbif.org] now!"
-msgstr ""
+msgstr "Si aún no tienes una cuenta de GBIF, regístrate en https://www.gbif.org/[gbif.org] ahora"
 
 #. type: Target for macro image
 #: login.en.adoc:12
 #, no-wrap
 msgid "img/web/CLB-front.png"
-msgstr ""
+msgstr "img/web/CLB-front.png"
 
 #. type: Title ==
 #: explore-clb.en.adoc:2
 #, no-wrap
 msgid "Explore the ChecklistBank repository"
-msgstr ""
+msgstr "Explorar el repositorio de ChecklistBank"
 
 #. type: Plain text
 #: explore-clb.en.adoc:5
@@ -600,7 +600,7 @@ msgstr ""
 #. type: Plain text
 #: name-match.en.adoc:31
 msgid "The default selection for the target data is the latest release of the COL Checklist. It is also possible to select a different checklist from ChecklistBank, or even match against two datasets."
-msgstr ""
+msgstr "Por defecto aparecera la última versión de la lista de chequeo COL como la fuente de comparación. También es posible seleccionar una lista diferente disponible en ChecklistBank, o incluso comparar dos listas."
 
 #. type: Plain text
 #: name-match.en.adoc:33
@@ -617,7 +617,7 @@ msgstr ""
 #: name-match.en.adoc:37
 #, no-wrap
 msgid "*Step 4: Review result*\n"
-msgstr ""
+msgstr "*Paso 4: Revisar el resultado*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:39
