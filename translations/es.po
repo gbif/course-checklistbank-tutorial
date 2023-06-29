@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-06-29 19:45\n"
+"PO-Revision-Date: 2023-06-29 20:42\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -563,33 +563,33 @@ msgstr ""
 #: name-match.en.adoc:14
 #, no-wrap
 msgid "img/web/CLB-match-steps.png"
-msgstr ""
+msgstr "img/web/CLB-match-steps.png"
 
 #. type: Plain text
 #: name-match.en.adoc:17
 #, no-wrap
 msgid "*Step 1: Select your input data*\n"
-msgstr ""
+msgstr "*Paso 1: Seleccione los datos de entrada*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:19
 msgid "There are three different options for your input data:"
-msgstr ""
+msgstr "Hay tres opciones diferentes para los datos de entrada:"
 
 #. type: Plain text
 #: name-match.en.adoc:21
 msgid "Simply paste a list of names in the text box. Use one name per row, and names can include author string."
-msgstr ""
+msgstr "Pegue una lista de nombres en el cuadro de texto. Utilice un nombre por fila, y los nombres pueden incluir la autoría."
 
 #. type: Plain text
 #: name-match.en.adoc:24
 msgid "Upload a csv file with a list of names.  This csv file must contain at least a column with the header 'scientificName' (which may include the author) and optional columns 'author', 'rank', 'code'(nomenclatural code)."
-msgstr ""
+msgstr "Subia un archivo csv con la lista de nombres. Este archivo debe contener al menos una columna con la cabecera 'scientificName' (que puede incluir la autoría) y las columnas opcionales 'autor', 'rank', 'code' (código nomenclatural)."
 
 #. type: Plain text
 #: name-match.en.adoc:27
 msgid "Choose a dataset in ChecklistBank.  You can select any checklist from the ChecklistBank repository. If this is a large checklist, it might be helpful to select a root taxon. The matching is then done for all names below the root taxon, ignoring higher taxonomic levels."
-msgstr ""
+msgstr "Elija un conjunto de datos en ChecklistBank. Puede seleccionar cualquier lista del repositorio. Si esta es una lista grande, puede ser útil seleccionar un taxón raíz. La comparación se hace entonces para todos los nombres por debajo del taxón raíz, ignorando niveles taxonómicos más altos."
 
 #. type: Plain text
 #: name-match.en.adoc:29
