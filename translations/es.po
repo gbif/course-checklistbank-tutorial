@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-06-30 01:52\n"
+"PO-Revision-Date: 2023-06-30 03:56\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -145,7 +145,7 @@ msgstr "Explorar el repositorio de ChecklistBank"
 #. type: Plain text
 #: explore-clb.en.adoc:5
 msgid "ChecklistBank is a public repository including over 40,000 checklists, established to simplify FAIR data sharing. It allows contributors to publish lists using a variety of typical data formats. Each list is then accessible through a standard API and reusable web browser components and can be cited using a ChecklistBank Digital Object Identifier."
-msgstr ""
+msgstr "ChecklistBank es un repositorio público que incluye más de 40.000 listas de especies, que simplifica el intercambio de datos bajo los principios FAIR. Además, permite publicar listas a partir de diversos formatos de datos. Así, cada una de las listas es accesible a través de una API estándar y de componentes de red reutilizables y se pueden citar con un dígito de control DOI de ChecklistBank."
 
 #. type: Plain text
 #: explore-clb.en.adoc:7
