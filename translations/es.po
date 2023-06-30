@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-06-30 00:34\n"
+"PO-Revision-Date: 2023-06-30 01:52\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -546,7 +546,7 @@ msgstr "La herramienta \"Name match\" en ChecklistBank permite subir una lista y
 #. type: Plain text
 #: name-match.en.adoc:9
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’."
-msgstr "Puede encontrar la herramienta en el menú de la izquierda. Expanda el menú 'Tools' haciendo clic en la flecha. Luego haga clic en 'Name match'."
+msgstr "Puedes encontrar la herramienta en el menú de la izquierda. Expande el menú 'Tools' haciendo clic en la flecha. Luego haga clic en 'Name match'."
 
 #. type: Target for macro image
 #: name-match.en.adoc:10
@@ -557,7 +557,7 @@ msgstr "img/web/CLB-tools-match.png"
 #. type: Plain text
 #: name-match.en.adoc:13
 msgid "The user interface guides you through the steps to match your lists of interest."
-msgstr ""
+msgstr "La interfaz de usuario te guiará paso a paso en el proceso."
 
 #. type: Target for macro image
 #: name-match.en.adoc:14
@@ -857,25 +857,25 @@ msgstr ""
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr ""
+msgstr "Glosario"
 
 #. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
 #: glossary.en.adoc:7
 #, no-wrap
 msgid "[[API]]API"
-msgstr ""
+msgstr "[[API]]API"
 
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
-msgstr ""
+msgstr "Interfaz de programación de aplicaciones (Application Programming Interface). Un conjunto de métodos de comunicación claramente definidos entre varios componentes de software."
 
 #. type: Labeled list
 #: glossary.en.adoc:10
 #, no-wrap
 msgid "[[CC]]CC Licences"
-msgstr ""
+msgstr "[[CC]]Licencias CC"
 
 #. type: Plain text
 #: glossary.en.adoc:12
