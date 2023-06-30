@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-06-29 22:53\n"
+"PO-Revision-Date: 2023-06-30 00:34\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -622,13 +622,13 @@ msgstr "*Paso 4: Revisar el resultado*\n"
 #. type: Plain text
 #: name-match.en.adoc:39
 msgid "The results of the matchings can be explored in web pages in ChecklistBank or downloaded as a CSV file."
-msgstr ""
+msgstr "Los resultados se pueden explorar en ChecklistBank o descargarse como un archivo csv."
 
 #. type: Title ===
 #: name-match.en.adoc:40
 #, no-wrap
 msgid "Example: Acacia Mill."
-msgstr ""
+msgstr "Ejemplo: Acacia Mill."
 
 #. type: Plain text
 #: name-match.en.adoc:43
@@ -644,7 +644,7 @@ msgstr ""
 #. type: Plain text
 #: name-match.en.adoc:47
 msgid "Go to 'Choose a dataset in ChecklistBank'."
-msgstr ""
+msgstr "Vaya a 'Choose a dataset in ChecklistBank'."
 
 #. type: Plain text
 #: name-match.en.adoc:49
@@ -682,7 +682,7 @@ msgstr ""
 #. type: Plain text
 #: name-match.en.adoc:57
 msgid "Click Next."
-msgstr ""
+msgstr "Haga clic en \"Next\"."
 
 #. type: Plain text
 #: name-match.en.adoc:59
@@ -705,7 +705,7 @@ msgstr ""
 #: name-match.en.adoc:65
 #, no-wrap
 msgid "*Step 4. Review result*\n"
-msgstr ""
+msgstr "*Paso 4: Revisar el resultado*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:68
