@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-03 12:18\n"
+"PO-Revision-Date: 2023-07-03 15:30\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -741,19 +741,19 @@ msgstr "Todos los conjuntos de datos de ChecklistBank pueden ser comparados entr
 #. type: Plain text
 #: diff-viewer.en.adoc:11
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Dataset comparison’."
-msgstr ""
+msgstr "En el menú de la izquierda, expande el menú 'Tools' haciendo clic en la flecha. Luego haga clic en 'Name match'."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:12
 #, no-wrap
 msgid "img/web/CLB-tools-compare.png"
-msgstr ""
+msgstr "img/web/CLB-tools-compare.png"
 
 #. type: Title ===
 #: diff-viewer.en.adoc:14
 #, no-wrap
 msgid "Example: _Lysiloma_ (genus in Fabaceae)"
-msgstr ""
+msgstr "Ejemplo: _Lysiloma_ (género en Fabaceae)"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:17
