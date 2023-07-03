@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-03 16:36\n"
+"PO-Revision-Date: 2023-07-03 17:49\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -536,7 +536,7 @@ msgstr ""
 #: name-match.en.adoc:2
 #, no-wrap
 msgid "Name match tool"
-msgstr ""
+msgstr "Herramienta 'Name match'"
 
 #. type: Plain text
 #: name-match.en.adoc:5
@@ -595,23 +595,23 @@ msgstr "Elija un conjunto de datos en ChecklistBank. Puede seleccionar cualquier
 #: name-match.en.adoc:29
 #, no-wrap
 msgid "*Step 2: Select the target data*\n"
-msgstr ""
+msgstr "*Paso 2: Seleccione los datos de referencia*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:31
 msgid "The default selection for the target data is the latest release of the COL Checklist. It is also possible to select a different checklist from ChecklistBank, or even match against two datasets."
-msgstr "Por defecto aparecera la última versión de la lista de chequeo COL como la fuente de comparación. También es posible seleccionar una lista diferente disponible en ChecklistBank, o incluso comparar dos listas."
+msgstr "Por defecto aparecerá la última versión de la lista de chequeo COL como la fuente de datos de referencia. También es posible seleccionar una lista diferente disponible en ChecklistBank, o incluso comparar dos listas."
 
 #. type: Plain text
 #: name-match.en.adoc:33
 #, no-wrap
 msgid "*Step 3: Matching*\n"
-msgstr ""
+msgstr "*Paso 3: Comparación*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:35
 msgid "Once you click next in step 2, the matching will start. You can follow the progress in the progress bar. It is best to wait with exploring the results until the matching is complete."
-msgstr ""
+msgstr "Al hacer clic en 'Next' en el paso 2, comenzará la comparación entre las listas. Puede seguir el avance en la barra de progreso, espere a que se termine la comparación para explorar los resultados."
 
 #. type: Plain text
 #: name-match.en.adoc:37
@@ -633,13 +633,13 @@ msgstr "Ejemplo: Acacia Mill."
 #. type: Plain text
 #: name-match.en.adoc:43
 msgid "In this tutorial, we showcase the functionality of the name match tool with a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae."
-msgstr ""
+msgstr "En este tutorial se muestran las funcionalidades de la herramienta 'Name match' con una comparación del género _Acacia_ Mill, en la familia de plantas Fabaceae."
 
 #. type: Plain text
 #: name-match.en.adoc:45
 #, no-wrap
 msgid "*Step 1. Select your input data*\n"
-msgstr ""
+msgstr "*Paso 1: Seleccione los datos de entrada*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:47
@@ -668,7 +668,7 @@ msgstr "Haz clic en 'Fetch 3,297 names'."
 #: name-match.en.adoc:53
 #, no-wrap
 msgid "*Step 2. Select your target data*\n"
-msgstr ""
+msgstr "*Paso 2: Seleccione los datos de referencia*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:55
@@ -689,12 +689,12 @@ msgstr "Haz clic en \"Next\"."
 #: name-match.en.adoc:59
 #, no-wrap
 msgid "*Step 3. Matching*\n"
-msgstr ""
+msgstr "*Paso 3: Comparación*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:61
 msgid "The matching will start, please wait until it is complete."
-msgstr ""
+msgstr "La comparación comenzará, por favor espere hasta que se haya completado."
 
 #. type: Target for macro image
 #: name-match.en.adoc:62
@@ -726,12 +726,12 @@ msgstr "img/web/CLB-match-result.png"
 #: diff-viewer.en.adoc:2
 #, no-wrap
 msgid "Dataset comparison"
-msgstr ""
+msgstr "Comparación de conjuntos de datos"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:5
 msgid "The 'dataset comparison' allows for comparison of two datasets in ChecklistBank on a scientific name by scientific name basis."
-msgstr "Esta herramienta permite comparar los nombres científicos de dos conjuntos de datos en ChecklistBank."
+msgstr "La herramienta 'dataset comparison' permite comparar los nombres científicos de dos conjuntos de datos en ChecklistBank."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:7
@@ -758,7 +758,7 @@ msgstr "Ejemplo: _Lysiloma_ (género en Fabaceae)"
 #. type: Plain text
 #: diff-viewer.en.adoc:17
 msgid "We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus _Lysiloma_ are provided by the ILDIS World Database of Legumes checklist (Roskov et al. 2014)."
-msgstr ""
+msgstr "Utilizaremos la lista de la familia Fabaceae usada en el ejercicio anterior. Compararemos esta lista contra la lista COL 2021 para los datos del género _Lysiloma_, que son proporcionados por la lista 'ILDIS World Database of Legumes' (Roskov et al. 2014)."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:19
@@ -855,7 +855,7 @@ msgstr "Puede ver dos columnas, una para cada conjunto de datos. Las diferencias
 #: diff-viewer.en.adoc:52
 #, no-wrap
 msgid "img/web/CLB-compare-Lysiloma-result.png"
-msgstr ""
+msgstr "img/web/CLB-compare-Lysiloma-result.png"
 
 #. type: Title ==
 #: glossary.en.adoc:2
@@ -965,7 +965,7 @@ msgstr "[[GUID]]GUID"
 #. type: Plain text
 #: glossary.en.adoc:37
 msgid "Globally Unique IDentifier"
-msgstr ""
+msgstr "Identificador Único Global"
 
 #. type: Plain text
 #: glossary.en.adoc:39
@@ -987,7 +987,7 @@ msgstr "Citación sugerida"
 #. type: Plain text
 #: colophon.en.adoc:7
 msgid "Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2023). ChecklistBank Tutorial, version 1.  https://doi.org/10.35035/ce-9sw4-e095."
-msgstr ""
+msgstr "Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2023). ChecklistBank Tutorial, version 1.  https://doi.org/10.35035/ce-9sw4-e095."
 
 #. type: Title ===
 #: colophon.en.adoc:9
@@ -998,51 +998,51 @@ msgstr "Autores"
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid "Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, Diana Hernández, Camila Plata and Joe Miller."
-msgstr ""
+msgstr "Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, Diana Hernández, Camila Plata and Joe Miller."
 
 #. type: Title ===
 #: colophon.en.adoc:13
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Colaboradores"
 
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid "The ChecklistBank tutorial was developed as part of workshop series at various international meetings. Naturalis Biodiversity Center acknowledges the European Commission funded project Synthesys+ (grant agreement number 823827)."
-msgstr ""
+msgstr "El tutorial de ChecklistBank se desarrolló como parte de uns serie de talleres en varias reuniones internacionales. Naturalis Biodiversity Center reconoce el proyecto Synthesys+ financiado por la Comisión Europea (acuerdo número 823827)."
 
 #. type: Title ===
 #: colophon.en.adoc:17
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licencia"
 
 #. type: Plain text
 #: colophon.en.adoc:20
 msgid "The ChecklistBank tutorial is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "El tutorial de ChecklistBank está bajo la licencia https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:21
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI persistente"
 
 #. type: Plain text
 #: colophon.en.adoc:24
 msgid "https://doi.org/10.35035/ce-9sw4-e095"
-msgstr ""
+msgstr "https://doi.org/10.35035/ce-9sw4-e095"
 
 #. type: Title ===
 #: colophon.en.adoc:25
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Control del documento"
 
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "First edition, June 2023"
-msgstr ""
+msgstr "Primera edición, junio de 2023"
 
 #. type: Table
 #: colophon.en.adoc:34
@@ -1050,7 +1050,9 @@ msgstr ""
 msgid "|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]\n"
 "|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,width=104,height=70]\n"
 "|image::img/logos/logo-gbif.svg[GBIF,width=174,height=70]\n"
-msgstr ""
+msgstr "|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]\n"
+"|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,width=104,height=70]\n"
+"|image::img/logos/logo-gbif.svg[GBIF,width=174,height=70]\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:2
