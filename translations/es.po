@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-03 15:30\n"
+"PO-Revision-Date: 2023-07-03 16:36\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -763,56 +763,56 @@ msgstr ""
 #. type: Plain text
 #: diff-viewer.en.adoc:19
 msgid "When you open the tool, the start screen of the dataset comparison allows you to choose two datasets to make the comparison on the basis of scientific names."
-msgstr ""
+msgstr "Al abrir la herramienta, la pantalla de inicio le permite elegir dos conjuntos de datos para comparar sus nombres científicos."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:21
 #, no-wrap
 msgid "*Step 1. Select dataset 1*\n"
-msgstr ""
+msgstr "*Paso 1. Selecciona el primer conjunto de datos*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:23
 msgid "Start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. +"
-msgstr ""
+msgstr "Comienza a escribir WCVP-Fabaceae y este conjunto de datos aparecerá en el menú. Selecciónalo. +"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:24
 msgid "In the box 'Find taxon', type 'Lysiloma' and select it."
-msgstr ""
+msgstr "En el cuadro 'Buscar taxón', escribe 'Lysiloma' y selecciónalo."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:26
 #, no-wrap
 msgid "*Step 2. Select dataset 2*\n"
-msgstr ""
+msgstr "*Paso 2. Selecciona el segundo conjunto de datos*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:28
 msgid "Type COL 2021, and select the COL21 Annual Checklist 2021. +"
-msgstr ""
+msgstr "Escribe COL 2021 y selecciona \"COL21 Annual Checklist 2021\". +"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:29
 msgid "Click on 'Go to Lysiloma' to select the same genus as in dataset 1."
-msgstr ""
+msgstr "HaZ clic en 'Go to Lysiloma' para seleccionar el mismo género que en el primer conjunto de datos."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:31
 msgid "Click on ‘Show diff’"
-msgstr ""
+msgstr "Haz clic en 'Show diff'"
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:32
 #, no-wrap
 msgid "img/web/CLB-compare-selection.png"
-msgstr ""
+msgstr "img/web/CLB-compare-selection.png"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:35
 #, no-wrap
 msgid "*Step 3. Check you selection*\n"
-msgstr ""
+msgstr "*Paso 3. Compruebe su selección*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:39
@@ -820,34 +820,36 @@ msgstr ""
 msgid "The next view shows you which datasets and roots you have selected.\n"
 "You can choose whether the scientific name comparisons should include authorship and synonyms, for this example select both options.\n"
 "Additionally, you can select whether to show the parent, and at which level. For this example, also select the box 'Show parent'."
-msgstr ""
+msgstr "La siguiente vista muestra qué conjuntos de datos y taxones se han seleccionado.\n"
+"Puedes elegir si la comparacion de los nombres científicos deben incluir la autoría y sinónimos, para este ejemplo seleccione ambas opciones.\n"
+"Además, puedes seleccionar si mostrar al taxón padre y a qué nivel. Para este ejemplo, también seleccione el cuadro 'Show parent'."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:42
 #, no-wrap
 msgid "*Step 4. Get results**\n"
-msgstr ""
+msgstr "*Paso 4: Obterner los resultados*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:44
 msgid "Once you have made your selection, click ‘Get diff’."
-msgstr ""
+msgstr "Una vez hecha la selección, haz clic en 'Get diff’'."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:45
 #, no-wrap
 msgid "img/web/CLB-diff-Lysiloma.png"
-msgstr ""
+msgstr "img/web/CLB-diff-Lysiloma.png"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:49
 msgid "The results of the comparison can be explored in the webpage."
-msgstr ""
+msgstr "Los resultados de la comparación se pueden explorar en la página web."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:51
 msgid "You can see two columns, one for each dataset. Scientific name differences are shown in each column where a '-' or '+' sign indicates in which dataset the difference occurs. The results of the comparisons can also be downloaded in a CSV file for further investigation."
-msgstr ""
+msgstr "Puede ver dos columnas, una para cada conjunto de datos. Las diferencias de nombres científicos se muestran en cada columna donde un signo '-' o '+' indica en qué conjunto de datos ocurre la diferencia. Los resultados de la comparación se pueden descargar en un archivo CSV para su posterior revisión."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:52
@@ -882,83 +884,83 @@ msgstr "[[CC]]Licencias CC"
 #. type: Plain text
 #: glossary.en.adoc:12
 msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools."
-msgstr ""
+msgstr "Creative Commons. Son una serie de licencias establecidas por la organización Creative Commons que permiten compartir y reutilizar la creatividad y el conocimiento mediante la provisión de herramientas legales gratuitas."
 
 #. type: Labeled list
 #: glossary.en.adoc:13
 #, no-wrap
 msgid "[[COL]]COL"
-msgstr ""
+msgstr "[[COL]]COL"
 
 #. type: Plain text
 #: glossary.en.adoc:15
 msgid "Catalogue of Life.  A global collaboration bringing together the effort and contributions of taxonomists and informaticians from around the world."
-msgstr ""
+msgstr "Catálogo de la Vida. Una colaboración global que reúne el esfuerzo y las contribuciones de los taxónomos e informáticos de todo el mundo."
 
 #. type: Labeled list
 #: glossary.en.adoc:16
 #, no-wrap
 msgid "[[vocab]]Controlled Vocabulary"
-msgstr ""
+msgstr "[[vocab]]Vocabulario controlado"
 
 #. type: Plain text
 #: glossary.en.adoc:20
 msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
-msgstr ""
+msgstr "Un conjunto restringido de términos que se utilizan como valores posibles para un campo determinado. Se úede pensar en este como una lista de búsqueda o un menú desplegable para un campo en particular. Por ejemplo, el campo DwC basisOfRecord solo debe contener uno de estos valores: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\". Diríamos que la lista de valores es un vocabulario controlado para ese campo."
 
 #. type: Labeled list
 #: glossary.en.adoc:21
 #, no-wrap
 msgid "[[DOI]]DOI"
-msgstr ""
+msgstr "[[DOI]]DOI"
 
 #. type: Plain text
 #: glossary.en.adoc:23
 msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
-msgstr ""
+msgstr "Identificador de Objetos Digitales. Un identificador persistente usado para identificar objetos de forma única. Los DOI se utilizan en gran medida principalmente para identificar información académica, profesional y gubernamental, como artículos de revistas, informes de investigación y conjuntos de datos, y publicaciones oficiales."
 
 #. type: Labeled list
 #: glossary.en.adoc:24
 #, no-wrap
 msgid "[[DwC]]DwC"
-msgstr ""
+msgstr "[[DwC]]DwC"
 
 #. type: Plain text
 #: glossary.en.adoc:26
 msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
-msgstr ""
+msgstr "Darwin Core es un estándar de datos sobre  biodiversidad, mantenido por TDWG y ampliamente utilizado dentro de la comunidad  de GBIF. Es un conjunto de términos estandarizados y sus definiciones, que se utilizan para compartir información sobre biodiversidad."
 
 #. type: Labeled list
 #: glossary.en.adoc:27
 #, no-wrap
 msgid "[[DwC-A]]DwC-A"
-msgstr ""
+msgstr "[[DwC-A]]DwC-A"
 
 #. type: Plain text
 #: glossary.en.adoc:30
 msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
-msgstr ""
+msgstr "Archivo Darwin Core. Un archivo comprimido (zip) que contiene toda la información necesaria para compartir datos con GBIF. Cada comprimido contiene tres tipos de archivos:"
 
 #. type: Plain text
 #: glossary.en.adoc:31
 msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
-msgstr ""
+msgstr "los datos, en uno o más archivos de texto: ooccurrence.txt/event.txt/measurmentoffact.txt, etc"
 
 #. type: Plain text
 #: glossary.en.adoc:32
 msgid "a mapping file: rtf.xml"
-msgstr ""
+msgstr "un archivo de mapeo: rtf.xml"
 
 #. type: Plain text
 #: glossary.en.adoc:35
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr ""
+msgstr "un archivo de metadatos (EML): eml.xml Cuando se utiliza el IPT, se crea un Archivo Darwin Core, que se comparte con GBIF. Además, cuando se descargan datos del sitio web de GBIF, también puede elegir un formato DwC-A."
 
 #. type: Labeled list
 #: glossary.en.adoc:36
 #, no-wrap
 msgid "[[GUID]]GUID"
-msgstr ""
+msgstr "[[GUID]]GUID"
 
 #. type: Plain text
 #: glossary.en.adoc:37
@@ -974,13 +976,13 @@ msgstr ""
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colofón"
 
 #. type: Title ===
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Citación sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:7
@@ -991,7 +993,7 @@ msgstr ""
 #: colophon.en.adoc:9
 #, no-wrap
 msgid "Authors"
-msgstr ""
+msgstr "Autores"
 
 #. type: Plain text
 #: colophon.en.adoc:12
