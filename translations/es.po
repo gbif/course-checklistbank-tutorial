@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-06-30 03:56\n"
+"PO-Revision-Date: 2023-07-03 11:17\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -651,17 +651,18 @@ msgstr "Vaya a 'Choose a dataset in ChecklistBank'."
 #, no-wrap
 msgid "In the 'Select a subject dataset' box, start typing and select ‘WCVP-Fabaceae [2304]’.\n"
 "This is a dataset from the Legume Phylogeny Working Group 2021, which is a group of Fabaceae specialists that have worked on a comprehensive global taxonomic list for this taxon. +"
-msgstr ""
+msgstr "En la casilla 'Select a subject dataset', escribe y selecciona 'WCVP-Fabaceae [2304]'.\n"
+"Este es un conjunto de datos del \"Legume Phylogeny Working Group\" 2021, un grupo de especialistas de la familia Fabaceae que han trabajado en una lista taxonómica global."
 
 #. type: Plain text
 #: name-match.en.adoc:50
 msgid "Under 'And a root taxon', start typing and select 'Acacia (genus in Fabaceae)'"
-msgstr ""
+msgstr "En 'And a root taxon', escribe y selecciona 'Acacia' (género en Fabaceae)"
 
 #. type: Plain text
 #: name-match.en.adoc:51
 msgid "Click on 'Fetch 3,297 names'."
-msgstr ""
+msgstr "Haz clic en 'Fetch 3,297 names'."
 
 #. type: Plain text
 #: name-match.en.adoc:53
@@ -672,17 +673,17 @@ msgstr ""
 #. type: Plain text
 #: name-match.en.adoc:55
 msgid "For this tutorial select the COL Checklist 2021 (COL21)."
-msgstr ""
+msgstr "Para este tutorial selecciona la lista COL 2021 (COL21)."
 
 #. type: Plain text
 #: name-match.en.adoc:56
 msgid "Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +"
-msgstr ""
+msgstr "Escribae'COL21' en el cuadro de texto y selecciona 'COL21 Annual Checklist 2021 [2328]'. +"
 
 #. type: Plain text
 #: name-match.en.adoc:57
 msgid "Click Next."
-msgstr "Haga clic en \"Next\"."
+msgstr "Haz clic en \"Next\"."
 
 #. type: Plain text
 #: name-match.en.adoc:59
@@ -699,7 +700,7 @@ msgstr ""
 #: name-match.en.adoc:62
 #, no-wrap
 msgid "img/web/CLB-match-Acacia.png"
-msgstr ""
+msgstr "img/web/CLB-match-Acacia.png"
 
 #. type: Plain text
 #: name-match.en.adoc:65
