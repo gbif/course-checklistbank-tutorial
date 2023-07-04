@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-03 17:49\n"
+"PO-Revision-Date: 2023-07-04 14:17\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -160,7 +160,7 @@ msgstr ""
 #. type: Plain text
 #: explore-clb.en.adoc:11
 msgid "Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr ""
+msgstr "Antes de empezar, asegúrate de haber iniciado sesión en ChecklistBank. Si no sabes cómo hacerlo, sigue los pasos <<ChecklistBank login,here>>."
 
 #. type: Title ===
 #: explore-clb.en.adoc:12
@@ -541,7 +541,7 @@ msgstr "Herramienta 'Name match'"
 #. type: Plain text
 #: name-match.en.adoc:5
 msgid "The 'name match' tool in ChecklistBank enables comparison of any checklist against one or two other datasets in ChecklistBank in terms of taxon name matching. There is a limit to matching a maximum of 6000 taxon names in one request."
-msgstr "La herramienta \"Name match\" en ChecklistBank permite subir una lista y compararla contra una o dos listas de ChecklistBank. El límite de comparación son 6000 nombres en una misma solicitud."
+msgstr "La herramienta \"Name match\" permite subir una lista y compararla contra otras listas disponibles en ChecklistBank. El límite de comparación son 6000 nombres en una misma solicitud."
 
 #. type: Plain text
 #: name-match.en.adoc:9
