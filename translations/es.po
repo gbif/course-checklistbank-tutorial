@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-04 14:17\n"
+"PO-Revision-Date: 2023-07-04 15:14\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -160,7 +160,7 @@ msgstr ""
 #. type: Plain text
 #: explore-clb.en.adoc:11
 msgid "Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr "Antes de empezar, asegúrate de haber iniciado sesión en ChecklistBank. Si no sabes cómo hacerlo, sigue los pasos <<ChecklistBank login,here>>."
+msgstr "Antes de empezar, asegúrate de haber iniciado sesión en ChecklistBank. Si no sabes cómo hacerlo, sigue los pasos <<ChecklistBank login,acá>>."
 
 #. type: Title ===
 #: explore-clb.en.adoc:12
@@ -349,7 +349,7 @@ msgstr ""
 #. type: Plain text
 #: name-usage.en.adoc:9 name-match.en.adoc:7 diff-viewer.en.adoc:9
 msgid "Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr ""
+msgstr "Por favor, asegúrate de que ha iniciado sesión en ChecklistBank. Si no sabes cómo hacerlo, sigue los pasos <<ChecklistBank login,acá>>."
 
 #. type: Plain text
 #: name-usage.en.adoc:11
@@ -546,7 +546,7 @@ msgstr "La herramienta \"Name match\" permite subir una lista y compararla contr
 #. type: Plain text
 #: name-match.en.adoc:9
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’."
-msgstr "Puedes encontrar la herramienta en el menú de la izquierda. Expande el menú 'Tools' haciendo clic en la flecha. Luego haga clic en 'Name match'."
+msgstr "La herramienta se encuentra en el menú de la izquierda. Expande el menú 'Tools' haciendo clic en la flecha. Luego haga clic en 'Name match'."
 
 #. type: Target for macro image
 #: name-match.en.adoc:10
@@ -574,22 +574,22 @@ msgstr "*Paso 1: Seleccione los datos de entrada*\n"
 #. type: Plain text
 #: name-match.en.adoc:19
 msgid "There are three different options for your input data:"
-msgstr "Hay tres opciones diferentes para los datos de entrada:"
+msgstr "Hay tres opciones para los datos de entrada:"
 
 #. type: Plain text
 #: name-match.en.adoc:21
 msgid "Simply paste a list of names in the text box. Use one name per row, and names can include author string."
-msgstr "Pegue una lista de nombres en el cuadro de texto. Utilice un nombre por fila, y los nombres pueden incluir la autoría."
+msgstr "Pegar una lista de nombres en el cuadro de texto. Utilice un nombre por fila, y los nombres pueden incluir la autoría."
 
 #. type: Plain text
 #: name-match.en.adoc:24
 msgid "Upload a csv file with a list of names.  This csv file must contain at least a column with the header 'scientificName' (which may include the author) and optional columns 'author', 'rank', 'code'(nomenclatural code)."
-msgstr "Subia un archivo csv con la lista de nombres. Este archivo debe contener al menos una columna con la cabecera 'scientificName' (que puede incluir la autoría) y las columnas opcionales 'autor', 'rank', 'code' (código nomenclatural)."
+msgstr "Subir un archivo Csv con la lista de nombres. Este archivo debe contener al menos una columna con la cabecera 'scientificName' (que puede incluir la autoría) y las columnas opcionales 'autor', 'rank', 'code' (código nomenclatural)."
 
 #. type: Plain text
 #: name-match.en.adoc:27
 msgid "Choose a dataset in ChecklistBank.  You can select any checklist from the ChecklistBank repository. If this is a large checklist, it might be helpful to select a root taxon. The matching is then done for all names below the root taxon, ignoring higher taxonomic levels."
-msgstr "Elija un conjunto de datos en ChecklistBank. Puede seleccionar cualquier lista del repositorio. Si esta es una lista grande, puede ser útil seleccionar un taxón raíz. La comparación se hace entonces para todos los nombres por debajo del taxón raíz, ignorando niveles taxonómicos más altos."
+msgstr "Elejir un conjunto de datos en ChecklistBank. Puede seleccionar cualquier lista del repositorio. Si esta es una lista grande, puede ser útil seleccionar un taxón raíz. La comparación se hace entonces para todos los nombres por debajo del taxón raíz, ignorando niveles taxonómicos más altos."
 
 #. type: Plain text
 #: name-match.en.adoc:29
@@ -644,7 +644,7 @@ msgstr "*Paso 1: Seleccione los datos de entrada*\n"
 #. type: Plain text
 #: name-match.en.adoc:47
 msgid "Go to 'Choose a dataset in ChecklistBank'."
-msgstr "Vaya a 'Choose a dataset in ChecklistBank'."
+msgstr "Dirígete a 'Choose a dataset in ChecklistBank'."
 
 #. type: Plain text
 #: name-match.en.adoc:49
