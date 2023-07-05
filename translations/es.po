@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-04 16:35\n"
+"PO-Revision-Date: 2023-07-05 01:43\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -43,7 +43,7 @@ msgstr ""
 #: description.en.adoc:2
 #, no-wrap
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. type: delimited block *
 #: description.en.adoc:6
