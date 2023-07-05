@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-05 02:45\n"
+"PO-Revision-Date: 2023-07-05 05:20\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -31,13 +31,13 @@ msgstr "Catálogo de la vida <support@catalogueoflife.org>"
 #. type: Plain text
 #: index.en.adoc:18
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: index.en.adoc:23
 #, no-wrap
 msgid "img/logos/clb-col-dark.svg"
-msgstr ""
+msgstr "img/logos/clb-col-dark.svg"
 
 #. type: Title ==
 #: description.en.adoc:2
@@ -155,7 +155,7 @@ msgstr "Los proveedores de datos se benefician tanto de hacer disponibles sus co
 #. type: Plain text
 #: explore-clb.en.adoc:9
 msgid "You can search through the ChecklistBank repository and explore the information and content of each checklist. All checklists can also be downloaded in multiple formats."
-msgstr ""
+msgstr "Puedes buscar en el repositorio de ChecklistBank y explorar la información y el contenido de cada lista de especies. Todas se pueden descargar en múltiples formatos."
 
 #. type: Plain text
 #: explore-clb.en.adoc:11
@@ -166,28 +166,28 @@ msgstr "Antes de empezar, asegúrate de haber iniciado sesión en ChecklistBank.
 #: explore-clb.en.adoc:12
 #, no-wrap
 msgid "Search for a checklist"
-msgstr ""
+msgstr "Búsqueda de una lista taxonómica"
 
 #. type: Plain text
 #: explore-clb.en.adoc:15
 msgid "Click on Datasets in the menu on the left. This will bring you to the dataset search page."
-msgstr ""
+msgstr "Haga clic en la opción \"Datasets\" del menú de la izquierda. Esto le llevará a la página de búsqueda de conjuntos de datos."
 
 #. type: Target for macro image
 #: explore-clb.en.adoc:16
 #, no-wrap
 msgid "img/web/CLB-search.png"
-msgstr ""
+msgstr "img/web/CLB-search.png"
 
 #. type: Plain text
 #: explore-clb.en.adoc:19
 msgid "You can use the Search field to type any keyword of the checklist you are searching for. Here are a few suggestions that you can use for this tutorial:"
-msgstr ""
+msgstr "Se puede utilizar el campo de búsqueda \"Search\" para escribir cualquier palabra clave de la lista de especies que está buscando. Aquí se presentan algunas sugerencias para usar en este tutorial:"
 
 #. type: Plain text
 #: explore-clb.en.adoc:21
 msgid "search 'COL22' : this will only give 1 result, the Catalogue of Life Checklist 2022."
-msgstr ""
+msgstr "buscar 'COL22': únicamente genera un resultado, la lista de especies del Catálogo de la Vida 2022."
 
 #. type: Plain text
 #: explore-clb.en.adoc:22
