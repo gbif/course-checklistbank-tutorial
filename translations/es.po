@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-05 05:20\n"
+"PO-Revision-Date: 2023-07-05 06:27\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -192,65 +192,65 @@ msgstr "buscar 'COL22': únicamente genera un resultado, la lista de especies de
 #. type: Plain text
 #: explore-clb.en.adoc:22
 msgid "search 'Carabcat': the top result shows the Carabcat checklist, a global database of ground beetles, but additionally it will also show COL Checklists in which this checklist was included (since 2021)."
-msgstr ""
+msgstr "buscar 'Carabcat': el primer resultado muestra la lista de especies de Carabcat, una base de datos global de escarabajos terrestres, pero también muestra listas de especies de COL en las que se incluyó Carabcat (desde 2021)."
 
 #. type: Plain text
 #: explore-clb.en.adoc:23
 msgid "search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF."
-msgstr ""
+msgstr "buscar 'Foraminifera': el primer resultado muestra la lista de especies de WoRMS Foraminifera, a continuación se muestran las listas de COL en las que se incluyó dicha lista, así como diversas listas de especies que se han publicado en GBIF."
 
 #. type: Title ===
 #: explore-clb.en.adoc:24
 #, no-wrap
 msgid "Explore a checklist"
-msgstr ""
+msgstr "Explorar una lista de especies"
 
 #. type: Plain text
 #: explore-clb.en.adoc:28
 msgid "Let’s have a closer look at the information you can find for a particular dataset.  In this example, we use the Alucitoidea dataset by Donald Hobern: https://www.checklistbank.org/dataset/2207/about."
-msgstr ""
+msgstr "Veamos más de cerca la información que puede encontrar para un conjunto de datos en particular. En este ejemplo, utilizamos el conjunto de datos Alucitoidea de Donald Hobern: https://www.checklistbank.org/dataset/2207/about."
 
 #. type: Plain text
 #: explore-clb.en.adoc:30
 msgid "The menu on the left shows various options to explore this dataset:"
-msgstr ""
+msgstr "El menú de la izquierda muestra varias opciones para explorar este conjunto de datos:"
 
 #. type: Plain text
 #: explore-clb.en.adoc:32
 #, no-wrap
 msgid "*About*: here you can find all the metadata about this dataset including the author and contact person, the version of the dataset and date of when it was issued, licensing information and how to cite this source, link to the website of the dataset (if applicable), taxonomic scope, etc.\n"
-msgstr ""
+msgstr "*About*: Opción \"Acerca de\". Aquí se pueden encontrar todos los metadatos del conjunto de datos, incluyendo el autor y la persona de contacto, la versión del conjunto de datos y la fecha de publicación, información sobre licencias y forma de citar esta fuente, enlace al sitio web del conjunto de datos (si existe), ámbito taxonómico, etc.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:34
 #, no-wrap
 msgid "*Download*: on this page you can download this dataset in various formats:\n"
-msgstr ""
+msgstr "*Download*: Opción \"Descargar\". En esta página se puede descargar el conjunto de datos en diferentes formatos:\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:36
 msgid "https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): commonly used standard for biodiversity data."
-msgstr ""
+msgstr "https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): estándar usado comúnmente para datos de biodiversidad."
 
 #. type: Plain text
 #: explore-clb.en.adoc:37
 msgid "Annual Checklist Exchange Format (acef): data format previously used by Catalogue of Life."
-msgstr ""
+msgstr "Formato de intercambio de las versiones anuales de COL (acef): formato de datos utilizado previamente por el Catálogo de la Vida."
 
 #. type: Plain text
 #: explore-clb.en.adoc:38
 msgid "https://github.com/gbif/text-tree[TextTree]: a simple format to represent taxonomic trees using indented, plain text."
-msgstr ""
+msgstr "https://github.com/gbif/text-tree[TextTree]: Es un formato simple para representar árboles taxonómicos usando texto plano y con sangría."
 
 #. type: Plain text
 #: explore-clb.en.adoc:39
 msgid "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life."
-msgstr ""
+msgstr "https://github. om/CatalogueOfLife/frdp[Catalogue of Life Data Package] (ColDP): es un formato tabular de texto con un conjunto estándar de archivos y columnas recomendadas para el intercambio de listas de especies con Catalogue of Life."
 
 #. type: Plain text
 #: explore-clb.en.adoc:40
 msgid "https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data."
-msgstr ""
+msgstr "https://es.wikipedia.org/wiki/Newick_format[Newick]: Es una manera de representar árboles usando paréntesis y comas, utilizados a menudo con datos filogenéticos."
 
 #. type: Plain text
 #: explore-clb.en.adoc:41
