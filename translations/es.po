@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-05 06:27\n"
+"PO-Revision-Date: 2023-07-05 18:48\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -255,7 +255,7 @@ msgstr "https://es.wikipedia.org/wiki/Newick_format[Newick]: Es una manera de re
 #. type: Plain text
 #: explore-clb.en.adoc:41
 msgid "http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools."
-msgstr ""
+msgstr "http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: un formato simple ampliamente utilizado para representar gráficos. Los archivos exportados de ChecklistBank incluirán las relaciones de sinonimia y basónimos que en el gráfico final se pueden representar con muchas herramientas de software."
 
 #. type: Plain text
 #: explore-clb.en.adoc:43
