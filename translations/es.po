@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-05 19:46\n"
+"PO-Revision-Date: 2023-07-05 20:45\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -348,7 +348,7 @@ msgstr "Esta herramienta ofrece una visión general de la apariencia de un nombr
 #. type: Plain text
 #: name-usage.en.adoc:7
 msgid "A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource."
-msgstr ""
+msgstr "Un 'Uso del nombre taxonómico' es el uso de un nombre científico en particular en una fuente determinada, que puede ser un conjunto de datos en sí mismo o cualquier otra fuente (e. Taxónomo experto, referencia bibliográfica) proporcionada en campo estándar \"accordingTo\". La herramienta sirve para entender cómo un nombre científico se refiere a diferentes sinónimos y, por tanto, a un concepto taxonómico que se utiliza en un conjunto de datos o recurso en particular."
 
 #. type: Plain text
 #: name-usage.en.adoc:9 name-match.en.adoc:7 diff-viewer.en.adoc:9
@@ -358,68 +358,68 @@ msgstr "Asegúrate de que haber iniciado sesión en ChecklistBank. Si no sabes c
 #. type: Plain text
 #: name-usage.en.adoc:11
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Cross dataset search’."
-msgstr ""
+msgstr "La herramienta se encuentra en el menú de la izquierda. El menú 'Tools' se expande haciendo clic en la flecha. Después, hacer clic en 'Name match'."
 
 #. type: Target for macro image
 #: name-usage.en.adoc:12
 #, no-wrap
 msgid "img/web/CLB-tools-dataset-search.png"
-msgstr ""
+msgstr "img/web/CLB-tools-dataset-search.png"
 
 #. type: Plain text
 #: name-usage.en.adoc:15
 msgid "You will find several options to improve your dataset search:"
-msgstr ""
+msgstr "Existen varias opciones para mejorar la búsqueda de conjuntos de datos:"
 
 #. type: Plain text
 #: name-usage.en.adoc:17
 msgid "Fuzzy: is an approximate string matching that matches two or more words even if there are typos or misspellings."
-msgstr ""
+msgstr "Fuzzy: es una cadena de caracteres parecida que coincide con dos o más palabras incluso si hay errores de ortografía."
 
 #. type: Plain text
 #: name-usage.en.adoc:18
 msgid "Extinct: if selected match only within extinct taxa names."
-msgstr ""
+msgstr "Extinct: si sólo se quiere buscar coincidencias con nombres de taxones extintos."
 
 #. type: Plain text
 #: name-usage.en.adoc:19
 msgid "Matching:"
-msgstr ""
+msgstr "Matching"
 
 #. type: Plain text
 #: name-usage.en.adoc:21
 msgid "Exact: compares the entire name string (without considering authors)."
-msgstr ""
+msgstr "Exact: compara la cadena completa del nombre (sin tener en cuenta a los autores)."
 
 #. type: Plain text
 #: name-usage.en.adoc:22
 msgid "Words: matches word parts of the name, regardless of how they are combined."
-msgstr ""
+msgstr "Words: compara partes de la palabra del nombre, independientemente de cómo se combinen."
 
 #. type: Plain text
 #: name-usage.en.adoc:23
 msgid "Partial: a prefix search that matches names that begin with those letters."
-msgstr ""
+msgstr "Partial: búsqueda de coincidencias de nombres que empiecen con las mismas letras."
 
 #. type: Plain text
 #: name-usage.en.adoc:24
 msgid "Restrict to:"
-msgstr ""
+msgstr "Restrict to:"
 
 #. type: Plain text
 #: name-usage.en.adoc:26
 msgid "Scientific name: search within the scientific names without authorship"
-msgstr ""
+msgstr "Scientific name: búsqueda entre los nombres científicos sin los nombres de autor."
 
 #. type: Plain text
 #: name-usage.en.adoc:27
 msgid "Authorship: search within the scientific name"
-msgstr ""
+msgstr "Autorship: búsqueda con el nombre científico"
 
 #. type: Plain text
 #: name-usage.en.adoc:28
 msgid "Any: search in all both scientific name and authorship"
-msgstr ""
+msgstr "Any: búsqueda tanto en los nombres científicos como en las autoridades"
 
 #. type: Target for macro image
 #: name-usage.en.adoc:29
