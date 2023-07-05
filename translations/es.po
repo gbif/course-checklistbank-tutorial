@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-05 01:43\n"
+"PO-Revision-Date: 2023-07-05 02:45\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -150,7 +150,7 @@ msgstr "ChecklistBank es un repositorio público que incluye más de 40.000 list
 #. type: Plain text
 #: explore-clb.en.adoc:7
 msgid "Data publishers benefit both by making their datasets accessible for reuse and attribution and also through ChecklistBank tools for data review and detection of possible issues. Some of the datasets in ChecklistBank serve as authoritative sources for the Catalogue of Life Checklist, and new releases of the COL Checklist are also published as ChecklistBank datasets."
-msgstr ""
+msgstr "Los proveedores de datos se benefician tanto de hacer disponibles sus conjuntos de datos para su reutilización y citación, como a través de las herramientas de ChecklistBank para revisión y detección de posibles errores. Algunos de los conjuntos de datos disponibles en ChecklistBank son fuentes autorizadas que se utilizan en la lista de especies del Catálogo de la Vida, y, a su vez, todas las versiones liberadas de COL también se publican como conjuntos de datos de ChecklistBank."
 
 #. type: Plain text
 #: explore-clb.en.adoc:9
