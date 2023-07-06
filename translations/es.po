@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-05 20:45\n"
+"PO-Revision-Date: 2023-07-06 14:30\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -425,31 +425,31 @@ msgstr "Any: búsqueda tanto en los nombres científicos como en las autoridades
 #: name-usage.en.adoc:29
 #, no-wrap
 msgid "img/web/CLB-matching-options.png"
-msgstr ""
+msgstr "img/web/CLB-matching-options.png"
 
 #. type: Title ===
 #: name-usage.en.adoc:31
 #, no-wrap
 msgid "Example: _Quercus robur_ L."
-msgstr ""
+msgstr "Ejemplo: _Quercus robur_ L."
 
 #. type: Plain text
 #: name-usage.en.adoc:34
 #, no-wrap
 msgid "We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   \n"
-msgstr ""
+msgstr "Mostramos la funcionalidad y la utilidad de la herramienta \"cross dataset search\", con un ejemplo real de búsqueda de un nombre científico. _Quercus robur_ L. es un roble perteneciente a la familia de las Fagaceae con una distribución amplia en Europa.   \n"
 
 #. type: Plain text
 #: name-usage.en.adoc:36
 #, no-wrap
 msgid "*Step 1: Type Quercus robur in the search bar.*\n"
-msgstr ""
+msgstr "*Paso 1: Escribir Quercus robur en la barra de búsqueda.*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:38
 #, no-wrap
 msgid "*Step 2: Select Exact in the options.*\n"
-msgstr ""
+msgstr "*Paso 2: Seleccionar Exact en las opciones.*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:40
