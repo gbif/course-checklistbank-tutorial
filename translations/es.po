@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-06 19:18\n"
+"PO-Revision-Date: 2023-07-06 20:31\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -267,8 +267,8 @@ msgstr "La descarga de datos tiene las siguientes opciones para seleccionar un s
 #, no-wrap
 msgid "Choose root taxon: you can select a taxon within the checklist that will be the top level for the data included in your download. This means only taxonomic levels from this root level and further down are selected.\n"
 "For example, if we choose 'Cenoloba' here as root taxon, only this genus and the species within this genus would be included in the download."
-msgstr "Elegir el taxón raíz: se puede seleccionar un taxón dentro de la lista taxonómica que será el nivel superior para los datos a incluir en la descarga. Esto significa que sólo los niveles taxonómicos de este nivel raíz y más abajo son seleccionados.\n"
-"Por ejemplo, si elegimos 'Cenoloba' aquí como taxón raíz, sólo este género y las especies dentro de este género se incluirían en la descarga."
+msgstr "Elegir el taxón raíz: se puede seleccionar un taxón dentro de la lista taxonómica que será el nivel jerárquico más alto de los datos que se incluyan en la descarga. Esto significa que selecciona únicamente las categorías taxonómicas de este nivel y e inferiores.\n"
+"Por ejemplo, si elegimos 'Cenoloba' como taxón raíz, sólo este género y las especies dentro de este género se incluirían en la descarga."
 
 #. type: Plain text
 #: explore-clb.en.adoc:48
@@ -281,18 +281,18 @@ msgstr "Excluir categorías inferiores: seleccionar el nivel taxonómico más al
 #. type: Plain text
 #: explore-clb.en.adoc:50
 msgid "The download consists of a zip file containing several tsv files of which the file ‘NameUsage.tsv’ includes the names in the checklist."
-msgstr "La descarga consiste en un archivo zip que contiene varios archivos tsv de los cuales el archivo 'NameUsage.tsv' incluye los nombres en la lista descargada."
+msgstr "La descarga consiste en un archivo zip que contiene varios archivos tsv de los cuales el archivo 'NameUsage.tsv' incluye los nombres científicos."
 
 #. type: Plain text
 #: explore-clb.en.adoc:52
 #, no-wrap
 msgid "*Browse*: you can use this page to browse through the taxonomic tree for this particular checklist. This is useful to get a quick overview of which taxonomic levels and names are included in the checklist.\n"
-msgstr "*Browse*: Se puede usar esta página para navegar a través del árbol taxonómico para esta lista en particular. Esta opción es muy útil para obtener un resumen rápido de las categorías taxonómicas y nombres que están incluidos en la lista de especies.\n"
+msgstr "*Browse*: Se puede usar para navegar a través del árbol taxonómico de una lista en particular. Esta opción es muy útil para obtener un resumen rápido de las categorías taxonómicas y los nombres que están incluidos en la lista.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:54
 msgid "This is the view if you unfold the taxonomic tree for the Alucitoidea checklist:"
-msgstr "Así se observa si despliega el árbol taxonómico de la lista de Alucitoidea:"
+msgstr "Así se observa al desplegar el árbol taxonómico de la lista de Alucitoidea:"
 
 #. type: Target for macro image
 #: explore-clb.en.adoc:55
@@ -304,35 +304,35 @@ msgstr "img/web/CLB-browse-Alucitoidea.png"
 #: explore-clb.en.adoc:58
 #, no-wrap
 msgid "*Search*:  here you can search for specific taxonomic names. This functionality is most useful if you are looking for a particular name.\n"
-msgstr "*Search*: aquí se pueden buscar nombres taxonómicos específicos. Esta funcionalidad es más útil si se busca un nombre en particular.\n"
+msgstr "*Search*: aquí se pueden buscar nombres taxonómicos en particular.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:61
 #, no-wrap
 msgid "*Imports*: this shows the history and metrics of the import of this checklist into ChecklistBank including the different versions of the checklist. The timeline compares counts across imports, making it possible to see the growth in taxon counts, new datatypes added, etc. +\n"
 "Note: for the Catalogue of Life monthly and annual releases, the Imports is not available, because each release is a new checklist. For these checklists, there is just a Metrics page.\n"
-msgstr "*Imports*: esta función muestra el historial y estadísticas de las importaciones de esta lista de verificación en ChecklistBank, incluyendo sus diferentes versiones. El historial compara las importaciones numéricamente, lo cual permite ver el crecimiento a lo largo del tiempo del número de taxones, nuevos tipos de datos añadidos, etc. +\n"
-"Nota: para las versiones mensuales y anuales de la lista COL, esta opción no está disponible, porque cada versión es una nueva lista. Para esas listas está disponible la función de Metrics.\n"
+msgstr "*Imports*: esta función muestra el historial y estadísticas de las veces que se ha importado una lista en ChecklistBank, incluyendo sus diferentes versiones. La pestaña 'Timeline' compara las diferentes versiones importadas, lo cual permite ver el crecimiento en el número de taxones, nuevos tipos de datos añadidos, etc. +\n"
+"Nota: esta opción no está disponible para las versiones mensuales y anuales de la lista COL, porque cada una es una nueva lista. Para esas listas solo está disponible la función 'Metrics'.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:64
 #, no-wrap
 msgid "*Issues*: this lists the issues found by automatic checks. When you hover your mouse over a particular issue it will show the definition of that issue. A full list of all issues can be found http://api.checklistbank.org/vocab/issue[here]. +\n"
 "When you click on the count number it will take you to the search page displaying the names with that particular issue.\n"
-msgstr "*Issues*: esta lista muestra los errores encontrados en las revisiones automáticas que realiza la plataforma. Al pasar el ratón encima de algún error en particular, se mostrará la definición del mismo. La lista completa de todos los posibles errores se encuentra http://api. hecklistbank.org/vocab/issue[aquí]. +\n"
+msgstr "*Issues*: se muestra una lista de los errores encontrados en las revisiones automáticas que realiza la plataforma. Al pasar el ratón encima de algún error en particular, se mostrará la definición del mismo. La lista completa de todos los posibles errores se encuentra http://api. hecklistbank.org/vocab/issue[aquí]. +\n"
 "Al hacer clic en el número, se redirige a la página que muestra los nombres con ese error en particular.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:66
 #, no-wrap
 msgid "*References*: these are the references used to generate this checklist.\n"
-msgstr "*References*: aquí se muestran las referencias utilizadas para generar la lista de especies.\n"
+msgstr "*References*: aquí se muestran las referencias utilizadas para generar una lista en particular.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:68
 #, no-wrap
 msgid "*Verbatim*: this shows the exact data as it was supplied without any alterations done by the importer to best fit the ChecklistBank data model. You can perform a full text search and browse the csv files. This page can be useful for data providers in debugging why ChecklistBank has interpreted things in a particular way, but also for others to search the original data and browse it.\n"
-msgstr "*Verbatim*: aquí se muestran los datos exactamente como fueron proporcionados, sin ninguna de las modificaciones realizadas en la importación para ajustar mejor al modelo de datos de ChecklistBank. Se puede realizar una búsqueda de texto completa y navegar por los archivos csv. Esta página puede ser útil para los proveedores para entender por qué ChecklistBank ha interpretado los datos de una manera particular, así como para que otros busquen los datos originales y los exploren.\n"
+msgstr "*Verbatim*: se muestran los datos tal como fueron proporcionados originalmente, sin ninguna de las modificaciones que se realizan durante la importación con el fin de ajustar el contenido al modelo de datos de ChecklistBank. Se puede realizar una búsqueda de texto completa y navegar por los archivos csv. Esta página es útil para que los proveedores entiendan por qué ChecklistBank ha interpretado los datos de una manera particular, así como para que otros usuarios busquen los datos originales y los exploren.\n"
 
 #. type: Title ==
 #: name-usage.en.adoc:2
@@ -343,17 +343,17 @@ msgstr "Cross dataset search"
 #. type: Plain text
 #: name-usage.en.adoc:5
 msgid "The 'cross dataset search' tool gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, that are available in ChecklistBank."
-msgstr "Esta herramienta ofrece una visión general de la apariencia de un nombre científico en particular en todas las fuentes de datos, taxonómicas o nomenclaturales, que están disponibles en ChecklistBank."
+msgstr "Esta herramienta muestra la apariencia de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank que lo incluyan."
 
 #. type: Plain text
 #: name-usage.en.adoc:7
 msgid "A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource."
-msgstr "Un 'Uso del nombre taxonómico' es el uso de un nombre científico en particular en una fuente determinada, que puede ser un conjunto de datos en sí mismo o cualquier otra fuente (e. Taxónomo experto, referencia bibliográfica) proporcionada en campo estándar \"accordingTo\". La herramienta sirve para entender cómo un nombre científico se refiere a diferentes sinónimos y, por tanto, a un concepto taxonómico que se utiliza en un conjunto de datos o recurso en particular."
+msgstr "Un 'Uso del nombre taxonómico' es el uso que tiene un nombre científico en particular en una fuente determinada, la cual puede ser un conjunto de datos en sí mismo o cualquier otra fuente que el proveedor de datos mencione en el campo estándar \"accordingTo\" (ej. taxónomo experto, referencia bibliográfica). La herramienta sirve para entender cómo un nombre científico dirige a diferentes sinónimos y, por tanto, al concepto taxonómico que se utiliza en un conjunto de datos o recurso en particular."
 
 #. type: Plain text
 #: name-usage.en.adoc:9 name-match.en.adoc:7 diff-viewer.en.adoc:9
 msgid "Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr "Asegúrate de que haber iniciado sesión en ChecklistBank. Si no sabes cómo hacerlo, sigue los pasos <<ChecklistBank login,acá>>."
+msgstr "Es necesario asegurarse de que haber iniciado sesión en ChecklistBank. Si no sabe cómo hacerlo, siga los pasos <<ChecklistBank login,aquí>>."
 
 #. type: Plain text
 #: name-usage.en.adoc:11
