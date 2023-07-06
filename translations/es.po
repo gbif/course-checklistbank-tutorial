@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-06 17:08\n"
+"PO-Revision-Date: 2023-07-06 18:04\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -312,7 +312,7 @@ msgstr "*Search*: aquí se pueden buscar nombres taxonómicos específicos. Esta
 msgid "*Imports*: this shows the history and metrics of the import of this checklist into ChecklistBank including the different versions of the checklist. The timeline compares counts across imports, making it possible to see the growth in taxon counts, new datatypes added, etc. +\n"
 "Note: for the Catalogue of Life monthly and annual releases, the Imports is not available, because each release is a new checklist. For these checklists, there is just a Metrics page.\n"
 msgstr "*Imports*: esta función muestra el historial y estadísticas de las importaciones de esta lista de verificación en ChecklistBank, incluyendo sus diferentes versiones. El historial compara las importaciones numéricamente, lo cual permite ver el crecimiento a lo largo del tiempo del número de taxones, nuevos tipos de datos añadidos, etc. +\n"
-"Nota: para los lanzamientos mensuales y anuales de Catalogue of Life, esta opción no está disponible, porque cada versión es una nueva lista. Para esas listas está disponible la función de Metrics.\n"
+"Nota: para las versiones mensuales y anuales de la lista COL, esta opción no está disponible, porque cada versión es una nueva lista. Para esas listas está disponible la función de Metrics.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:64
@@ -832,7 +832,7 @@ msgstr "La siguiente vista muestra qué conjuntos de datos y taxones se han sele
 #: diff-viewer.en.adoc:42
 #, no-wrap
 msgid "*Step 4. Get results**\n"
-msgstr "*Paso 4: Obterner los resultados*\n"
+msgstr "*Paso 4: Obtener los resultados*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:44
