@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-06 14:30\n"
+"PO-Revision-Date: 2023-07-06 15:33\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -48,7 +48,7 @@ msgstr "Descripción"
 #. type: delimited block *
 #: description.en.adoc:6
 msgid "ChecklistBank is a platform that supports the publication, analysis, and curation of checklists with emphasis in taxonomic and nomenclatural data. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF)."
-msgstr "ChecklistBank es una plataforma que permite la publicación, el análisis y la curación de listas de especies principalmente de tipo taxonómico y nomenclatural. Es una parte integral de la infraestructura desarrollada y mantenida de manera conjunta por Catalogue of Life (COL) y el Sistema Global de Información sobre Biodiversidad (GBIF por sus siglas en inglés)."
+msgstr "ChecklistBank es una plataforma que permite la publicación, el análisis y la curación de listas de especies principalmente de tipo taxonómico y nomenclatural. Es una parte integral de la infraestructura desarrollada y mantenida de manera conjunta por el Catálogo de la Vida (COL) y el Sistema Global de Información sobre Biodiversidad (GBIF por sus siglas en inglés)."
 
 #. type: delimited block *
 #: description.en.adoc:8
@@ -74,13 +74,13 @@ msgstr "Explora el *repositorio de ChecklistBank*: busca, revisa y descarga list
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
-msgstr "Herramienta *Cross dataset search*: busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
+msgstr "*Cross dataset search*: busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
 
 #. type: delimited block *
 #: description.en.adoc:16
 #, no-wrap
 msgid "*Name match* tool: enables comparison of the COL Checklist with one or two other datasets in ChecklistBank in terms of taxon name matching.\n"
-msgstr "Herramienta *Name match*: permite comparar la lista de especies de COL con uno o dos conjuntos de datos disponibles en ChecklistBank. Dicha comparación la realiza en términos de coincidencia de los nombres de taxones.\n"
+msgstr "*Name match*: permite comparar la lista de especies de COL con uno o dos conjuntos de datos disponibles en ChecklistBank. Dicha comparación la realiza en términos de coincidencia de los nombres de taxones.\n"
 
 #. type: delimited block *
 #: description.en.adoc:17
@@ -92,7 +92,7 @@ msgstr "*Dataset comparison*: permite comparar dos conjuntos de datos taxonómic
 #: description.en.adoc:20
 #, no-wrap
 msgid "Audience"
-msgstr "Público"
+msgstr "Audiencia"
 
 #. type: Plain text
 #: description.en.adoc:22
@@ -108,7 +108,7 @@ msgstr "Registro en ChecklistBank"
 #. type: Plain text
 #: login.en.adoc:5
 msgid "Use the following steps to login to ChecklistBank:"
-msgstr "Sigue estos pasos para iniciar sesión en ChecklistBank:"
+msgstr "Utilice los siguientes pasos para iniciar sesión en ChecklistBank:"
 
 #. type: Plain text
 #: login.en.adoc:7
@@ -454,87 +454,87 @@ msgstr "*Paso 2: Seleccionar Exact en las opciones.*\n"
 #. type: Plain text
 #: name-usage.en.adoc:40
 msgid "Setting the matching to 'Exact' ensures that all results relate to tree taxa in the family of the Fagaceae plant family. If the matching on 'Words' is used, zoological taxa (for example _Stomaphis quercus_ (Linnaeus, 1758) from the Fauna Europaea dataset would also appear."
-msgstr ""
+msgstr "Al seleccionar la opción 'Exact' se asegura que todos los resultados se relacionen con los taxones de la familia de plantas Fagaceae. Si se utiliza la coincidencia en 'Words', también aparecerían taxones animales (por ejemplo _Stomaphis quercus_ (Linnaeus, 1758) del conjunto de datos de Fauna Europaea."
 
 #. type: Plain text
 #: name-usage.en.adoc:42
 msgid "The search results show all datasets in ChecklistBank where the scientific name _Quercus robur_ L. appears in."
-msgstr ""
+msgstr "Los resultados de la búsqueda muestran todos los conjuntos de datos de ChecklistBank donde aparece el nombre científico _Quercus robur_ L."
 
 #. type: Target for macro image
 #: name-usage.en.adoc:43
 #, no-wrap
 msgid "img/web/CLB-search-Quercus.png"
-msgstr ""
+msgstr "img/web/CLB-search.png"
 
 #. type: Plain text
 #: name-usage.en.adoc:46
 msgid "Through these results, it is possible to explore individual datasets in ChecklistBank which include _Quercus robur_ L. Several options for filtering the search results are also available."
-msgstr ""
+msgstr "A través de estos resultados, es posible explorar conjuntos de datos individuales en ChecklistBank que incluyen a _Quercus robur_ L. También están disponibles varias opciones para filtrar los resultados de la búsqueda."
 
 #. type: Plain text
 #: name-usage.en.adoc:48
 #, no-wrap
 msgid "*Step 3: Select a Dataset.*\n"
-msgstr ""
+msgstr "*Paso 2. Seleccionar el segundo conjunto de datos*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:50
 msgid "In the menu 'Dataset' on the top right, you can easily select the dataset which you want to explore further. Click on 'International Plant Names Index (IPNI)', and then click on the Scientific Name (Quercus robur L.) in the results."
-msgstr ""
+msgstr "En el menú 'Dataset' en la parte superior derecha, puede seleccionar fácilmente el conjunto de datos a explorar. Hacer clic en 'International Plant Names Index (IPNI)' y después en el nombre científico (Quercus robur L.) en los resultados."
 
 #. type: Plain text
 #: name-usage.en.adoc:52
 msgid "This brings you to the record of this name, which includes its original resource."
-msgstr ""
+msgstr "Esto lleva al registro de este nombre, que incluye su fuente original."
 
 #. type: Plain text
 #: name-usage.en.adoc:54
 #, no-wrap
 msgid "*Step 4: Navigate external resources.*\n"
-msgstr ""
+msgstr "*Paso 4: Navegar a recursos externos.*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:56
 msgid "Click on the link of the Online resource."
-msgstr ""
+msgstr "Hacer clic en el enlace mostrado en \"Online resource\"."
 
 #. type: Plain text
 #: name-usage.en.adoc:58
 msgid "This brings you to the information page about this name of the original source, in this case the International Plant Names Index (IPNI)."
-msgstr ""
+msgstr "Esto lleva a la página de información sobre este nombre de la fuente original, en este caso el International Plant Names Index (IPNI)."
 
 #. type: Target for macro image
 #: name-usage.en.adoc:59
 #, no-wrap
 msgid "img/web/Quercus-IPNI.png"
-msgstr ""
+msgstr "img/web/Quercus-IPNI.png"
 
 #. type: Plain text
 #: name-usage.en.adoc:62
 msgid "This example shows that by using the 'cross dataset search' tool, you can make linkages to other infrastructures to explore further evidence of a scientific name."
-msgstr ""
+msgstr "Este ejemplo muestra que mediante el uso de la herramienta de \"'cross dataset search\", se pueden establecer vínculos con otras infraestructuras para explorar más información de un nombre científico."
 
 #. type: Plain text
 #: name-usage.en.adoc:64
 #, no-wrap
 msgid "*Exploring synonyms*\n"
-msgstr ""
+msgstr "*Explorando sinónimos*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:66
 msgid "You can also check whether the name that you have searched is used as a synonym for other names."
-msgstr ""
+msgstr "También se puede comprobar si el nombre buscado se utiliza como sinónimo de otros nombres."
 
 #. type: Plain text
 #: name-usage.en.adoc:68
 msgid "Go back to the search page in the 'cross dataset search' tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’."
-msgstr ""
+msgstr "Volver a la página de búsqueda en la herramienta 'cross dataset search, y de nuevo buscar Quercus robur, seleccionar Exact, y en Status, seleccionar 'Synonym'."
 
 #. type: Plain text
 #: name-usage.en.adoc:69
 msgid "You can now see how may synonyms of _Quercus robur_ are amongst the resources in ChecklistBank."
-msgstr ""
+msgstr "Ahora se puede ver cómo los sinónimos de _Quercus robur_ están entre los recursos de ChecklistBank."
 
 #. type: Title ==
 #: name-match.en.adoc:2
@@ -974,7 +974,7 @@ msgstr "Identificador Único Global"
 #. type: Plain text
 #: glossary.en.adoc:39
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: colophon.en.adoc:1
