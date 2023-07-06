@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-06 18:04\n"
+"PO-Revision-Date: 2023-07-06 19:18\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -48,39 +48,39 @@ msgstr "Descripción"
 #. type: delimited block *
 #: description.en.adoc:6
 msgid "ChecklistBank is a platform that supports the publication, analysis, and curation of checklists with emphasis in taxonomic and nomenclatural data. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF)."
-msgstr "ChecklistBank es una plataforma que permite la publicación, el análisis y la curación de listas de especies principalmente de tipo taxonómico y nomenclatural. Es una parte integral de la infraestructura desarrollada y mantenida de manera conjunta por el Catálogo de la Vida (COL) y el Sistema Global de Información sobre Biodiversidad (GBIF por sus siglas en inglés)."
+msgstr "ChecklistBank es una plataforma que permite la publicación, el análisis y la curación de listas de chequeo principalmente de tipo taxonómico y nomenclatural. Es una parte integral de la infraestructura desarrollada y mantenida de manera conjunta por el Catálogo de la Vida (COL) y el Sistema Global de Información sobre Biodiversidad (GBIF por sus siglas en inglés)."
 
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "ChecklistBank includes all https://www.catalogueoflife.org/data/source-datasets[checklists] that form the Catalogue of Life, which are primarily global species lists provided by specific taxonomic communities. However, there are many other sources and uses for taxonomic checklists, such as national or local species lists, lists that share a common attribute such as red lists or invasive species lists, or lists that summarise taxonomic publications. Through ChecklistBank, we facilitate the discovery, use and citation of these valuable resources."
-msgstr "La plataforma de ChecklistBank incluye todas las https://www.catalogueoflife.org/data/source-datasets[listas de especies] que conforman el Catálogo de la Vida, que son principalmente listas mundiales de especies proporcionadas por comunidades específicas de taxónimos. Sin embargo, hay muchas otras fuentes disponibles con listas de especies, como las listas nacionales de especies o regionales, listas que comparten un atributo común como listas rojas o listas de especies invasoras, o listas generadas a partir de publicaciones taxonómicas. A través de ChecklistBank, facilitamos el hallazgo, el uso y la forma de citar estos valiosos recursos."
+msgstr "La plataforma de ChecklistBank incluye todas las https://www.catalogueoflife.org/data/source-datasets[fuentes] que conforman el Catálogo de la Vida, que son principalmente listas mundiales proporcionadas por comunidades de taxónomos. Sin embargo, hay muchas otras fuentes disponibles con listas, como las listas de especies nacionales o regionales, listas de especies que comparten un atributo como listas rojas o listas de especies invasoras, o listas generadas a partir de publicaciones taxonómicas. A través de ChecklistBank, facilitamos el acceso, el uso y la forma de citar estos recursos valiosos."
 
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "ChecklistBank is provided as a fundamental tool to ensure that basic data on species names and classifications can be shared and reused in support of the biological sciences and wider societal uses."
-msgstr "ChecklistBank se ofrece como una herramienta fundamental que garantiza que los datos básicos sobre los nombres de especies y su clasificación taxonómica se puedan compartir y se reutilicen como información base para las ciencias biológicas y para otros usos de la sociedad en general."
+msgstr "ChecklistBank se ofrece como una herramienta elemental que garantiza la posibilidad de compartir información básica de los nombres de especies y su clasificación taxonómica y para reutilizarla como información de base en las ciencias biológicas y para otros usos de la sociedad en general."
 
 #. type: delimited block *
 #: description.en.adoc:12
 msgid "Currently, ChecklistBank provides a repository and a suite of tools to explore its content, and further examine checklists of particular interest. In this tutorial, we provide 4 exercises to explore these tools:"
-msgstr "ChecklistBank proporciona un repositorio y un conjunto de herramientas que permiten explorar su contenido y examinar más detenidamente las listas de especies de interés del usuario. En este tutorial, proporcionamos cuatro ejercicios para conocer estas herramientas:"
+msgstr "ChecklistBank proporciona un repositorio y un conjunto de herramientas que permiten explorar su contenido y examinar a detalle las listas de interés del usuario. En este tutorial, proporcionamos cuatro ejercicios para conocer estas herramientas:"
 
 #. type: delimited block *
 #: description.en.adoc:14
 msgid "Explore the *ChecklistBank repository*: search, inspect and download checklists."
-msgstr "Explora el *repositorio de ChecklistBank*: busca, revisa y descarga listas de especies."
+msgstr "Explorar el *repositorio de ChecklistBank*: buscar, revisar y descargar listas de especies."
 
 #. type: delimited block *
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
-msgstr "*Cross dataset search*: busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
+msgstr "*Cross dataset search*: esta herramienta busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
 
 #. type: delimited block *
 #: description.en.adoc:16
 #, no-wrap
 msgid "*Name match* tool: enables comparison of the COL Checklist with one or two other datasets in ChecklistBank in terms of taxon name matching.\n"
-msgstr "*Name match*: permite comparar la lista de especies de COL con uno o dos conjuntos de datos disponibles en ChecklistBank. Dicha comparación la realiza en términos de coincidencia de los nombres de taxones.\n"
+msgstr "*Name match*: permite comparar la lista de especies de COL (lista COL) con uno o dos conjuntos de datos disponibles en ChecklistBank. Esta comparación se realiza a partir de coincidencias de escritura de los nombres de taxones.\n"
 
 #. type: delimited block *
 #: description.en.adoc:17
@@ -97,7 +97,7 @@ msgstr "Audiencia"
 #. type: Plain text
 #: description.en.adoc:22
 msgid "This tutorial is for anyone interested in discovering, curating and publishing checklists with emphasis in taxonomic and nomenclatural checklists."
-msgstr "Este tutorial está dirigido a cualquier persona interesada en revisar, curar y publicar listas de especies taxonómicas o nomenclaturales."
+msgstr "Este tutorial está dirigido a cualquier persona interesada en revisar, curar y publicar listas taxonómicas o nomenclaturales."
 
 #. type: Title ==
 #: login.en.adoc:2
@@ -108,7 +108,7 @@ msgstr "Registro en ChecklistBank"
 #. type: Plain text
 #: login.en.adoc:5
 msgid "Use the following steps to login to ChecklistBank:"
-msgstr "Utilice los siguientes pasos para iniciar sesión en ChecklistBank:"
+msgstr "Siga estos pasos para iniciar sesión en ChecklistBank:"
 
 #. type: Plain text
 #: login.en.adoc:7
@@ -128,7 +128,7 @@ msgstr "Inicie sesión con su cuenta GBIF +"
 #. type: Plain text
 #: login.en.adoc:11
 msgid "If you don’t have a GBIF account yet, use the register at https://www.gbif.org/[gbif.org] now!"
-msgstr "Si aún no tiene una cuenta de GBIF, regístrese en https://www.gbif.org/[gbif.org] ahora"
+msgstr "Si aún no tiene una cuenta de GBIF, regístrese en https://www.gbif.org/[gbif.org] aquí"
 
 #. type: Target for macro image
 #: login.en.adoc:12
@@ -145,22 +145,22 @@ msgstr "Explorar el repositorio de ChecklistBank"
 #. type: Plain text
 #: explore-clb.en.adoc:5
 msgid "ChecklistBank is a public repository including over 40,000 checklists, established to simplify FAIR data sharing. It allows contributors to publish lists using a variety of typical data formats. Each list is then accessible through a standard API and reusable web browser components and can be cited using a ChecklistBank Digital Object Identifier."
-msgstr "ChecklistBank es un repositorio público que incluye más de 40.000 listas de especies, que simplifica el intercambio de datos bajo los principios FAIR. Además, permite publicar listas a partir de diversos formatos de datos. Así, cada una de las listas es accesible a través de una API estándar y de componentes de red reutilizables y se pueden citar con un dígito de control DOI de ChecklistBank."
+msgstr "ChecklistBank es un repositorio público que incluye más de 40.000 listas de chequeo, que simplifica el intercambio de datos bajo los principios FAIR. Además, permite publicar listas a partir de diversos formatos de datos. Así, cada una de las listas es accesible a través de una API estándar y de componentes de red reutilizables y se pueden citar con un dígito de control DOI de ChecklistBank."
 
 #. type: Plain text
 #: explore-clb.en.adoc:7
 msgid "Data publishers benefit both by making their datasets accessible for reuse and attribution and also through ChecklistBank tools for data review and detection of possible issues. Some of the datasets in ChecklistBank serve as authoritative sources for the Catalogue of Life Checklist, and new releases of the COL Checklist are also published as ChecklistBank datasets."
-msgstr "Los proveedores de datos se benefician tanto de hacer disponibles sus conjuntos de datos para su reutilización y citación, como a través de las herramientas de ChecklistBank para revisión y detección de posibles errores. Algunos de los conjuntos de datos disponibles en ChecklistBank son fuentes autorizadas que se utilizan en la lista de especies del Catálogo de la Vida, y, a su vez, todas las versiones liberadas de COL también se publican como conjuntos de datos de ChecklistBank."
+msgstr "Los proveedores de información se benefician tanto de hacer públicos sus conjuntos de datos para que se reutilicen y los citen, como de las herramientas de ChecklistBank para revisar y detectar posibles errores en sus listas. Algunos de los conjuntos de datos disponibles en ChecklistBank son listas de autoridades que se utilizan como fuentes en la lista COL, y, además, todas las versiones publicadas de la lista COL están disponibles como conjuntos de datos de ChecklistBank."
 
 #. type: Plain text
 #: explore-clb.en.adoc:9
 msgid "You can search through the ChecklistBank repository and explore the information and content of each checklist. All checklists can also be downloaded in multiple formats."
-msgstr "Puedes buscar en el repositorio de ChecklistBank y explorar la información y el contenido de cada lista de especies. Todas se pueden descargar en múltiples formatos."
+msgstr "En el repositorio de ChecklistBank se puede buscar y explorar el contenido de cada lista. Todas se pueden descargar en diferentes formatos."
 
 #. type: Plain text
 #: explore-clb.en.adoc:11
 msgid "Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr "Antes de empezar, asegúrese te de haber iniciado sesión en ChecklistBank. Si no sabe cómo hacerlo, siga los pasos <<ChecklistBank login,aquí>>."
+msgstr "Antes de empezar, asegúrese de haber iniciado sesión en ChecklistBank. Si no sabe cómo hacerlo, siga los pasos <<ChecklistBank login,aquí>>."
 
 #. type: Title ===
 #: explore-clb.en.adoc:12
@@ -187,17 +187,17 @@ msgstr "Se puede utilizar el campo de búsqueda \"Search\" para escribir cualqui
 #. type: Plain text
 #: explore-clb.en.adoc:21
 msgid "search 'COL22' : this will only give 1 result, the Catalogue of Life Checklist 2022."
-msgstr "buscar 'COL22': únicamente genera un resultado, la lista de especies del Catálogo de la Vida 2022."
+msgstr "buscar 'COL22': únicamente genera un resultado, la lista anual del Catálogo de la Vida 2022."
 
 #. type: Plain text
 #: explore-clb.en.adoc:22
 msgid "search 'Carabcat': the top result shows the Carabcat checklist, a global database of ground beetles, but additionally it will also show COL Checklists in which this checklist was included (since 2021)."
-msgstr "buscar 'Carabcat': el primer resultado muestra la lista de especies de Carabcat, una base de datos global de escarabajos terrestres, pero también muestra listas de especies de COL en las que se incluyó Carabcat (desde 2021)."
+msgstr "buscar 'Carabcat': el primer resultado muestra la lista de Carabcat, una base de datos global de escarabajos terrestres, pero también muestra listas de especies de COL en las que se incluyó Carabcat (desde 2021)."
 
 #. type: Plain text
 #: explore-clb.en.adoc:23
 msgid "search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF."
-msgstr "buscar 'Foraminifera': el primer resultado muestra la lista de especies de WoRMS Foraminifera, a continuación se muestran las listas de COL en las que se incluyó dicha lista, así como diversas listas de especies que se han publicado en GBIF."
+msgstr "buscar 'Foraminifera': el primer resultado muestra la lista de WoRMS Foraminifera, a continuación se muestran las listas de COL en las que se incluyó dicha lista, así como otras listas que se han publicado en GBIF."
 
 #. type: Title ===
 #: explore-clb.en.adoc:24
@@ -219,18 +219,18 @@ msgstr "El menú de la izquierda muestra varias opciones para explorar este conj
 #: explore-clb.en.adoc:32
 #, no-wrap
 msgid "*About*: here you can find all the metadata about this dataset including the author and contact person, the version of the dataset and date of when it was issued, licensing information and how to cite this source, link to the website of the dataset (if applicable), taxonomic scope, etc.\n"
-msgstr "*About*: Opción \"Acerca de\". Aquí se pueden encontrar todos los metadatos del conjunto de datos, incluyendo el autor y la persona de contacto, la versión del conjunto de datos y la fecha de publicación, información sobre licencias y forma de citar esta fuente, enlace al sitio web del conjunto de datos (si existe), ámbito taxonómico, etc.\n"
+msgstr "*About*: Aquí se pueden encontrar todos los metadatos del conjunto de datos, incluyendo el autor, la persona de contacto, la versión del conjunto de datos y su fecha de publicación, información sobre licencias, forma de citar, enlace al sitio web del conjunto de datos (si existe), ámbito taxonómico, etc.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:34
 #, no-wrap
 msgid "*Download*: on this page you can download this dataset in various formats:\n"
-msgstr "*Download*: Opción \"Descargar\". En esta página se puede descargar el conjunto de datos en diferentes formatos:\n"
+msgstr "*Download*: En esta página se puede descargar el conjunto de datos en diferentes formatos:\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:36
 msgid "https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): commonly used standard for biodiversity data."
-msgstr "https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): estándar usado comúnmente para datos de biodiversidad."
+msgstr "https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): estándar usado comúnmente para captura de datos de biodiversidad."
 
 #. type: Plain text
 #: explore-clb.en.adoc:37
@@ -245,22 +245,22 @@ msgstr "https://github.com/gbif/text-tree[TextTree]: Es un formato simple para r
 #. type: Plain text
 #: explore-clb.en.adoc:39
 msgid "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life."
-msgstr "https://github. om/CatalogueOfLife/frdp[Catalogue of Life Data Package] (ColDP): es un formato tabular de texto con un conjunto estándar de archivos y columnas recomendadas para el intercambio de listas de especies con Catalogue of Life."
+msgstr "https://github. om/CatalogueOfLife/frdp[Catalogue of Life Data Package] (ColDP): es un formato tabular de texto con un conjunto estándar de archivos y columnas recomendadas para el intercambio de listas de especies con el Catálogo de la Vida."
 
 #. type: Plain text
 #: explore-clb.en.adoc:40
 msgid "https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data."
-msgstr "https://es.wikipedia.org/wiki/Newick_format[Newick]: Es una manera de representar árboles usando paréntesis y comas, utilizados a menudo con datos filogenéticos."
+msgstr "https://es.wikipedia.org/wiki/Newick_format[Newick]: Es una manera de representar árboles taxonómicos mediante paréntesis y comas, utilizados a menudo con datos filogenéticos."
 
 #. type: Plain text
 #: explore-clb.en.adoc:41
 msgid "http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools."
-msgstr "http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: un formato simple ampliamente utilizado para representar gráficos. Los archivos exportados de ChecklistBank incluirán las relaciones de sinonimia y basónimos que en el gráfico final se pueden representar con muchas herramientas de software."
+msgstr "http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: un formato simple ampliamente utilizado para representar gráficos. Los archivos que se exporten de ChecklistBank incluirán las relaciones de sinonimia y de basónimos que en el gráfico final se pueden representar con diversas herramientas de software."
 
 #. type: Plain text
 #: explore-clb.en.adoc:43
 msgid "For your download you have the following options to select a subset of the checklist to be included in the download. This can be useful if you only want to download a selection of a large checklist."
-msgstr "La descarga de datos tiene las siguientes opciones para seleccionar un subconjunto de la lista de especies a incluir en la descarga. Esto puede ser útil si únicamente se desea descargar una parte de una lista grande de especies."
+msgstr "La descarga de datos tiene las siguientes opciones para seleccionar un subconjunto de la lista de especies a incluir. Esto es útil si únicamente se necesita descargar una parte de una lista grande."
 
 #. type: Plain text
 #: explore-clb.en.adoc:46
