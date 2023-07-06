@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-06 15:33\n"
+"PO-Revision-Date: 2023-07-06 17:08\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -118,17 +118,17 @@ msgstr "Ir a https://www.checklistbank.org/"
 #. type: Plain text
 #: login.en.adoc:8
 msgid "Click on Login (top right)"
-msgstr "Haz clic en Login (arriba a la derecha)"
+msgstr "Haga clic en Login (arriba a la derecha)"
 
 #. type: Plain text
 #: login.en.adoc:9
 msgid "Login with your GBIF account +"
-msgstr "Inicia sesión con tu cuenta GBIF"
+msgstr "Inicie sesión con su cuenta GBIF +"
 
 #. type: Plain text
 #: login.en.adoc:11
 msgid "If you don’t have a GBIF account yet, use the register at https://www.gbif.org/[gbif.org] now!"
-msgstr "Si aún no tienes una cuenta de GBIF, regístrate en https://www.gbif.org/[gbif.org] ahora"
+msgstr "Si aún no tiene una cuenta de GBIF, regístrese en https://www.gbif.org/[gbif.org] ahora"
 
 #. type: Target for macro image
 #: login.en.adoc:12
@@ -160,7 +160,7 @@ msgstr "Puedes buscar en el repositorio de ChecklistBank y explorar la informaci
 #. type: Plain text
 #: explore-clb.en.adoc:11
 msgid "Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr "Antes de empezar, asegúrate de haber iniciado sesión en ChecklistBank. Si no sabes cómo hacerlo, sigue los pasos <<ChecklistBank login,acá>>."
+msgstr "Antes de empezar, asegúrese te de haber iniciado sesión en ChecklistBank. Si no sabe cómo hacerlo, siga los pasos <<ChecklistBank login,aquí>>."
 
 #. type: Title ===
 #: explore-clb.en.adoc:12
