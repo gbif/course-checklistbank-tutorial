@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-11 21:14\n"
+"PO-Revision-Date: 2023-07-11 22:29\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -53,7 +53,7 @@ msgstr "ChecklistBank es una plataforma que permite la publicación, el análisi
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "ChecklistBank includes all https://www.catalogueoflife.org/data/source-datasets[checklists] that form the Catalogue of Life, which are primarily global species lists provided by specific taxonomic communities. However, there are many other sources and uses for taxonomic checklists, such as national or local species lists, lists that share a common attribute such as red lists or invasive species lists, or lists that summarise taxonomic publications. Through ChecklistBank, we facilitate the discovery, use and citation of these valuable resources."
-msgstr "La plataforma de ChecklistBank incluye todas las https://www.catalogueoflife.org/data/source-datasets[fuentes] que conforman el Catálogo de la Vida, que son principalmente listas mundiales proporcionadas por comunidades de taxónomos. Sin embargo, hay muchas otras fuentes disponibles con listas, como las listas de especies nacionales o regionales, listas de especies que comparten un atributo como listas rojas o listas de especies invasoras, o listas generadas a partir de publicaciones taxonómicas. A través de ChecklistBank, facilitamos el acceso, el uso y la forma de citar estos recursos valiosos."
+msgstr "La plataforma de ChecklistBank incluye todas las https://www.catalogueoflife.org/data/source-datasets[fuentes] que conforman el Catálogo de la Vida, que son principalmente listas mundiales proporcionadas por comunidades de taxónomos. Sin embargo, hay muchas otras fuentes disponibles, como las listas de especies nacionales o regionales, listas de especies que comparten un atributo como listas rojas o listas de especies invasoras, o listas generadas a partir de publicaciones taxonómicas. A través de ChecklistBank, facilitamos el acceso, el uso y la forma de citar estos recursos valiosos."
 
 #. type: delimited block *
 #: description.en.adoc:10
@@ -682,12 +682,12 @@ msgstr "Para este tutorial seleccionar la lista COL 2021 (COL21)."
 #. type: Plain text
 #: name-match.en.adoc:56
 msgid "Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +"
-msgstr "Escribe 'COL21' en el cuadro de texto y selecciona 'COL21 Annual Checklist 2021 [2328]'. +"
+msgstr "Escriba 'COL21' en el cuadro de texto y selecciona 'COL21 Annual Checklist 2021 [2328]'. +"
 
 #. type: Plain text
 #: name-match.en.adoc:57
 msgid "Click Next."
-msgstr "Haz clic en 'Next'."
+msgstr "Haga clic en 'Next'."
 
 #. type: Plain text
 #: name-match.en.adoc:59
@@ -745,7 +745,7 @@ msgstr "Todos los conjuntos de datos de ChecklistBank pueden ser comparados entr
 #. type: Plain text
 #: diff-viewer.en.adoc:11
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Dataset comparison’."
-msgstr "La herramienta se encuentra en el menú de la izquierda, expande el menú 'Tools' haciendo clic en la flecha. Luego haga clic en 'Name match'."
+msgstr "La herramienta se encuentra en el menú de la izquierda, al expandir el menú 'Tools' haciendo clic en la flecha, y luego en 'Name match'."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:12
@@ -762,7 +762,7 @@ msgstr "Ejemplo: _Lysiloma_ (género en Fabaceae)"
 #. type: Plain text
 #: diff-viewer.en.adoc:17
 msgid "We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus _Lysiloma_ are provided by the ILDIS World Database of Legumes checklist (Roskov et al. 2014)."
-msgstr "Utilizaremos la lista de la familia Fabaceae usada en el ejercicio anterior. Compararemos esta lista contra la lista COL 2021 para los datos del género _Lysiloma_, que son proporcionados por la lista 'ILDIS World Database of Legumes' (Roskov et al. 2014)."
+msgstr "Se usará la lista de la familia Fabaceae usada en el ejercicio anterior. Compararemos esta lista contra la lista COL 2021 para los datos del género _Lysiloma_, que son proporcionados por la lista 'ILDIS World Database of Legumes' (Roskov et al. 2014)."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:19
@@ -773,28 +773,28 @@ msgstr "Al abrir la herramienta, la pantalla de inicio le permite elegir dos con
 #: diff-viewer.en.adoc:21
 #, no-wrap
 msgid "*Step 1. Select dataset 1*\n"
-msgstr "*Paso 1. Selecciona el primer conjunto de datos*\n"
+msgstr "*Paso 1. Seleccionar el primer conjunto de datos*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:23
 msgid "Start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. +"
-msgstr "Comienza a escribir WCVP-Fabaceae y este conjunto de datos aparecerá en el menú. Selecciónalo. +"
+msgstr "Comience a escribir WCVP-Fabaceae y este conjunto de datos aparecerá en el menú. Selecciónelo. +"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:24
 msgid "In the box 'Find taxon', type 'Lysiloma' and select it."
-msgstr "En el cuadro 'Buscar taxón', escribe 'Lysiloma' y selecciónalo."
+msgstr "En el cuadro 'Buscar taxón', escriba 'Lysiloma' y selecciónelo."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:26
 #, no-wrap
 msgid "*Step 2. Select dataset 2*\n"
-msgstr "*Paso 2. Selecciona el segundo conjunto de datos*\n"
+msgstr "*Paso 2. Seleccionar el segundo conjunto de datos*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:28
 msgid "Type COL 2021, and select the COL21 Annual Checklist 2021. +"
-msgstr "Escribe COL 2021 y selecciona \"COL21 Annual Checklist 2021\". +"
+msgstr "Escriba COL 2021 y seleccione 'COL21 Annual Checklist 2021'. +"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:29
@@ -804,7 +804,7 @@ msgstr "Haz clic en 'Go to Lysiloma' para seleccionar el mismo género que en el
 #. type: Plain text
 #: diff-viewer.en.adoc:31
 msgid "Click on ‘Show diff’"
-msgstr "Haz clic en 'Show diff'"
+msgstr "Haga clic en 'Show diff'"
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:32
@@ -816,7 +816,7 @@ msgstr "img/web/CLB-compare-selection.png"
 #: diff-viewer.en.adoc:35
 #, no-wrap
 msgid "*Step 3. Check you selection*\n"
-msgstr "*Paso 3. Comprueba la selección*\n"
+msgstr "*Paso 3. Comprobar la selección*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:39
@@ -825,8 +825,8 @@ msgid "The next view shows you which datasets and roots you have selected.\n"
 "You can choose whether the scientific name comparisons should include authorship and synonyms, for this example select both options.\n"
 "Additionally, you can select whether to show the parent, and at which level. For this example, also select the box 'Show parent'."
 msgstr "La siguiente vista muestra qué conjuntos de datos y taxones se han seleccionado.\n"
-"Puedes elegir si la comparacion de los nombres científicos deben incluir la autoría y sinónimos, para este ejemplo selecciona ambas opciones.\n"
-"Además, puedes decidir si mostrar al taxón padre y a qué nivel. Para este ejemplo, también selecciona el cuadro 'Show parent'."
+"Puede elegir si la comparación de los nombres científicos deben incluir la autoría y sinónimos, para este ejemplo seleccioea ambas opciones.\n"
+"Además, puede decidir si mostrar al taxón padre y a qué nivel. Para este ejemplo, también seleccione el cuadro 'Show parent'."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:42
@@ -837,7 +837,7 @@ msgstr "*Paso 4: Obtener los resultados*\n"
 #. type: Plain text
 #: diff-viewer.en.adoc:44
 msgid "Once you have made your selection, click ‘Get diff’."
-msgstr "Una vez hecha la selección, haz clic en 'Get diff’'."
+msgstr "Una vez hecha la selección, hacer clic en 'Get diff’'."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:45
