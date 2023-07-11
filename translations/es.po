@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-06 21:48\n"
+"PO-Revision-Date: 2023-07-11 20:14\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -48,7 +48,7 @@ msgstr "Descripción"
 #. type: delimited block *
 #: description.en.adoc:6
 msgid "ChecklistBank is a platform that supports the publication, analysis, and curation of checklists with emphasis in taxonomic and nomenclatural data. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF)."
-msgstr "ChecklistBank es una plataforma que permite la publicación, el análisis y la curación de listas de chequeo principalmente de tipo taxonómico y nomenclatural. Es una parte integral de la infraestructura desarrollada y mantenida de manera conjunta por el Catálogo de la Vida (COL) y el Sistema Global de Información sobre Biodiversidad (GBIF por sus siglas en inglés)."
+msgstr "ChecklistBank es una plataforma que permite la publicación, el análisis y curaduria de listas de chequeo principalmente de tipo taxonómico y nomenclatural. Es una parte integral de la infraestructura desarrollada y mantenida de manera conjunta por el Catálogo de la Vida (COL) y el Sistema Global de Información sobre Biodiversidad (GBIF por sus siglas en inglés)."
 
 #. type: delimited block *
 #: description.en.adoc:8
