@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-11 22:29\n"
+"PO-Revision-Date: 2023-07-11 23:26\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -58,7 +58,7 @@ msgstr "La plataforma de ChecklistBank incluye todas las https://www.catalogueof
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "ChecklistBank is provided as a fundamental tool to ensure that basic data on species names and classifications can be shared and reused in support of the biological sciences and wider societal uses."
-msgstr "ChecklistBank se ofrece como una herramienta elemental que garantiza la posibilidad de compartir información básica de los nombres de especies y su clasificación taxonómica y para reutilizarla como información de base en las ciencias biológicas y para otros usos de la sociedad en general."
+msgstr "ChecklistBank se ofrece como una herramienta fundamental para garantizar que la información básica de los nombres de especies y su clasificación taxonómica se pueda compartir y reutilizar para apoyar las ciencias biológicas y otros usos en la sociedad en general."
 
 #. type: delimited block *
 #: description.en.adoc:12
@@ -74,19 +74,19 @@ msgstr "Explorar el *repositorio de ChecklistBank*: buscar, revisar y descargar 
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
-msgstr "*Cross dataset search*: esta herramienta busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
+msgstr "*'Cross dataset search'*: esta herramienta busca un nombre científico particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
 
 #. type: delimited block *
 #: description.en.adoc:16
 #, no-wrap
 msgid "*Name match* tool: enables comparison of the COL Checklist with one or two other datasets in ChecklistBank in terms of taxon name matching.\n"
-msgstr "*Name match*: permite comparar la lista de especies de COL (lista COL) con uno o dos conjuntos de datos disponibles en ChecklistBank. Esta comparación se realiza a partir de coincidencias de escritura de los nombres de taxones.\n"
+msgstr "*'Name match'*: permite comparar la lista de especies de COL (lista COL) con uno o dos conjuntos de datos disponibles en ChecklistBank. Esta comparación se realiza a partir de coincidencias de escritura de los nombres de taxones.\n"
 
 #. type: delimited block *
 #: description.en.adoc:17
 #, no-wrap
 msgid "*Dataset comparison* tool: allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis.\n"
-msgstr "*Dataset comparison*: permite comparar dos conjuntos de datos taxonómicos disponibles en ChecklistBank contrastando nombre por nombre científico.\n"
+msgstr "*'Dataset comparison'*: permite comparar dos conjuntos de datos taxonómicos disponibles en ChecklistBank contrastando nombre por nombre científico.\n"
 
 #. type: Title ===
 #: description.en.adoc:20
@@ -118,7 +118,7 @@ msgstr "Ir a https://www.checklistbank.org/"
 #. type: Plain text
 #: login.en.adoc:8
 msgid "Click on Login (top right)"
-msgstr "Haga clic en Login (arriba a la derecha)"
+msgstr "Haga clic en 'Login' (arriba a la derecha)"
 
 #. type: Plain text
 #: login.en.adoc:9
@@ -128,7 +128,7 @@ msgstr "Inicie sesión con su cuenta GBIF +"
 #. type: Plain text
 #: login.en.adoc:11
 msgid "If you don’t have a GBIF account yet, use the register at https://www.gbif.org/[gbif.org] now!"
-msgstr "Si aún no tiene una cuenta de GBIF, regístrese en https://www.gbif.org/[gbif.org] aquí"
+msgstr "Si aún no tiene una cuenta de GBIF, regístrese en https://www.gbif.org/[gbif.org]"
 
 #. type: Target for macro image
 #: login.en.adoc:12
@@ -150,7 +150,7 @@ msgstr "ChecklistBank es un repositorio público que incluye más de 40.000 list
 #. type: Plain text
 #: explore-clb.en.adoc:7
 msgid "Data publishers benefit both by making their datasets accessible for reuse and attribution and also through ChecklistBank tools for data review and detection of possible issues. Some of the datasets in ChecklistBank serve as authoritative sources for the Catalogue of Life Checklist, and new releases of the COL Checklist are also published as ChecklistBank datasets."
-msgstr "Los proveedores de información se benefician tanto de hacer públicos sus conjuntos de datos para que se reutilicen y los citen, como de las herramientas de ChecklistBank para revisar y detectar posibles errores en sus listas. Algunos de los conjuntos de datos disponibles en ChecklistBank son listas de autoridades que se utilizan como fuentes en la lista COL, y, además, todas las versiones publicadas de la lista COL están disponibles como conjuntos de datos de ChecklistBank."
+msgstr "Los proveedores de información se benefician tanto de hacer públicos sus conjuntos de datos para que se reutilicen y los citen, como de las herramientas de ChecklistBank para revisar y detectar posibles errores en sus listas. Algunos de los conjuntos de datos disponibles en ChecklistBank son listas de autoridades que se utilizan como fuentes en la lista COL, y además, todas las versiones publicadas de la lista COL están disponibles como conjuntos de datos de ChecklistBank."
 
 #. type: Plain text
 #: explore-clb.en.adoc:9
@@ -171,7 +171,7 @@ msgstr "Búsqueda de una lista taxonómica"
 #. type: Plain text
 #: explore-clb.en.adoc:15
 msgid "Click on Datasets in the menu on the left. This will bring you to the dataset search page."
-msgstr "Haga clic en la opción \"Datasets\" del menú de la izquierda. Esto le llevará a la página de búsqueda de conjuntos de datos."
+msgstr "Haga clic en la opción 'Datasets' del menú de la izquierda. Esto le llevará a la página de búsqueda de conjuntos de datos."
 
 #. type: Target for macro image
 #: explore-clb.en.adoc:16
@@ -182,7 +182,7 @@ msgstr "img/web/CLB-search.png"
 #. type: Plain text
 #: explore-clb.en.adoc:19
 msgid "You can use the Search field to type any keyword of the checklist you are searching for. Here are a few suggestions that you can use for this tutorial:"
-msgstr "Se puede utilizar el campo de búsqueda \"Search\" para escribir cualquier palabra clave de la lista de especies que está buscando. Aquí se presentan algunas sugerencias para usar en este tutorial:"
+msgstr "Se puede utilizar el campo de búsqueda 'Search' para escribir cualquier palabra clave de la lista de especies que está buscando. Aquí se presentan algunas sugerencias para usar en este tutorial:"
 
 #. type: Plain text
 #: explore-clb.en.adoc:21
@@ -219,13 +219,13 @@ msgstr "El menú de la izquierda muestra varias opciones para explorar este conj
 #: explore-clb.en.adoc:32
 #, no-wrap
 msgid "*About*: here you can find all the metadata about this dataset including the author and contact person, the version of the dataset and date of when it was issued, licensing information and how to cite this source, link to the website of the dataset (if applicable), taxonomic scope, etc.\n"
-msgstr "*About*: Aquí se pueden encontrar todos los metadatos del conjunto de datos, incluyendo el autor, la persona de contacto, la versión del conjunto de datos y su fecha de publicación, información sobre licencias, forma de citar, enlace al sitio web del conjunto de datos (si existe), ámbito taxonómico, etc.\n"
+msgstr "*'About'*: Aquí se pueden encontrar todos los metadatos del conjunto de datos, incluyendo el autor, la persona de contacto, la versión del conjunto de datos y su fecha de publicación, información sobre la licencia, forma de citar, enlace al sitio web del conjunto de datos (si existe), ámbito taxonómico, etc.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:34
 #, no-wrap
 msgid "*Download*: on this page you can download this dataset in various formats:\n"
-msgstr "*Download*: En esta página se puede descargar el conjunto de datos en diferentes formatos:\n"
+msgstr "*'Download'*: En esta página se puede descargar el conjunto de datos en diferentes formatos:\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:36
