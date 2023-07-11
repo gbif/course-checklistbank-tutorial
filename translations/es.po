@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-11 20:14\n"
+"PO-Revision-Date: 2023-07-11 21:14\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -550,7 +550,7 @@ msgstr "La herramienta \"Name match\" permite comparar los nombres de una lista 
 #. type: Plain text
 #: name-match.en.adoc:9
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’."
-msgstr "La herramienta se encuentra en el menú de la izquierda. Expande el menú 'Tools' haciendo clic en la flecha. Luego haga clic en 'Name match'."
+msgstr "La herramienta se encuentra en el menú de la izquierda, expandiendo el menú 'Tools' al hacer clic en la flecha, y luego en 'Name match'."
 
 #. type: Target for macro image
 #: name-match.en.adoc:10
@@ -561,7 +561,7 @@ msgstr "img/web/CLB-tools-match.png"
 #. type: Plain text
 #: name-match.en.adoc:13
 msgid "The user interface guides you through the steps to match your lists of interest."
-msgstr "La interfaz de usuario te guiará paso a paso en el proceso."
+msgstr "La interfaz de usuario le guiará paso a paso en el proceso."
 
 #. type: Target for macro image
 #: name-match.en.adoc:14
@@ -573,7 +573,7 @@ msgstr "img/web/CLB-match-steps.png"
 #: name-match.en.adoc:17
 #, no-wrap
 msgid "*Step 1: Select your input data*\n"
-msgstr "*Paso 1: Seleccione los datos de entrada*\n"
+msgstr "*Paso 1: Selección de los datos de entrada*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:19
@@ -599,7 +599,7 @@ msgstr "Elejir un conjunto de datos en ChecklistBank. Puede seleccionar cualquie
 #: name-match.en.adoc:29
 #, no-wrap
 msgid "*Step 2: Select the target data*\n"
-msgstr "*Paso 2: Seleccione los datos de referencia*\n"
+msgstr "*Paso 2: Selección de los datos de referencia*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:31
@@ -643,12 +643,12 @@ msgstr "En este tutorial se muestran las funcionalidades de la herramienta 'Name
 #: name-match.en.adoc:45
 #, no-wrap
 msgid "*Step 1. Select your input data*\n"
-msgstr "*Paso 1: Seleccione los datos de entrada*\n"
+msgstr "*Paso 1: Seleccionar los datos de entrada*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:47
 msgid "Go to 'Choose a dataset in ChecklistBank'."
-msgstr "Dirígete a 'Choose a dataset in ChecklistBank'."
+msgstr "Vaya a 'Choose a dataset in ChecklistBank'."
 
 #. type: Plain text
 #: name-match.en.adoc:49
@@ -661,23 +661,23 @@ msgstr "En la casilla 'Select a subject dataset', escribe y selecciona 'WCVP-Fab
 #. type: Plain text
 #: name-match.en.adoc:50
 msgid "Under 'And a root taxon', start typing and select 'Acacia (genus in Fabaceae)'"
-msgstr "En 'And a root taxon', escribe y selecciona 'Acacia' (género en Fabaceae)"
+msgstr "En 'And a root taxon', escribir y seleccionar 'Acacia' (género en Fabaceae)"
 
 #. type: Plain text
 #: name-match.en.adoc:51
 msgid "Click on 'Fetch 3,297 names'."
-msgstr "Haz clic en 'Fetch 3,297 names'."
+msgstr "Hacer clic en 'Fetch 3,297 names'."
 
 #. type: Plain text
 #: name-match.en.adoc:53
 #, no-wrap
 msgid "*Step 2. Select your target data*\n"
-msgstr "*Paso 2: Seleccione los datos de referencia*\n"
+msgstr "*Paso 2: Seleccionar los datos de referencia*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:55
 msgid "For this tutorial select the COL Checklist 2021 (COL21)."
-msgstr "Para este tutorial selecciona la lista COL 2021 (COL21)."
+msgstr "Para este tutorial seleccionar la lista COL 2021 (COL21)."
 
 #. type: Plain text
 #: name-match.en.adoc:56
