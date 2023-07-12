@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-11 23:26\n"
+"PO-Revision-Date: 2023-07-12 00:29\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -287,7 +287,7 @@ msgstr "La descarga consiste en un archivo zip que contiene varios archivos tsv 
 #: explore-clb.en.adoc:52
 #, no-wrap
 msgid "*Browse*: you can use this page to browse through the taxonomic tree for this particular checklist. This is useful to get a quick overview of which taxonomic levels and names are included in the checklist.\n"
-msgstr "*Browse*: Se puede usar para navegar a través del árbol taxonómico de una lista en particular. Esta opción es muy útil para obtener un resumen rápido de las categorías taxonómicas y los nombres que están incluidos en la lista.\n"
+msgstr "*'Browse'*: Se puede usar para navegar a través del árbol taxonómico de una lista en particular. Esta opción es muy útil para obtener un resumen rápido de las categorías taxonómicas y los nombres que están incluidos en la lista.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:54
@@ -304,14 +304,14 @@ msgstr "img/web/CLB-browse-Alucitoidea.png"
 #: explore-clb.en.adoc:58
 #, no-wrap
 msgid "*Search*:  here you can search for specific taxonomic names. This functionality is most useful if you are looking for a particular name.\n"
-msgstr "*Search*: aquí se pueden buscar nombres taxonómicos en particular.\n"
+msgstr "*'Search'*: aquí se pueden buscar nombres taxonómicos en particular.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:61
 #, no-wrap
 msgid "*Imports*: this shows the history and metrics of the import of this checklist into ChecklistBank including the different versions of the checklist. The timeline compares counts across imports, making it possible to see the growth in taxon counts, new datatypes added, etc. +\n"
 "Note: for the Catalogue of Life monthly and annual releases, the Imports is not available, because each release is a new checklist. For these checklists, there is just a Metrics page.\n"
-msgstr "*Imports*: esta función muestra el historial y estadísticas de las veces que se ha importado una lista en ChecklistBank, incluyendo sus diferentes versiones. La pestaña 'Timeline' compara las diferentes versiones importadas, lo cual permite ver el crecimiento en el número de taxones, nuevos tipos de datos añadidos, etc. +\n"
+msgstr "*'Imports'*: esta función muestra el historial y estadísticas de las veces que se ha importado una lista en ChecklistBank, incluyendo sus diferentes versiones. La pestaña 'Timeline' compara las diferentes versiones importadas, lo cual permite ver el crecimiento en el número de taxones, nuevos tipos de datos añadidos, etc. +\n"
 "Nota: esta opción no está disponible para las versiones mensuales y anuales de la lista COL, porque cada una es una nueva lista. Para esas listas solo está disponible la función 'Metrics'.\n"
 
 #. type: Plain text
@@ -319,7 +319,7 @@ msgstr "*Imports*: esta función muestra el historial y estadísticas de las vec
 #, no-wrap
 msgid "*Issues*: this lists the issues found by automatic checks. When you hover your mouse over a particular issue it will show the definition of that issue. A full list of all issues can be found http://api.checklistbank.org/vocab/issue[here]. +\n"
 "When you click on the count number it will take you to the search page displaying the names with that particular issue.\n"
-msgstr "*Issues*: se muestra una lista de los errores encontrados en las revisiones automáticas que realiza la plataforma. Al pasar el ratón encima de algún error en particular, se mostrará la definición del mismo. La lista completa de todos los posibles errores se encuentra http://api. hecklistbank.org/vocab/issue[aquí]. +\n"
+msgstr "*'Issues'*: se muestra una lista de los errores encontrados en las revisiones automáticas que realiza la plataforma. Al pasar el ratón encima de algún error en particular, se mostrará la definición del mismo. La lista completa de todos los posibles errores se encuentra http://api.checklistbank.org/vocab/issue[aquí]. +\n"
 "Al hacer clic en el número, se redirige a la página que muestra los nombres con ese error en particular.\n"
 
 #. type: Plain text
