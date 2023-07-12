@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-12 20:22\n"
+"PO-Revision-Date: 2023-07-12 21:27\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -103,7 +103,7 @@ msgstr "Este tutorial está dirigido a cualquier persona interesada en revisar, 
 #: login.en.adoc:2
 #, no-wrap
 msgid "ChecklistBank login"
-msgstr "Registro en ChecklistBank"
+msgstr "Inicio de sesión"
 
 #. type: Plain text
 #: login.en.adoc:5
@@ -338,12 +338,12 @@ msgstr "*'Verbatim'*: se muestran los datos tal como fueron proporcionados origi
 #: name-usage.en.adoc:2
 #, no-wrap
 msgid "Cross dataset search"
-msgstr "'Cross dataset search'"
+msgstr "Cross dataset search"
 
 #. type: Plain text
 #: name-usage.en.adoc:5
 msgid "The 'cross dataset search' tool gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, that are available in ChecklistBank."
-msgstr "Esta herramienta muestra la apariencia de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank que lo incluyan."
+msgstr "Esta herramienta busca un nombre científico en todas las fuentes de datos disponibles en ChecklistBank."
 
 #. type: Plain text
 #: name-usage.en.adoc:7
@@ -374,52 +374,52 @@ msgstr "Existen varias opciones para mejorar la búsqueda de conjuntos de datos:
 #. type: Plain text
 #: name-usage.en.adoc:17
 msgid "Fuzzy: is an approximate string matching that matches two or more words even if there are typos or misspellings."
-msgstr "Fuzzy: para indicar que es una cadena de texto aproximada que puede coincidir con dos o más palabras, incluso si tienen errores de ortografía o de escritura."
+msgstr "'Fuzzy': para indicar que es una cadena de texto aproximada que puede coincidir con dos o más palabras, incluso si tienen errores de ortografía o de escritura."
 
 #. type: Plain text
 #: name-usage.en.adoc:18
 msgid "Extinct: if selected match only within extinct taxa names."
-msgstr "Extinct: para indicar si únicamente se quieren buscar coincidencias con nombres de taxones extintos."
+msgstr "'Extinct': para indicar si únicamente se quieren buscar coincidencias con nombres de taxones extintos."
 
 #. type: Plain text
 #: name-usage.en.adoc:19
 msgid "Matching:"
-msgstr "Matching"
+msgstr "'Matching':"
 
 #. type: Plain text
 #: name-usage.en.adoc:21
 msgid "Exact: compares the entire name string (without considering authors)."
-msgstr "Exact: compara la cadena de texto completa del nombre (sin considerar a los autores)."
+msgstr "'Exact': compara la cadena de texto completa del nombre (sin considerar a los autores)."
 
 #. type: Plain text
 #: name-usage.en.adoc:22
 msgid "Words: matches word parts of the name, regardless of how they are combined."
-msgstr "Words: compara las palabras del nombre, independientemente de cómo se combinen."
+msgstr "'Words': compara las palabras del nombre, independientemente de cómo se combinen."
 
 #. type: Plain text
 #: name-usage.en.adoc:23
 msgid "Partial: a prefix search that matches names that begin with those letters."
-msgstr "Parcial: compara con nombres que empiecen con las mismas letras."
+msgstr "'Parcial': compara con nombres que empiecen con las mismas letras."
 
 #. type: Plain text
 #: name-usage.en.adoc:24
 msgid "Restrict to:"
-msgstr "'Restrict to': restringir la comparación"
+msgstr "'Restrict to':"
 
 #. type: Plain text
 #: name-usage.en.adoc:26
 msgid "Scientific name: search within the scientific names without authorship"
-msgstr "Scientific name: búsqueda entre los nombres científicos sin considerar los autores"
+msgstr "'Scientific name': búsqueda entre los nombres científicos sin considerar los autores"
 
 #. type: Plain text
 #: name-usage.en.adoc:27
 msgid "Authorship: search within the scientific name"
-msgstr "Autorship: restrinje la búsqueda a los autores del nombre"
+msgstr "'Autorship': restrinje la búsqueda a los autores del nombre"
 
 #. type: Plain text
 #: name-usage.en.adoc:28
 msgid "Any: search in all both scientific name and authorship"
-msgstr "Any: búsqueda tanto en los nombres científicos como en las autoridades"
+msgstr "'Any': búsqueda tanto en los nombres científicos como en las autoridades"
 
 #. type: Target for macro image
 #: name-usage.en.adoc:29
@@ -437,7 +437,7 @@ msgstr "Ejemplo: _Quercus robur_ L."
 #: name-usage.en.adoc:34
 #, no-wrap
 msgid "We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   \n"
-msgstr "Mostraremos la funcionalidad y la utilidad de la herramienta \"cross dataset search\", con un ejemplo real de búsqueda de un nombre científico. _Quercus robur_ L. es un roble perteneciente a la familia de las Fagaceae con una distribución amplia en Europa.   \n"
+msgstr "Mostraremos la funcionalidad y la utilidad de la herramienta 'cross dataset search', con un ejemplo real de búsqueda de un nombre científico. _Quercus robur_ L. es un roble perteneciente a la familia de las Fagaceae con una distribución amplia en Europa.   \n"
 
 #. type: Plain text
 #: name-usage.en.adoc:36
@@ -449,7 +449,7 @@ msgstr "*Paso 1: Escribir Quercus robur en la barra de búsqueda.*\n"
 #: name-usage.en.adoc:38
 #, no-wrap
 msgid "*Step 2: Select Exact in the options.*\n"
-msgstr "*Paso 2: Seleccionar Exact en las opciones.*\n"
+msgstr "*Paso 2: Seleccionar 'Exact' en las opciones.*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:40
@@ -497,7 +497,7 @@ msgstr "*Paso 4: Navegar a recursos externos.*\n"
 #. type: Plain text
 #: name-usage.en.adoc:56
 msgid "Click on the link of the Online resource."
-msgstr "Hacer clic en el enlace que aparece en \"Online resource\"."
+msgstr "Hacer clic en el enlace que aparece en 'Online resource'."
 
 #. type: Plain text
 #: name-usage.en.adoc:58
@@ -513,7 +513,7 @@ msgstr "img/web/Quercus-IPNI.png"
 #. type: Plain text
 #: name-usage.en.adoc:62
 msgid "This example shows that by using the 'cross dataset search' tool, you can make linkages to other infrastructures to explore further evidence of a scientific name."
-msgstr "Este ejemplo muestra que mediante el uso de la herramienta de \"'cross dataset search\", se pueden establecer vínculos con otras infraestructuras para explorar más información de un nombre científico."
+msgstr "Este ejemplo muestra que mediante el uso de la herramienta de 'cross dataset search', se pueden establecer vínculos con otras infraestructuras para explorar más información de un nombre científico."
 
 #. type: Plain text
 #: name-usage.en.adoc:64
@@ -529,7 +529,7 @@ msgstr "También se puede comprobar si el nombre buscado se utiliza como sinóni
 #. type: Plain text
 #: name-usage.en.adoc:68
 msgid "Go back to the search page in the 'cross dataset search' tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’."
-msgstr "Volver a la página de búsqueda en la herramienta 'cross dataset search' y volver a buscar Quercus robur, seleccionar Exact, y en Status, seleccionar 'Synonym'."
+msgstr "Volver a la página de búsqueda en la herramienta 'cross dataset search' y volver a buscar Quercus robur, seleccionar 'Exact', y en 'Status', seleccionar 'Synonym'."
 
 #. type: Plain text
 #: name-usage.en.adoc:69
@@ -545,7 +545,7 @@ msgstr "Herramienta 'Name match'"
 #. type: Plain text
 #: name-match.en.adoc:5
 msgid "The 'name match' tool in ChecklistBank enables comparison of any checklist against one or two other datasets in ChecklistBank in terms of taxon name matching. There is a limit to matching a maximum of 6000 taxon names in one request."
-msgstr "La herramienta \"Name match\" permite comparar los nombres de una lista con uno o dos conjuntos de datos disponibles en ChecklistBank. El número máximo de nombres que se pueden comparar en una misma solicitud es de 6000."
+msgstr "La herramienta 'Name match' permite comparar los nombres de una lista con uno o dos conjuntos de datos disponibles en ChecklistBank. El número máximo de nombres que se pueden comparar en una misma solicitud es de 6000."
 
 #. type: Plain text
 #: name-match.en.adoc:9
@@ -588,7 +588,7 @@ msgstr "Pegar una lista de nombres en el cuadro de texto. Utilice un nombre por 
 #. type: Plain text
 #: name-match.en.adoc:24
 msgid "Upload a csv file with a list of names.  This csv file must contain at least a column with the header 'scientificName' (which may include the author) and optional columns 'author', 'rank', 'code'(nomenclatural code)."
-msgstr "Subir un archivo Csv con la lista de nombres. Este archivo debe contener al menos una columna con la cabecera 'scientificName' (que puede incluir la autoría) y las columnas opcionales 'autor', 'rank', 'code' (código nomenclatural)."
+msgstr "Subir un archivo csv con la lista de nombres. Este archivo debe contener al menos una columna con la cabecera 'scientificName' (que puede incluir la autoría) y las columnas opcionales 'autor', 'rank', 'code' (código nomenclatural)."
 
 #. type: Plain text
 #: name-match.en.adoc:27
