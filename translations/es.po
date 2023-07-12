@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-12 00:29\n"
+"PO-Revision-Date: 2023-07-12 20:22\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -326,19 +326,19 @@ msgstr "*'Issues'*: se muestra una lista de los errores encontrados en las revis
 #: explore-clb.en.adoc:66
 #, no-wrap
 msgid "*References*: these are the references used to generate this checklist.\n"
-msgstr "*References*: aquí se muestran las referencias utilizadas para generar una lista en particular.\n"
+msgstr "*'References'*: aquí se muestran las referencias utilizadas para generar una lista en particular.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:68
 #, no-wrap
 msgid "*Verbatim*: this shows the exact data as it was supplied without any alterations done by the importer to best fit the ChecklistBank data model. You can perform a full text search and browse the csv files. This page can be useful for data providers in debugging why ChecklistBank has interpreted things in a particular way, but also for others to search the original data and browse it.\n"
-msgstr "*Verbatim*: se muestran los datos tal como fueron proporcionados originalmente, sin ninguna de las modificaciones que se realizan durante la importación con el fin de ajustar el contenido al modelo de datos de ChecklistBank. Se puede realizar una búsqueda de texto completa y navegar por los archivos csv. Esta página es útil para que los proveedores entiendan por qué ChecklistBank ha interpretado los datos de una manera particular, así como para que otros usuarios busquen los datos originales y los exploren.\n"
+msgstr "*'Verbatim'*: se muestran los datos tal como fueron proporcionados originalmente, sin ninguna de las modificaciones que se realizan durante la importación con el fin de ajustar el contenido al modelo de datos de ChecklistBank. Se puede realizar una búsqueda de texto completa y navegar por los archivos csv. Esta página es útil para que los proveedores entiendan por qué ChecklistBank ha interpretado los datos de una manera particular, así como para que otros usuarios busquen los datos originales y los exploren.\n"
 
 #. type: Title ==
 #: name-usage.en.adoc:2
 #, no-wrap
 msgid "Cross dataset search"
-msgstr "Cross dataset search"
+msgstr "'Cross dataset search'"
 
 #. type: Plain text
 #: name-usage.en.adoc:5
