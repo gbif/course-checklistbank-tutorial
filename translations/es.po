@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-12 21:27\n"
+"PO-Revision-Date: 2023-07-13 17:27\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -74,7 +74,7 @@ msgstr "Explorar el *repositorio de ChecklistBank*: buscar, revisar y descargar 
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
-msgstr "*'Cross dataset search'*: esta herramienta busca un nombre científico particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
+msgstr "*Cross dataset search*: esta herramienta busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
 
 #. type: delimited block *
 #: description.en.adoc:16
