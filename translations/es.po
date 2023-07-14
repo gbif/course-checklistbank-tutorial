@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-14 06:23\n"
+"PO-Revision-Date: 2023-07-14 17:39\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -74,7 +74,7 @@ msgstr "Explorar el *repositorio de ChecklistBank*: buscar, revisar y descargar 
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
-msgstr "*Cross dataset search*: esta herramienta busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
+msgstr "*'Cross dataset search'*: esta herramienta busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
 
 #. type: delimited block *
 #: description.en.adoc:16
@@ -958,7 +958,7 @@ msgstr "un archivo de mapeo: rtf.xml"
 #. type: Plain text
 #: glossary.en.adoc:35
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr "archivo de metadatos (EML): eml.xml Cuando se utiliza el IPT, se crea un Archivo Darwin Core, que se comparte con GBIF. Además, cuando se descargan datos del sitio web de GBIF, también puede elegir un formato DwC-A."
+msgstr "archivo de metadatos (EML): eml.xml Cuando se utiliza el IPT, se crea un Archivo Darwin Core, que se comparte con GBIF. Además, cuando se descargan datos del sitio web de GBIF, también se puede elegir un formato DwC-A."
 
 #. type: Labeled list
 #: glossary.en.adoc:36
@@ -969,7 +969,7 @@ msgstr "[[GUID]]GUID"
 #. type: Plain text
 #: glossary.en.adoc:37
 msgid "Globally Unique IDentifier"
-msgstr "Identificador Único Global"
+msgstr "Identificador Global Único"
 
 #. type: Plain text
 #: glossary.en.adoc:39
@@ -986,7 +986,7 @@ msgstr "Colofón"
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr "Citación sugerida"
+msgstr "Cita sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:7
@@ -1013,7 +1013,7 @@ msgstr "Colaboradores"
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid "The ChecklistBank tutorial was developed as part of workshop series at various international meetings. Naturalis Biodiversity Center acknowledges the European Commission funded project Synthesys+ (grant agreement number 823827)."
-msgstr "El tutorial de ChecklistBank se desarrolló como parte de uns serie de talleres en varias reuniones internacionales. Naturalis Biodiversity Center reconoce el proyecto Synthesys+ financiado por la Comisión Europea (acuerdo número 823827)."
+msgstr "El tutorial de ChecklistBank se desarrolló como parte de una serie de talleres en varias reuniones internacionales. Naturalis Biodiversity Center reconoce el proyecto Synthesys+ financiado por la Comisión Europea (acuerdo número 823827)."
 
 #. type: Title ===
 #: colophon.en.adoc:17
