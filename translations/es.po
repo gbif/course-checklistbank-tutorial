@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-14 18:36\n"
+"PO-Revision-Date: 2023-07-14 19:54\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -245,7 +245,7 @@ msgstr "https://github.com/gbif/text-tree[TextTree]: Es un formato simple para r
 #. type: Plain text
 #: explore-clb.en.adoc:39
 msgid "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life."
-msgstr "[Catalogue of Life Data Package ColDP)](https://github.com/CatalogueOfLife/frdp): es un formato tabular de texto con un conjunto estándar de archivos y columnas recomendadas para el intercambio de listas de especies con el Catálogo de la Vida."
+msgstr "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): es un formato tabular de texto con un conjunto estándar de archivos y columnas recomendadas para el intercambio de listas de especies con el Catálogo de la Vida."
 
 #. type: Plain text
 #: explore-clb.en.adoc:40
@@ -540,7 +540,7 @@ msgstr "Ahora se puede ver cuántos nombres sinónimos de _Quercus robur_ hay en
 #: name-match.en.adoc:2
 #, no-wrap
 msgid "Name match tool"
-msgstr "Herramienta 'Name match'"
+msgstr "Herramienta Name match"
 
 #. type: Plain text
 #: name-match.en.adoc:5
