@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-13 23:35\n"
+"PO-Revision-Date: 2023-07-14 05:22\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -604,7 +604,7 @@ msgstr "*Paso 2: Selección del conjunto de datos a comparar*\n"
 #. type: Plain text
 #: name-match.en.adoc:31
 msgid "The default selection for the target data is the latest release of the COL Checklist. It is also possible to select a different checklist from ChecklistBank, or even match against two datasets."
-msgstr "Por defecto aparecerá la última versión de la lista de chequeo COL como la fuente de datos de referencia. También es posible seleccionar una lista diferente disponible en ChecklistBank, o incluso comparar dos listas."
+msgstr "Por defecto aparecerá la última versión de la lista de chequeo COL como la fuente de datos de referencia. También es posible seleccionar una lista diferente disponible en ChecklistBank, o incluso comparar con dos listas."
 
 #. type: Plain text
 #: name-match.en.adoc:33
