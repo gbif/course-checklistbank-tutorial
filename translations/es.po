@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-06-22 17:29\n"
+"PO-Revision-Date: 2023-07-14 19:54\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -31,786 +31,792 @@ msgstr "Catálogo de la vida <support@catalogueoflife.org>"
 #. type: Plain text
 #: index.en.adoc:18
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "languageLinks:combined[]"
 
 #. type: Target for macro image
 #: index.en.adoc:23
 #, no-wrap
 msgid "img/logos/clb-col-dark.svg"
-msgstr ""
+msgstr "img/logos/clb-col-dark.svg"
 
 #. type: Title ==
 #: description.en.adoc:2
 #, no-wrap
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. type: delimited block *
 #: description.en.adoc:6
 msgid "ChecklistBank is a platform that supports the publication, analysis, and curation of checklists with emphasis in taxonomic and nomenclatural data. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF)."
-msgstr ""
+msgstr "ChecklistBank es una plataforma que permite la publicación, el análisis y curaduria de listas de chequeo principalmente de tipo taxonómico y nomenclatural. Es una parte integral de la infraestructura desarrollada y mantenida de manera conjunta por el Catálogo de la Vida (COL) y el Sistema Global de Información sobre Biodiversidad (GBIF por sus siglas en inglés)."
 
 #. type: delimited block *
 #: description.en.adoc:8
 msgid "ChecklistBank includes all https://www.catalogueoflife.org/data/source-datasets[checklists] that form the Catalogue of Life, which are primarily global species lists provided by specific taxonomic communities. However, there are many other sources and uses for taxonomic checklists, such as national or local species lists, lists that share a common attribute such as red lists or invasive species lists, or lists that summarise taxonomic publications. Through ChecklistBank, we facilitate the discovery, use and citation of these valuable resources."
-msgstr ""
+msgstr "La plataforma de ChecklistBank incluye todas las https://www.catalogueoflife.org/data/source-datasets[fuentes] que conforman el Catálogo de la Vida, que son principalmente listas mundiales proporcionadas por comunidades de taxónomos. Sin embargo, hay muchas otras fuentes disponibles, como las listas de especies nacionales o regionales, listas de especies que comparten un atributo como listas rojas o listas de especies invasoras, o listas generadas a partir de publicaciones taxonómicas. A través de ChecklistBank, facilitamos el acceso, el uso y la forma de citar estos recursos valiosos."
 
 #. type: delimited block *
 #: description.en.adoc:10
 msgid "ChecklistBank is provided as a fundamental tool to ensure that basic data on species names and classifications can be shared and reused in support of the biological sciences and wider societal uses."
-msgstr ""
+msgstr "ChecklistBank se ofrece como una herramienta fundamental para garantizar que la información básica de los nombres de especies y su clasificación taxonómica se pueda compartir y reutilizar para apoyar las ciencias biológicas y otros usos en la sociedad en general."
 
 #. type: delimited block *
 #: description.en.adoc:12
 msgid "Currently, ChecklistBank provides a repository and a suite of tools to explore its content, and further examine checklists of particular interest. In this tutorial, we provide 4 exercises to explore these tools:"
-msgstr ""
+msgstr "ChecklistBank proporciona un repositorio y un conjunto de herramientas que permiten explorar su contenido y examinar a detalle las listas de interés del usuario. En este tutorial, proporcionamos cuatro ejercicios para conocer estas herramientas:"
 
 #. type: delimited block *
 #: description.en.adoc:14
 msgid "Explore the *ChecklistBank repository*: search, inspect and download checklists."
-msgstr ""
+msgstr "Explorar el *repositorio de ChecklistBank*: buscar, revisar y descargar listas de especies."
 
 #. type: delimited block *
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
-msgstr ""
+msgstr "*'Cross dataset search'*: esta herramienta busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
 
 #. type: delimited block *
 #: description.en.adoc:16
 #, no-wrap
 msgid "*Name match* tool: enables comparison of the COL Checklist with one or two other datasets in ChecklistBank in terms of taxon name matching.\n"
-msgstr ""
+msgstr "*'Name match'*: permite comparar la lista de especies de COL (lista COL) con uno o dos conjuntos de datos disponibles en ChecklistBank. Esta comparación se realiza a partir de coincidencias de escritura de los nombres de taxones.\n"
 
 #. type: delimited block *
 #: description.en.adoc:17
 #, no-wrap
 msgid "*Dataset comparison* tool: allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis.\n"
-msgstr ""
+msgstr "*'Dataset comparison'*: permite comparar dos conjuntos de datos taxonómicos disponibles en ChecklistBank contrastando nombre por nombre científico.\n"
 
 #. type: Title ===
 #: description.en.adoc:20
 #, no-wrap
 msgid "Audience"
-msgstr ""
+msgstr "Audiencia"
 
 #. type: Plain text
 #: description.en.adoc:22
 msgid "This tutorial is for anyone interested in discovering, curating and publishing checklists with emphasis in taxonomic and nomenclatural checklists."
-msgstr ""
+msgstr "Este tutorial está dirigido a cualquier persona interesada en revisar, curar y publicar listas taxonómicas o nomenclaturales."
 
 #. type: Title ==
 #: login.en.adoc:2
 #, no-wrap
 msgid "ChecklistBank login"
-msgstr ""
+msgstr "Inicio de sesión"
 
 #. type: Plain text
 #: login.en.adoc:5
 msgid "Use the following steps to login to ChecklistBank:"
-msgstr ""
+msgstr "Siga estos pasos para iniciar sesión en ChecklistBank:"
 
 #. type: Plain text
 #: login.en.adoc:7
 msgid "Go to https://www.checklistbank.org/"
-msgstr ""
+msgstr "Ir a https://www.checklistbank.org/"
 
 #. type: Plain text
 #: login.en.adoc:8
 msgid "Click on Login (top right)"
-msgstr ""
+msgstr "Haga clic en 'Login' (arriba a la derecha)"
 
 #. type: Plain text
 #: login.en.adoc:9
 msgid "Login with your GBIF account +"
-msgstr ""
+msgstr "Inicie sesión con su cuenta GBIF +"
 
 #. type: Plain text
 #: login.en.adoc:11
 msgid "If you don’t have a GBIF account yet, use the register at https://www.gbif.org/[gbif.org] now!"
-msgstr ""
+msgstr "Si aún no tiene una cuenta de GBIF, regístrese en https://www.gbif.org/[gbif.org]"
 
 #. type: Target for macro image
 #: login.en.adoc:12
 #, no-wrap
 msgid "img/web/CLB-front.png"
-msgstr ""
+msgstr "img/web/CLB-front.png"
 
 #. type: Title ==
 #: explore-clb.en.adoc:2
 #, no-wrap
 msgid "Explore the ChecklistBank repository"
-msgstr ""
+msgstr "Explorar el repositorio de ChecklistBank"
 
 #. type: Plain text
 #: explore-clb.en.adoc:5
 msgid "ChecklistBank is a public repository including over 40,000 checklists, established to simplify FAIR data sharing. It allows contributors to publish lists using a variety of typical data formats. Each list is then accessible through a standard API and reusable web browser components and can be cited using a ChecklistBank Digital Object Identifier."
-msgstr ""
+msgstr "ChecklistBank es un repositorio público que incluye más de 40.000 listas de chequeo, que simplifica el intercambio de datos bajo los principios FAIR. Además, permite publicar listas a partir de diversos formatos de datos. Así, cada una de las listas es accesible a través de una API y de componentes de navegación web reutilizables y se pueden citar usando identificadores de objetos digitales (DOI) de ChecklistBank."
 
 #. type: Plain text
 #: explore-clb.en.adoc:7
 msgid "Data publishers benefit both by making their datasets accessible for reuse and attribution and also through ChecklistBank tools for data review and detection of possible issues. Some of the datasets in ChecklistBank serve as authoritative sources for the Catalogue of Life Checklist, and new releases of the COL Checklist are also published as ChecklistBank datasets."
-msgstr ""
+msgstr "Los proveedores de información se benefician tanto de hacer públicos sus conjuntos de datos para que se reutilicen y los citen, como de las herramientas de ChecklistBank para revisar y detectar posibles errores en sus listas. Algunos de los conjuntos de datos disponibles en ChecklistBank son listas de autoridades que se utilizan como fuentes en la lista COL, y además, todas las versiones publicadas de la lista COL están disponibles como conjuntos de datos de ChecklistBank."
 
 #. type: Plain text
 #: explore-clb.en.adoc:9
 msgid "You can search through the ChecklistBank repository and explore the information and content of each checklist. All checklists can also be downloaded in multiple formats."
-msgstr ""
+msgstr "En el repositorio de ChecklistBank se puede buscar y explorar el contenido de cada lista. Todas se pueden descargar en diferentes formatos."
 
 #. type: Plain text
 #: explore-clb.en.adoc:11
 msgid "Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr ""
+msgstr "Antes de empezar, asegúrese de haber iniciado sesión en ChecklistBank. Si no sabe cómo hacerlo, siga los pasos <<ChecklistBank login,aquí>>."
 
 #. type: Title ===
 #: explore-clb.en.adoc:12
 #, no-wrap
 msgid "Search for a checklist"
-msgstr ""
+msgstr "Búsqueda de una lista taxonómica"
 
 #. type: Plain text
 #: explore-clb.en.adoc:15
 msgid "Click on Datasets in the menu on the left. This will bring you to the dataset search page."
-msgstr ""
+msgstr "Haga clic en la opción 'Datasets' del menú de la izquierda. Esto le llevará a la página de búsqueda de conjuntos de datos."
 
 #. type: Target for macro image
 #: explore-clb.en.adoc:16
 #, no-wrap
 msgid "img/web/CLB-search.png"
-msgstr ""
+msgstr "img/web/CLB-search.png"
 
 #. type: Plain text
 #: explore-clb.en.adoc:19
 msgid "You can use the Search field to type any keyword of the checklist you are searching for. Here are a few suggestions that you can use for this tutorial:"
-msgstr ""
+msgstr "Se puede utilizar el campo de búsqueda 'Search' para escribir cualquier palabra clave de la lista de especies que está buscando. Aquí se presentan algunas sugerencias para usar en este tutorial:"
 
 #. type: Plain text
 #: explore-clb.en.adoc:21
 msgid "search 'COL22' : this will only give 1 result, the Catalogue of Life Checklist 2022."
-msgstr ""
+msgstr "buscar 'COL22': únicamente genera un resultado, la lista anual del Catálogo de la Vida 2022."
 
 #. type: Plain text
 #: explore-clb.en.adoc:22
 msgid "search 'Carabcat': the top result shows the Carabcat checklist, a global database of ground beetles, but additionally it will also show COL Checklists in which this checklist was included (since 2021)."
-msgstr ""
+msgstr "buscar 'Carabcat': el primer resultado muestra la lista de Carabcat, una base de datos global de escarabajos terrestres, pero también muestra listas de especies de COL en las que se incluyó Carabcat (desde 2021)."
 
 #. type: Plain text
 #: explore-clb.en.adoc:23
 msgid "search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF."
-msgstr ""
+msgstr "buscar 'Foraminifera': el primer resultado muestra la lista de WoRMS Foraminifera, a continuación se muestran las listas de COL en las que se incluyó dicha lista, así como otras listas que se han publicado en GBIF."
 
 #. type: Title ===
 #: explore-clb.en.adoc:24
 #, no-wrap
 msgid "Explore a checklist"
-msgstr ""
+msgstr "Explorar una lista de especies"
 
 #. type: Plain text
 #: explore-clb.en.adoc:28
 msgid "Let’s have a closer look at the information you can find for a particular dataset.  In this example, we use the Alucitoidea dataset by Donald Hobern: https://www.checklistbank.org/dataset/2207/about."
-msgstr ""
+msgstr "Veamos más de cerca la información que puede encontrar para un conjunto de datos en particular. En este ejemplo, utilizamos el conjunto de datos Alucitoidea de Donald Hobern: https://www.checklistbank.org/dataset/2207/about."
 
 #. type: Plain text
 #: explore-clb.en.adoc:30
 msgid "The menu on the left shows various options to explore this dataset:"
-msgstr ""
+msgstr "El menú de la izquierda muestra varias opciones para explorar este conjunto de datos:"
 
 #. type: Plain text
 #: explore-clb.en.adoc:32
 #, no-wrap
 msgid "*About*: here you can find all the metadata about this dataset including the author and contact person, the version of the dataset and date of when it was issued, licensing information and how to cite this source, link to the website of the dataset (if applicable), taxonomic scope, etc.\n"
-msgstr ""
+msgstr "*'About'*: Aquí se pueden encontrar todos los metadatos del conjunto de datos, incluyendo el autor, la persona de contacto, la versión del conjunto de datos y su fecha de publicación, información sobre la licencia, forma de citar, enlace al sitio web del conjunto de datos (si existe), ámbito taxonómico, etc.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:34
 #, no-wrap
 msgid "*Download*: on this page you can download this dataset in various formats:\n"
-msgstr ""
+msgstr "*'Download'*: En esta página se puede descargar el conjunto de datos en diferentes formatos:\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:36
 msgid "https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): commonly used standard for biodiversity data."
-msgstr ""
+msgstr "https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): estándar usado comúnmente para captura de datos de biodiversidad."
 
 #. type: Plain text
 #: explore-clb.en.adoc:37
 msgid "Annual Checklist Exchange Format (acef): data format previously used by Catalogue of Life."
-msgstr ""
+msgstr "Formato de intercambio de las versiones anuales de COL (acef): formato de datos utilizado previamente por el Catálogo de la Vida."
 
 #. type: Plain text
 #: explore-clb.en.adoc:38
 msgid "https://github.com/gbif/text-tree[TextTree]: a simple format to represent taxonomic trees using indented, plain text."
-msgstr ""
+msgstr "https://github.com/gbif/text-tree[TextTree]: Es un formato simple para representar árboles taxonómicos usando texto plano y con sangría."
 
 #. type: Plain text
 #: explore-clb.en.adoc:39
 msgid "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life."
-msgstr ""
+msgstr "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): es un formato tabular de texto con un conjunto estándar de archivos y columnas recomendadas para el intercambio de listas de especies con el Catálogo de la Vida."
 
 #. type: Plain text
 #: explore-clb.en.adoc:40
 msgid "https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data."
-msgstr ""
+msgstr "https://es.wikipedia.org/wiki/Newick_format[Newick]: Es una manera de representar árboles taxonómicos mediante paréntesis y comas, utilizados a menudo con datos filogenéticos."
 
 #. type: Plain text
 #: explore-clb.en.adoc:41
 msgid "http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools."
-msgstr ""
+msgstr "http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: un formato simple ampliamente utilizado para representar gráficos. Los archivos que se exporten de ChecklistBank incluirán las relaciones de sinonimia y de basónimos que en el gráfico final se pueden representar con diversas herramientas de software."
 
 #. type: Plain text
 #: explore-clb.en.adoc:43
 msgid "For your download you have the following options to select a subset of the checklist to be included in the download. This can be useful if you only want to download a selection of a large checklist."
-msgstr ""
+msgstr "La descarga de datos tiene las siguientes opciones para seleccionar un subconjunto de la lista de especies a incluir. Esto es útil si únicamente se necesita descargar una parte de una lista grande."
 
 #. type: Plain text
 #: explore-clb.en.adoc:46
 #, no-wrap
 msgid "Choose root taxon: you can select a taxon within the checklist that will be the top level for the data included in your download. This means only taxonomic levels from this root level and further down are selected.\n"
 "For example, if we choose 'Cenoloba' here as root taxon, only this genus and the species within this genus would be included in the download."
-msgstr ""
+msgstr "Elegir el taxón raíz: se puede seleccionar un taxón dentro de la lista taxonómica que será el nivel jerárquico más alto de los datos que se incluyan en la descarga. Esto significa que selecciona únicamente las categorías taxonómicas de este nivel y e inferiores.\n"
+"Por ejemplo, si elegimos 'Cenoloba' como taxón raíz, sólo este género y las especies dentro de este género se incluirían en la descarga."
 
 #. type: Plain text
 #: explore-clb.en.adoc:48
 #, no-wrap
 msgid "Exclude ranks below: select the highest taxonomic level you want to include in the download.\n"
 "For example, if we choose ‘genus’ all levels below will be excluded, thus species will not be listed."
-msgstr ""
+msgstr "Excluir categorías inferiores: seleccionar el nivel taxonómico más alto a incluir en la descarga.\n"
+"Por ejemplo, si elegimos 'género' todos los niveles por debajo se excluirán, por lo tanto las especies no se mostrarán en la lista."
 
 #. type: Plain text
 #: explore-clb.en.adoc:50
 msgid "The download consists of a zip file containing several tsv files of which the file ‘NameUsage.tsv’ includes the names in the checklist."
-msgstr ""
+msgstr "La descarga consiste en un archivo zip que contiene varios archivos tsv de los cuales el archivo 'NameUsage.tsv' incluye los nombres científicos."
 
 #. type: Plain text
 #: explore-clb.en.adoc:52
 #, no-wrap
 msgid "*Browse*: you can use this page to browse through the taxonomic tree for this particular checklist. This is useful to get a quick overview of which taxonomic levels and names are included in the checklist.\n"
-msgstr ""
+msgstr "*'Browse'*: Se puede usar para navegar a través del árbol taxonómico de una lista en particular. Esta opción es muy útil para obtener un resumen rápido de las categorías taxonómicas y los nombres que están incluidos en la lista.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:54
 msgid "This is the view if you unfold the taxonomic tree for the Alucitoidea checklist:"
-msgstr ""
+msgstr "Así se observa al desplegar el árbol taxonómico de la lista de Alucitoidea:"
 
 #. type: Target for macro image
 #: explore-clb.en.adoc:55
 #, no-wrap
 msgid "img/web/CLB-browse-Alucitoidea.png"
-msgstr ""
+msgstr "img/web/CLB-browse-Alucitoidea.png"
 
 #. type: Plain text
 #: explore-clb.en.adoc:58
 #, no-wrap
 msgid "*Search*:  here you can search for specific taxonomic names. This functionality is most useful if you are looking for a particular name.\n"
-msgstr ""
+msgstr "*'Search'*: aquí se pueden buscar nombres taxonómicos en particular.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:61
 #, no-wrap
 msgid "*Imports*: this shows the history and metrics of the import of this checklist into ChecklistBank including the different versions of the checklist. The timeline compares counts across imports, making it possible to see the growth in taxon counts, new datatypes added, etc. +\n"
 "Note: for the Catalogue of Life monthly and annual releases, the Imports is not available, because each release is a new checklist. For these checklists, there is just a Metrics page.\n"
-msgstr ""
+msgstr "*'Imports'*: esta función muestra el historial y estadísticas de las veces que se ha importado una lista en ChecklistBank, incluyendo sus diferentes versiones. La pestaña 'Timeline' compara las diferentes versiones importadas, lo cual permite ver el crecimiento en el número de taxones, nuevos tipos de datos añadidos, etc. +\n"
+"Nota: esta opción no está disponible para las versiones mensuales y anuales de la lista COL, porque cada una es una nueva lista. Para esas listas solo está disponible la función 'Metrics'.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:64
 #, no-wrap
 msgid "*Issues*: this lists the issues found by automatic checks. When you hover your mouse over a particular issue it will show the definition of that issue. A full list of all issues can be found http://api.checklistbank.org/vocab/issue[here]. +\n"
 "When you click on the count number it will take you to the search page displaying the names with that particular issue.\n"
-msgstr ""
+msgstr "*'Issues'*: se muestra una lista de los errores encontrados en las revisiones automáticas que realiza la plataforma. Al pasar el ratón encima de algún error en particular, se mostrará la definición del mismo. La lista completa de todos los posibles errores se encuentra http://api.checklistbank.org/vocab/issue[aquí]. +\n"
+"Al hacer clic en el número, se redirige a la página que muestra los nombres con ese error en particular.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:66
 #, no-wrap
 msgid "*References*: these are the references used to generate this checklist.\n"
-msgstr ""
+msgstr "*'References'*: aquí se muestran las referencias utilizadas para generar una lista en particular.\n"
 
 #. type: Plain text
 #: explore-clb.en.adoc:68
 #, no-wrap
 msgid "*Verbatim*: this shows the exact data as it was supplied without any alterations done by the importer to best fit the ChecklistBank data model. You can perform a full text search and browse the csv files. This page can be useful for data providers in debugging why ChecklistBank has interpreted things in a particular way, but also for others to search the original data and browse it.\n"
-msgstr ""
+msgstr "*'Verbatim'*: se muestran los datos tal como fueron proporcionados originalmente, sin ninguna de las modificaciones que se realizan durante la importación con el fin de ajustar el contenido al modelo de datos de ChecklistBank. Se puede realizar una búsqueda de texto completa y navegar por los archivos csv. Esta página es útil para que los proveedores entiendan por qué ChecklistBank ha interpretado los datos de una manera particular, así como para que otros usuarios busquen los datos originales y los exploren.\n"
 
 #. type: Title ==
 #: name-usage.en.adoc:2
 #, no-wrap
 msgid "Cross dataset search"
-msgstr ""
+msgstr "Herramienta Cross dataset search"
 
 #. type: Plain text
 #: name-usage.en.adoc:5
 msgid "The 'cross dataset search' tool gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, that are available in ChecklistBank."
-msgstr ""
+msgstr "Esta herramienta busca un nombre científico en todas las fuentes de datos disponibles en ChecklistBank."
 
 #. type: Plain text
 #: name-usage.en.adoc:7
 msgid "A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource."
-msgstr ""
+msgstr "Un 'Uso del nombre taxonómico' es el uso que tiene un nombre científico en particular en una fuente determinada, la cual puede ser un conjunto de datos en sí mismo o cualquier otra fuente que el proveedor de datos mencione en el campo estándar \"accordingTo\" (ej. taxónomo experto, referencia bibliográfica). La herramienta sirve para entender cómo un nombre científico dirige a diferentes sinónimos y, por tanto, al concepto taxonómico que se utiliza en un conjunto de datos o recurso en particular."
 
 #. type: Plain text
 #: name-usage.en.adoc:9 name-match.en.adoc:7 diff-viewer.en.adoc:9
 msgid "Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr ""
+msgstr "Es necesario asegurarse de que haber iniciado sesión en ChecklistBank. Si no sabe cómo hacerlo, siga los pasos <<ChecklistBank login,aquí>>."
 
 #. type: Plain text
 #: name-usage.en.adoc:11
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Cross dataset search’."
-msgstr ""
+msgstr "La herramienta se encuentra en el menú de la izquierda. El menú 'Tools' se expande haciendo clic en la flecha. Después, hacer clic en 'Cross dataset search'."
 
 #. type: Target for macro image
 #: name-usage.en.adoc:12
 #, no-wrap
 msgid "img/web/CLB-tools-dataset-search.png"
-msgstr ""
+msgstr "img/web/CLB-tools-dataset-search.png"
 
 #. type: Plain text
 #: name-usage.en.adoc:15
 msgid "You will find several options to improve your dataset search:"
-msgstr ""
+msgstr "Existen varias opciones para mejorar la búsqueda de conjuntos de datos:"
 
 #. type: Plain text
 #: name-usage.en.adoc:17
 msgid "Fuzzy: is an approximate string matching that matches two or more words even if there are typos or misspellings."
-msgstr ""
+msgstr "'Fuzzy': para indicar que es una cadena de texto aproximada que puede coincidir con dos o más palabras, incluso si tienen errores de ortografía o de escritura."
 
 #. type: Plain text
 #: name-usage.en.adoc:18
 msgid "Extinct: if selected match only within extinct taxa names."
-msgstr ""
+msgstr "'Extinct': para indicar si únicamente se quieren buscar coincidencias con nombres de taxones extintos."
 
 #. type: Plain text
 #: name-usage.en.adoc:19
 msgid "Matching:"
-msgstr ""
+msgstr "'Matching':"
 
 #. type: Plain text
 #: name-usage.en.adoc:21
 msgid "Exact: compares the entire name string (without considering authors)."
-msgstr ""
+msgstr "'Exact': compara la cadena de texto completa del nombre (sin considerar a los autores)."
 
 #. type: Plain text
 #: name-usage.en.adoc:22
 msgid "Words: matches word parts of the name, regardless of how they are combined."
-msgstr ""
+msgstr "'Words': compara las palabras del nombre, independientemente de cómo se combinen."
 
 #. type: Plain text
 #: name-usage.en.adoc:23
 msgid "Partial: a prefix search that matches names that begin with those letters."
-msgstr ""
+msgstr "'Parcial': compara con nombres que empiecen con las mismas letras."
 
 #. type: Plain text
 #: name-usage.en.adoc:24
 msgid "Restrict to:"
-msgstr ""
+msgstr "'Restrict to':"
 
 #. type: Plain text
 #: name-usage.en.adoc:26
 msgid "Scientific name: search within the scientific names without authorship"
-msgstr ""
+msgstr "'Scientific name': búsqueda entre los nombres científicos sin considerar los autores"
 
 #. type: Plain text
 #: name-usage.en.adoc:27
 msgid "Authorship: search within the scientific name"
-msgstr ""
+msgstr "'Autorship': restrinje la búsqueda a los autores del nombre"
 
 #. type: Plain text
 #: name-usage.en.adoc:28
 msgid "Any: search in all both scientific name and authorship"
-msgstr ""
+msgstr "'Any': búsqueda tanto en los nombres científicos como en las autoridades"
 
 #. type: Target for macro image
 #: name-usage.en.adoc:29
 #, no-wrap
 msgid "img/web/CLB-matching-options.png"
-msgstr ""
+msgstr "img/web/CLB-matching-options.png"
 
 #. type: Title ===
 #: name-usage.en.adoc:31
 #, no-wrap
 msgid "Example: _Quercus robur_ L."
-msgstr ""
+msgstr "Ejemplo: _Quercus robur_ L."
 
 #. type: Plain text
 #: name-usage.en.adoc:34
 #, no-wrap
 msgid "We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   \n"
-msgstr ""
+msgstr "Mostraremos la funcionalidad y la utilidad de la herramienta 'cross dataset search', con un ejemplo real de búsqueda de un nombre científico. _Quercus robur_ L. es un roble perteneciente a la familia de las Fagaceae con una distribución amplia en Europa.   \n"
 
 #. type: Plain text
 #: name-usage.en.adoc:36
 #, no-wrap
 msgid "*Step 1: Type Quercus robur in the search bar.*\n"
-msgstr ""
+msgstr "*Paso 1: Escribir Quercus robur en la barra de búsqueda.*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:38
 #, no-wrap
 msgid "*Step 2: Select Exact in the options.*\n"
-msgstr ""
+msgstr "*Paso 2: Seleccionar 'Exact' en las opciones.*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:40
 msgid "Setting the matching to 'Exact' ensures that all results relate to tree taxa in the family of the Fagaceae plant family. If the matching on 'Words' is used, zoological taxa (for example _Stomaphis quercus_ (Linnaeus, 1758) from the Fauna Europaea dataset would also appear."
-msgstr ""
+msgstr "Al seleccionar la opción 'Exact' se asegura que todos los resultados se relacionen con los taxones de la familia de plantas Fagaceae. Si se utiliza la coincidencia en 'Words', también aparecerían taxones animales (por ejemplo _Stomaphis quercus_ (Linnaeus, 1758) del conjunto de datos de Fauna Europaea."
 
 #. type: Plain text
 #: name-usage.en.adoc:42
 msgid "The search results show all datasets in ChecklistBank where the scientific name _Quercus robur_ L. appears in."
-msgstr ""
+msgstr "Los resultados de la búsqueda muestran todos los conjuntos de datos de ChecklistBank donde aparece el nombre científico _Quercus robur_ L."
 
 #. type: Target for macro image
 #: name-usage.en.adoc:43
 #, no-wrap
 msgid "img/web/CLB-search-Quercus.png"
-msgstr ""
+msgstr "img/web/CLB-search.png"
 
 #. type: Plain text
 #: name-usage.en.adoc:46
 msgid "Through these results, it is possible to explore individual datasets in ChecklistBank which include _Quercus robur_ L. Several options for filtering the search results are also available."
-msgstr ""
+msgstr "A través de estos resultados, es posible explorar por separado los conjuntos de datos en ChecklistBank que incluyan a _Quercus robur_ L. También están disponibles varias opciones para filtrar los resultados de la búsqueda."
 
 #. type: Plain text
 #: name-usage.en.adoc:48
 #, no-wrap
 msgid "*Step 3: Select a Dataset.*\n"
-msgstr ""
+msgstr "*Paso 3. Seleccionar un conjunto de datos*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:50
 msgid "In the menu 'Dataset' on the top right, you can easily select the dataset which you want to explore further. Click on 'International Plant Names Index (IPNI)', and then click on the Scientific Name (Quercus robur L.) in the results."
-msgstr ""
+msgstr "En el menú 'Dataset' en la parte superior derecha, puede seleccionar fácilmente el conjunto de datos a explorar. Hacer clic en 'International Plant Names Index (IPNI)' y después en el nombre científico (Quercus robur L.) en los resultados."
 
 #. type: Plain text
 #: name-usage.en.adoc:52
 msgid "This brings you to the record of this name, which includes its original resource."
-msgstr ""
+msgstr "Esto lleva al registro de este nombre, que incluye su fuente original."
 
 #. type: Plain text
 #: name-usage.en.adoc:54
 #, no-wrap
 msgid "*Step 4: Navigate external resources.*\n"
-msgstr ""
+msgstr "*Paso 4: Navegar a recursos externos.*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:56
 msgid "Click on the link of the Online resource."
-msgstr ""
+msgstr "Hacer clic en el enlace que aparece en 'Online resource'."
 
 #. type: Plain text
 #: name-usage.en.adoc:58
 msgid "This brings you to the information page about this name of the original source, in this case the International Plant Names Index (IPNI)."
-msgstr ""
+msgstr "De esta forma se direcciona a la página de información de este nombre en su fuente original, en este caso el Índice Internacional de Nombres de Plantas (International Plant Names Index, IPNI)."
 
 #. type: Target for macro image
 #: name-usage.en.adoc:59
 #, no-wrap
 msgid "img/web/Quercus-IPNI.png"
-msgstr ""
+msgstr "img/web/Quercus-IPNI.png"
 
 #. type: Plain text
 #: name-usage.en.adoc:62
 msgid "This example shows that by using the 'cross dataset search' tool, you can make linkages to other infrastructures to explore further evidence of a scientific name."
-msgstr ""
+msgstr "Este ejemplo muestra que mediante el uso de la herramienta de 'cross dataset search', se pueden establecer vínculos con otras infraestructuras para explorar más información de un nombre científico."
 
 #. type: Plain text
 #: name-usage.en.adoc:64
 #, no-wrap
 msgid "*Exploring synonyms*\n"
-msgstr ""
+msgstr "*Explorando los sinónimos*\n"
 
 #. type: Plain text
 #: name-usage.en.adoc:66
 msgid "You can also check whether the name that you have searched is used as a synonym for other names."
-msgstr ""
+msgstr "También se puede comprobar si el nombre buscado se utiliza como sinónimo de otros nombres."
 
 #. type: Plain text
 #: name-usage.en.adoc:68
 msgid "Go back to the search page in the 'cross dataset search' tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’."
-msgstr ""
+msgstr "Volver a la página de búsqueda en la herramienta 'cross dataset search' y volver a buscar Quercus robur, seleccionar 'Exact', y en 'Status', seleccionar 'Synonym'."
 
 #. type: Plain text
 #: name-usage.en.adoc:69
 msgid "You can now see how may synonyms of _Quercus robur_ are amongst the resources in ChecklistBank."
-msgstr ""
+msgstr "Ahora se puede ver cuántos nombres sinónimos de _Quercus robur_ hay entre las fuentes de ChecklistBank."
 
 #. type: Title ==
 #: name-match.en.adoc:2
 #, no-wrap
 msgid "Name match tool"
-msgstr ""
+msgstr "Herramienta Name match"
 
 #. type: Plain text
 #: name-match.en.adoc:5
 msgid "The 'name match' tool in ChecklistBank enables comparison of any checklist against one or two other datasets in ChecklistBank in terms of taxon name matching. There is a limit to matching a maximum of 6000 taxon names in one request."
-msgstr ""
+msgstr "La herramienta 'Name match' permite comparar los nombres de una lista con uno o dos conjuntos de datos disponibles en ChecklistBank. El número máximo de nombres que se pueden comparar en una misma solicitud es de 6000."
 
 #. type: Plain text
 #: name-match.en.adoc:9
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’."
-msgstr ""
+msgstr "La herramienta se encuentra en el menú de la izquierda, expandiendo el menú 'Tools' al hacer clic en la flecha, y luego en 'Name match'."
 
 #. type: Target for macro image
 #: name-match.en.adoc:10
 #, no-wrap
 msgid "img/web/CLB-tools-match.png"
-msgstr ""
+msgstr "img/web/CLB-tools-match.png"
 
 #. type: Plain text
 #: name-match.en.adoc:13
 msgid "The user interface guides you through the steps to match your lists of interest."
-msgstr ""
+msgstr "La interfaz de usuario le guiará paso a paso en el proceso."
 
 #. type: Target for macro image
 #: name-match.en.adoc:14
 #, no-wrap
 msgid "img/web/CLB-match-steps.png"
-msgstr ""
+msgstr "img/web/CLB-match-steps.png"
 
 #. type: Plain text
 #: name-match.en.adoc:17
 #, no-wrap
 msgid "*Step 1: Select your input data*\n"
-msgstr ""
+msgstr "*Paso 1: Selección de los datos de entrada*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:19
 msgid "There are three different options for your input data:"
-msgstr ""
+msgstr "Hay tres opciones para ingresar los datos a comparar:"
 
 #. type: Plain text
 #: name-match.en.adoc:21
 msgid "Simply paste a list of names in the text box. Use one name per row, and names can include author string."
-msgstr ""
+msgstr "Pegar una lista de nombres en el cuadro de texto. Utilice un nombre por fila, los nombres pueden incluir la autoría."
 
 #. type: Plain text
 #: name-match.en.adoc:24
 msgid "Upload a csv file with a list of names.  This csv file must contain at least a column with the header 'scientificName' (which may include the author) and optional columns 'author', 'rank', 'code'(nomenclatural code)."
-msgstr ""
+msgstr "Subir un archivo csv con la lista de nombres. Este archivo debe contener al menos una columna con en encabezado 'scientificName' (en donde se puede incluir la autoría) y las columnas opcionales 'autor', 'rank', 'code' (código nomenclatural)."
 
 #. type: Plain text
 #: name-match.en.adoc:27
 msgid "Choose a dataset in ChecklistBank.  You can select any checklist from the ChecklistBank repository. If this is a large checklist, it might be helpful to select a root taxon. The matching is then done for all names below the root taxon, ignoring higher taxonomic levels."
-msgstr ""
+msgstr "Elegir un conjunto de datos en ChecklistBank. Puede seleccionar cualquier lista del repositorio. Si es una lista grande, puede ser útil seleccionar un taxón raíz. La comparación se hace para todos los nombres por debajo del taxón raíz, ignorando niveles taxonómicos más altos."
 
 #. type: Plain text
 #: name-match.en.adoc:29
 #, no-wrap
 msgid "*Step 2: Select the target data*\n"
-msgstr ""
+msgstr "*Paso 2: Selección del conjunto de datos a comparar*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:31
 msgid "The default selection for the target data is the latest release of the COL Checklist. It is also possible to select a different checklist from ChecklistBank, or even match against two datasets."
-msgstr ""
+msgstr "Por defecto aparecerá la última versión de la lista de chequeo COL como la fuente de datos de referencia. También es posible seleccionar una lista diferente disponible en ChecklistBank, o incluso comparar con dos listas."
 
 #. type: Plain text
 #: name-match.en.adoc:33
 #, no-wrap
 msgid "*Step 3: Matching*\n"
-msgstr ""
+msgstr "*Paso 3: Comparación*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:35
 msgid "Once you click next in step 2, the matching will start. You can follow the progress in the progress bar. It is best to wait with exploring the results until the matching is complete."
-msgstr ""
+msgstr "Al hacer clic en 'Next' en el paso 2, comenzará la comparación entre las listas. Se puede ver el avance en la barra de progreso, pero es mejor esperar a que concluya la comparación para explorar los resultados."
 
 #. type: Plain text
 #: name-match.en.adoc:37
 #, no-wrap
 msgid "*Step 4: Review result*\n"
-msgstr ""
+msgstr "*Paso 4: Revisar el resultado*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:39
 msgid "The results of the matchings can be explored in web pages in ChecklistBank or downloaded as a CSV file."
-msgstr ""
+msgstr "Los resultados se pueden explorar en ChecklistBank o descargarse como un archivo csv."
 
 #. type: Title ===
 #: name-match.en.adoc:40
 #, no-wrap
 msgid "Example: Acacia Mill."
-msgstr ""
+msgstr "Ejemplo: Acacia Mill."
 
 #. type: Plain text
 #: name-match.en.adoc:43
 msgid "In this tutorial, we showcase the functionality of the name match tool with a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae."
-msgstr ""
+msgstr "En este tutorial se muestran las funcionalidades de la herramienta 'Name match' comparando el género _Acacia_ Mill. en la familia de plantas Fabaceae."
 
 #. type: Plain text
 #: name-match.en.adoc:45
 #, no-wrap
 msgid "*Step 1. Select your input data*\n"
-msgstr ""
+msgstr "*Paso 1: Seleccionar los datos de entrada*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:47
 msgid "Go to 'Choose a dataset in ChecklistBank'."
-msgstr ""
+msgstr "Vaya a 'Choose a dataset in ChecklistBank'."
 
 #. type: Plain text
 #: name-match.en.adoc:49
 #, no-wrap
 msgid "In the 'Select a subject dataset' box, start typing and select ‘WCVP-Fabaceae [2304]’.\n"
 "This is a dataset from the Legume Phylogeny Working Group 2021, which is a group of Fabaceae specialists that have worked on a comprehensive global taxonomic list for this taxon. +"
-msgstr ""
+msgstr "En la casilla 'Select a subject dataset', escriba y seleccione 'WCVP-Fabaceae [2304]'.\n"
+"Este es el conjunto de datos del \"Legume Phylogeny Working Group\" 2021, un grupo de especialistas de la familia Fabaceae que han trabajado en una lista taxonómica global."
 
 #. type: Plain text
 #: name-match.en.adoc:50
 msgid "Under 'And a root taxon', start typing and select 'Acacia (genus in Fabaceae)'"
-msgstr ""
+msgstr "En 'And a root taxon', escribir y seleccionar 'Acacia' (género en Fabaceae)"
 
 #. type: Plain text
 #: name-match.en.adoc:51
 msgid "Click on 'Fetch 3,297 names'."
-msgstr ""
+msgstr "Hacer clic en 'Fetch 3,297 names'."
 
 #. type: Plain text
 #: name-match.en.adoc:53
 #, no-wrap
 msgid "*Step 2. Select your target data*\n"
-msgstr ""
+msgstr "*Paso 2: Seleccionar los datos de referencia*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:55
 msgid "For this tutorial select the COL Checklist 2021 (COL21)."
-msgstr ""
+msgstr "Para este tutorial seleccionar la lista COL 2021 (COL21)."
 
 #. type: Plain text
 #: name-match.en.adoc:56
 msgid "Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +"
-msgstr ""
+msgstr "Escriba 'COL21' en el cuadro de texto y seleccione 'COL21 Annual Checklist 2021 [2328]'. +"
 
 #. type: Plain text
 #: name-match.en.adoc:57
 msgid "Click Next."
-msgstr ""
+msgstr "Haga clic en 'Next'."
 
 #. type: Plain text
 #: name-match.en.adoc:59
 #, no-wrap
 msgid "*Step 3. Matching*\n"
-msgstr ""
+msgstr "*Paso 3: Comparación*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:61
 msgid "The matching will start, please wait until it is complete."
-msgstr ""
+msgstr "El proceso comenzará, por favor espere hasta que se haya completado."
 
 #. type: Target for macro image
 #: name-match.en.adoc:62
 #, no-wrap
 msgid "img/web/CLB-match-Acacia.png"
-msgstr ""
+msgstr "img/web/CLB-match-Acacia.png"
 
 #. type: Plain text
 #: name-match.en.adoc:65
 #, no-wrap
 msgid "*Step 4. Review result*\n"
-msgstr ""
+msgstr "*Paso 4: Revisar el resultado*\n"
 
 #. type: Plain text
 #: name-match.en.adoc:68
 #, no-wrap
 msgid "The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset).\n"
 "The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist 2021 (usage in COL21), or the names that do not have a match (NO usage in COL21)."
-msgstr ""
+msgstr "La primera columna muestra el nombre científico del conjunto de datos proporcionado (en este caso el conjunto de datos Fabaceae).\n"
+"La columna 'Scientific Name' tiene un filtro en el que puede seleccionar si desea ver los nombres que también están listados en COL 2021 ('usage in COL21'), o los nombres que no tienen coincidencia ('NO usage in COL21')."
 
 #. type: Target for macro image
 #: name-match.en.adoc:69
 #, no-wrap
 msgid "img/web/CLB-match-result.png"
-msgstr ""
+msgstr "img/web/CLB-match-result.png"
 
 #. type: Title ==
 #: diff-viewer.en.adoc:2
 #, no-wrap
 msgid "Dataset comparison"
-msgstr ""
+msgstr "Herramienta Dataset comparison"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:5
 msgid "The 'dataset comparison' allows for comparison of two datasets in ChecklistBank on a scientific name by scientific name basis."
-msgstr ""
+msgstr "La herramienta 'Dataset comparison' permite comparar los nombres científicos de dos conjuntos de datos en ChecklistBank."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:7
 msgid "All datasets in ChecklistBank can be compared including the COL Checklist releases. The tool provides an overview of the differences in scientific names between datasets. The set of names to be compared can be filtered by various parameters, and a root taxon can also be selected to include only a certain group. Synonyms and names below a certain rank can be excluded on demand, i.e. you can just compare accepted genera or families."
-msgstr ""
+msgstr "Todos los conjuntos de datos de ChecklistBank se pueden comparar entre si, incluyendo las versiones de la lista COL. La herramienta proporciona una visión general de las diferencias en los nombres científicos entre los conjuntos de datos. Los nombres pueden filtrarse por varios parámetros, y se puede seleccionar un taxón raíz a partir del cual realizar la comparación. Los sinónimos y nombres inferiores a determinada categoría se pueden excluidos a demanda, por ejemplo para comparar los géneros o familias aceptadas."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:11
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Dataset comparison’."
-msgstr ""
+msgstr "La herramienta se encuentra en el menú de la izquierda, al expandir el menú 'Tools' haciendo clic en la flecha, y luego en 'Name match'."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:12
 #, no-wrap
 msgid "img/web/CLB-tools-compare.png"
-msgstr ""
+msgstr "img/web/CLB-tools-compare.png"
 
 #. type: Title ===
 #: diff-viewer.en.adoc:14
 #, no-wrap
 msgid "Example: _Lysiloma_ (genus in Fabaceae)"
-msgstr ""
+msgstr "Ejemplo: _Lysiloma_ (género en Fabaceae)"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:17
 msgid "We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus _Lysiloma_ are provided by the ILDIS World Database of Legumes checklist (Roskov et al. 2014)."
-msgstr ""
+msgstr "Se usará la misma lista de la familia Fabaceae del ejercicio anterior. Compararemos esta lista contra la lista COL 2021 para los datos del género _Lysiloma_, que son proporcionados por la lista 'ILDIS World Database of Legumes' (Roskov et al. 2014)."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:19
 msgid "When you open the tool, the start screen of the dataset comparison allows you to choose two datasets to make the comparison on the basis of scientific names."
-msgstr ""
+msgstr "Al abrir la herramienta, la pantalla de inicio le permite elegir dos conjuntos de datos para comparar sus nombres científicos."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:21
 #, no-wrap
 msgid "*Step 1. Select dataset 1*\n"
-msgstr ""
+msgstr "*Paso 1. Seleccionar el primer conjunto de datos*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:23
 msgid "Start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. +"
-msgstr ""
+msgstr "Comience a escribir WCVP-Fabaceae y este conjunto de datos aparecerá en el menú. Selecciónelo. +"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:24
 msgid "In the box 'Find taxon', type 'Lysiloma' and select it."
-msgstr ""
+msgstr "En el cuadro 'Buscar taxón', escriba 'Lysiloma' y selecciónelo."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:26
 #, no-wrap
 msgid "*Step 2. Select dataset 2*\n"
-msgstr ""
+msgstr "*Paso 2. Seleccionar el segundo conjunto de datos*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:28
 msgid "Type COL 2021, and select the COL21 Annual Checklist 2021. +"
-msgstr ""
+msgstr "Escriba COL 2021 y seleccione 'COL21 Annual Checklist 2021'. +"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:29
 msgid "Click on 'Go to Lysiloma' to select the same genus as in dataset 1."
-msgstr ""
+msgstr "Haz clic en 'Go to Lysiloma' para seleccionar el mismo género que en el primer conjunto de datos."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:31
 msgid "Click on ‘Show diff’"
-msgstr ""
+msgstr "Haga clic en 'Show diff'"
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:32
 #, no-wrap
 msgid "img/web/CLB-compare-selection.png"
-msgstr ""
+msgstr "img/web/CLB-compare-selection.png"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:35
 #, no-wrap
 msgid "*Step 3. Check you selection*\n"
-msgstr ""
+msgstr "*Paso 3. Comprobar la selección*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:39
@@ -818,227 +824,229 @@ msgstr ""
 msgid "The next view shows you which datasets and roots you have selected.\n"
 "You can choose whether the scientific name comparisons should include authorship and synonyms, for this example select both options.\n"
 "Additionally, you can select whether to show the parent, and at which level. For this example, also select the box 'Show parent'."
-msgstr ""
+msgstr "La siguiente vista muestra qué conjuntos de datos y taxones se han seleccionado.\n"
+"Puede elegir si la comparación de los nombres científicos deben incluir la autoría y sinónimos, para este ejemplo seleccione ambas opciones.\n"
+"Además, puede decidir si mostrar al taxón padre y a qué nivel. Para este ejemplo, también seleccione el cuadro 'Show parent'."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:42
 #, no-wrap
 msgid "*Step 4. Get results**\n"
-msgstr ""
+msgstr "*Paso 4: Obtener los resultados*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:44
 msgid "Once you have made your selection, click ‘Get diff’."
-msgstr ""
+msgstr "Una vez hecha la selección, hacer clic en 'Get diff’'."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:45
 #, no-wrap
 msgid "img/web/CLB-diff-Lysiloma.png"
-msgstr ""
+msgstr "img/web/CLB-diff-Lysiloma.png"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:49
 msgid "The results of the comparison can be explored in the webpage."
-msgstr ""
+msgstr "Los resultados de la comparación se pueden explorar en la página web."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:51
 msgid "You can see two columns, one for each dataset. Scientific name differences are shown in each column where a '-' or '+' sign indicates in which dataset the difference occurs. The results of the comparisons can also be downloaded in a CSV file for further investigation."
-msgstr ""
+msgstr "Puede ver dos columnas, una para cada conjunto de datos. Las diferencias de nombres científicos se muestran en cada columna donde un signo '-' o '+' indica en qué conjunto de datos ocurre la diferencia. Los resultados de la comparación se pueden descargar en un archivo CSV para su posterior revisión."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:52
 #, no-wrap
 msgid "img/web/CLB-compare-Lysiloma-result.png"
-msgstr ""
+msgstr "img/web/CLB-compare-Lysiloma-result.png"
 
 #. type: Title ==
 #: glossary.en.adoc:2
 #, no-wrap
 msgid "Glossary"
-msgstr ""
+msgstr "Glosario"
 
 #. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
 #. type: Labeled list
 #: glossary.en.adoc:7
 #, no-wrap
 msgid "[[API]]API"
-msgstr ""
+msgstr "[[API]]API"
 
 #. type: Plain text
 #: glossary.en.adoc:9
 msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
-msgstr ""
+msgstr "Interfaz de programación de aplicaciones (Application Programming Interface). Un conjunto de métodos de comunicación claramente definidos entre varios componentes de software."
 
 #. type: Labeled list
 #: glossary.en.adoc:10
 #, no-wrap
 msgid "[[CC]]CC Licences"
-msgstr ""
+msgstr "[[CC]]Licencias CC"
 
 #. type: Plain text
 #: glossary.en.adoc:12
 msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools."
-msgstr ""
+msgstr "Creative Commons. Son una serie de licencias establecidas por la organización Creative Commons que permiten compartir y reutilizar la creatividad y el conocimiento mediante herramientas legales gratuitas."
 
 #. type: Labeled list
 #: glossary.en.adoc:13
 #, no-wrap
 msgid "[[COL]]COL"
-msgstr ""
+msgstr "[[COL]]COL"
 
 #. type: Plain text
 #: glossary.en.adoc:15
 msgid "Catalogue of Life.  A global collaboration bringing together the effort and contributions of taxonomists and informaticians from around the world."
-msgstr ""
+msgstr "Catálogo de la Vida. Una colaboración global que reúne el esfuerzo y las contribuciones de los taxónomos e informáticos de todo el mundo."
 
 #. type: Labeled list
 #: glossary.en.adoc:16
 #, no-wrap
 msgid "[[vocab]]Controlled Vocabulary"
-msgstr ""
+msgstr "[[vocab]]Vocabulario controlado"
 
 #. type: Plain text
 #: glossary.en.adoc:20
 msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
-msgstr ""
+msgstr "Un conjunto restringido de términos que se utilizan como valores permitidos para un campo determinado. Se puede pensar en este como una lista de búsqueda o un menú desplegable para un campo en particular. Por ejemplo, el campo DwC basisOfRecord solo puede contener uno de estos valores: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\". Diríamos que la lista de valores es un vocabulario controlado para ese campo."
 
 #. type: Labeled list
 #: glossary.en.adoc:21
 #, no-wrap
 msgid "[[DOI]]DOI"
-msgstr ""
+msgstr "[[DOI]]DOI"
 
 #. type: Plain text
 #: glossary.en.adoc:23
 msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
-msgstr ""
+msgstr "Identificador de Objetos Digitales. Un identificador persistente usado para identificar objetos de forma única. Los DOI se utilizan en gran medida principalmente para identificar información académica, profesional y gubernamental, como artículos de revistas, informes de investigación y conjuntos de datos, y publicaciones oficiales."
 
 #. type: Labeled list
 #: glossary.en.adoc:24
 #, no-wrap
 msgid "[[DwC]]DwC"
-msgstr ""
+msgstr "[[DwC]]DwC"
 
 #. type: Plain text
 #: glossary.en.adoc:26
 msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
-msgstr ""
+msgstr "Darwin Core es un estándar de datos sobre biodiversidad, mantenido por TDWG y ampliamente utilizado dentro de la comunidad de GBIF. Es un conjunto de términos estandarizados (o nombres de campos) y sus definiciones, que se utilizan para compartir información sobre biodiversidad."
 
 #. type: Labeled list
 #: glossary.en.adoc:27
 #, no-wrap
 msgid "[[DwC-A]]DwC-A"
-msgstr ""
+msgstr "[[DwC-A]]DwC-A"
 
 #. type: Plain text
 #: glossary.en.adoc:30
 msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
-msgstr ""
+msgstr "Archivo Darwin Core. Un archivo comprimido (zip) que contiene toda la información necesaria para compartir datos con GBIF. Cada archivo zip contiene tres tipos de archivos:"
 
 #. type: Plain text
 #: glossary.en.adoc:31
 msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
-msgstr ""
+msgstr "los datos, en uno o más archivos de texto: ooccurrence.txt/event.txt/measurmentoffact.txt, etc"
 
 #. type: Plain text
 #: glossary.en.adoc:32
 msgid "a mapping file: rtf.xml"
-msgstr ""
+msgstr "un archivo de mapeo: rtf.xml"
 
 #. type: Plain text
 #: glossary.en.adoc:35
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr ""
+msgstr "archivo de metadatos (EML): eml.xml Cuando se utiliza el IPT, se crea un Archivo Darwin Core, que se comparte con GBIF. Además, cuando se descargan datos del sitio web de GBIF, también se puede elegir un formato DwC-A."
 
 #. type: Labeled list
 #: glossary.en.adoc:36
 #, no-wrap
 msgid "[[GUID]]GUID"
-msgstr ""
+msgstr "[[GUID]]GUID"
 
 #. type: Plain text
 #: glossary.en.adoc:37
 msgid "Globally Unique IDentifier"
-msgstr ""
+msgstr "Identificador Global Único"
 
 #. type: Plain text
 #: glossary.en.adoc:39
 msgid "<<<"
-msgstr ""
+msgstr "<<<"
 
 #. type: Title ==
 #: colophon.en.adoc:1
 #, no-wrap
 msgid "Colophon"
-msgstr ""
+msgstr "Colofón"
 
 #. type: Title ===
 #: colophon.en.adoc:3
 #, no-wrap
 msgid "Suggested citation"
-msgstr ""
+msgstr "Cita sugerida"
 
 #. type: Plain text
 #: colophon.en.adoc:7
 msgid "Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2023). ChecklistBank Tutorial, version 1.  https://doi.org/10.35035/ce-9sw4-e095."
-msgstr ""
+msgstr "Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2023). ChecklistBank Tutorial, version 1.  https://doi.org/10.35035/ce-9sw4-e095."
 
 #. type: Title ===
 #: colophon.en.adoc:9
 #, no-wrap
 msgid "Authors"
-msgstr ""
+msgstr "Autores"
 
 #. type: Plain text
 #: colophon.en.adoc:12
 msgid "Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, Diana Hernández, Camila Plata and Joe Miller."
-msgstr ""
+msgstr "Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, Diana Hernández, Camila Plata and Joe Miller."
 
 #. type: Title ===
 #: colophon.en.adoc:13
 #, no-wrap
 msgid "Contributors"
-msgstr ""
+msgstr "Colaboradores"
 
 #. type: Plain text
 #: colophon.en.adoc:16
 msgid "The ChecklistBank tutorial was developed as part of workshop series at various international meetings. Naturalis Biodiversity Center acknowledges the European Commission funded project Synthesys+ (grant agreement number 823827)."
-msgstr ""
+msgstr "El tutorial de ChecklistBank se desarrolló como parte de una serie de talleres en varias reuniones internacionales. Naturalis Biodiversity Center reconoce el proyecto Synthesys+ financiado por la Comisión Europea (acuerdo número 823827)."
 
 #. type: Title ===
 #: colophon.en.adoc:17
 #, no-wrap
 msgid "Licence"
-msgstr ""
+msgstr "Licencia"
 
 #. type: Plain text
 #: colophon.en.adoc:20
 msgid "The ChecklistBank tutorial is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
-msgstr ""
+msgstr "El tutorial de ChecklistBank está bajo la licencia https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
 
 #. type: Title ===
 #: colophon.en.adoc:21
 #, no-wrap
 msgid "Persistent URI"
-msgstr ""
+msgstr "URI persistente"
 
 #. type: Plain text
 #: colophon.en.adoc:24
 msgid "https://doi.org/10.35035/ce-9sw4-e095"
-msgstr ""
+msgstr "https://doi.org/10.35035/ce-9sw4-e095"
 
 #. type: Title ===
 #: colophon.en.adoc:25
 #, no-wrap
 msgid "Document control"
-msgstr ""
+msgstr "Control del documento"
 
 #. type: Plain text
 #: colophon.en.adoc:28
 msgid "First edition, June 2023"
-msgstr ""
+msgstr "Primera edición, junio de 2023"
 
 #. type: Table
 #: colophon.en.adoc:34
@@ -1046,7 +1054,9 @@ msgstr ""
 msgid "|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]\n"
 "|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,width=104,height=70]\n"
 "|image::img/logos/logo-gbif.svg[GBIF,width=174,height=70]\n"
-msgstr ""
+msgstr "|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]\n"
+"|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,width=104,height=70]\n"
+"|image::img/logos/logo-gbif.svg[GBIF,width=174,height=70]\n"
 
 #. type: Plain text
 #: scripts/data-types.en.txt:2
