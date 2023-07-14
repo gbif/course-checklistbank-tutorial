@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-14 19:54\n"
+"PO-Revision-Date: 2023-07-14 21:13\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -74,7 +74,7 @@ msgstr "Explorar el *repositorio de ChecklistBank*: buscar, revisar y descargar 
 #: description.en.adoc:15
 #, no-wrap
 msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
-msgstr "*'Cross dataset search'*: esta herramienta busca el uso de un nombre científico en particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
+msgstr "*'Cross dataset search'*: esta herramienta busca un nombre científico particular en todas las fuentes de datos disponibles en ChecklistBank.\n"
 
 #. type: delimited block *
 #: description.en.adoc:16
@@ -245,7 +245,7 @@ msgstr "https://github.com/gbif/text-tree[TextTree]: Es un formato simple para r
 #. type: Plain text
 #: explore-clb.en.adoc:39
 msgid "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life."
-msgstr "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): es un formato tabular de texto con un conjunto estándar de archivos y columnas recomendadas para el intercambio de listas de especies con el Catálogo de la Vida."
+msgstr "[Catalogue of Life Data Package ColDP)](https://github.com/CatalogueOfLife/frdp): es un formato tabular de texto con un conjunto estándar de archivos y columnas recomendadas para el intercambio de listas de especies con el Catálogo de la Vida."
 
 #. type: Plain text
 #: explore-clb.en.adoc:40
@@ -338,7 +338,7 @@ msgstr "*'Verbatim'*: se muestran los datos tal como fueron proporcionados origi
 #: name-usage.en.adoc:2
 #, no-wrap
 msgid "Cross dataset search"
-msgstr "Herramienta Cross dataset search"
+msgstr "'Cross dataset search'"
 
 #. type: Plain text
 #: name-usage.en.adoc:5
@@ -353,7 +353,7 @@ msgstr "Un 'Uso del nombre taxonómico' es el uso que tiene un nombre científic
 #. type: Plain text
 #: name-usage.en.adoc:9 name-match.en.adoc:7 diff-viewer.en.adoc:9
 msgid "Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
-msgstr "Es necesario asegurarse de que haber iniciado sesión en ChecklistBank. Si no sabe cómo hacerlo, siga los pasos <<ChecklistBank login,aquí>>."
+msgstr "Por favor, asegúrate de que ha iniciado sesión en ChecklistBank. Si no sabes cómo hacerlo, sigue los pasos <<ChecklistBank login,acá>>."
 
 #. type: Plain text
 #: name-usage.en.adoc:11
@@ -540,12 +540,12 @@ msgstr "Ahora se puede ver cuántos nombres sinónimos de _Quercus robur_ hay en
 #: name-match.en.adoc:2
 #, no-wrap
 msgid "Name match tool"
-msgstr "Herramienta Name match"
+msgstr "Herramienta 'Name match'"
 
 #. type: Plain text
 #: name-match.en.adoc:5
 msgid "The 'name match' tool in ChecklistBank enables comparison of any checklist against one or two other datasets in ChecklistBank in terms of taxon name matching. There is a limit to matching a maximum of 6000 taxon names in one request."
-msgstr "La herramienta 'Name match' permite comparar los nombres de una lista con uno o dos conjuntos de datos disponibles en ChecklistBank. El número máximo de nombres que se pueden comparar en una misma solicitud es de 6000."
+msgstr "La herramienta \"Name match\" en ChecklistBank permite subir una lista y compararla contra una o dos listas de ChecklistBank. El límite de comparación son 6000 nombres en una misma solicitud."
 
 #. type: Plain text
 #: name-match.en.adoc:9
@@ -604,7 +604,7 @@ msgstr "*Paso 2: Selección del conjunto de datos a comparar*\n"
 #. type: Plain text
 #: name-match.en.adoc:31
 msgid "The default selection for the target data is the latest release of the COL Checklist. It is also possible to select a different checklist from ChecklistBank, or even match against two datasets."
-msgstr "Por defecto aparecerá la última versión de la lista de chequeo COL como la fuente de datos de referencia. También es posible seleccionar una lista diferente disponible en ChecklistBank, o incluso comparar con dos listas."
+msgstr "Por defecto aparecera la última versión de la lista de chequeo COL como la fuente de comparación. También es posible seleccionar una lista diferente disponible en ChecklistBank, o incluso comparar dos listas."
 
 #. type: Plain text
 #: name-match.en.adoc:33
@@ -648,7 +648,7 @@ msgstr "*Paso 1: Seleccionar los datos de entrada*\n"
 #. type: Plain text
 #: name-match.en.adoc:47
 msgid "Go to 'Choose a dataset in ChecklistBank'."
-msgstr "Vaya a 'Choose a dataset in ChecklistBank'."
+msgstr "Dirígete a 'Choose a dataset in ChecklistBank'."
 
 #. type: Plain text
 #: name-match.en.adoc:49
@@ -682,12 +682,12 @@ msgstr "Para este tutorial seleccionar la lista COL 2021 (COL21)."
 #. type: Plain text
 #: name-match.en.adoc:56
 msgid "Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +"
-msgstr "Escriba 'COL21' en el cuadro de texto y seleccione 'COL21 Annual Checklist 2021 [2328]'. +"
+msgstr "Escribe 'COL21' en el cuadro de texto y selecciona 'COL21 Annual Checklist 2021 [2328]'. +"
 
 #. type: Plain text
 #: name-match.en.adoc:57
 msgid "Click Next."
-msgstr "Haga clic en 'Next'."
+msgstr "Haga clic en \"Next\"."
 
 #. type: Plain text
 #: name-match.en.adoc:59
@@ -735,7 +735,7 @@ msgstr "Herramienta Dataset comparison"
 #. type: Plain text
 #: diff-viewer.en.adoc:5
 msgid "The 'dataset comparison' allows for comparison of two datasets in ChecklistBank on a scientific name by scientific name basis."
-msgstr "La herramienta 'Dataset comparison' permite comparar los nombres científicos de dos conjuntos de datos en ChecklistBank."
+msgstr "La herramienta 'dataset comparison' permite comparar los nombres científicos de dos conjuntos de datos en ChecklistBank."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:7
@@ -745,7 +745,7 @@ msgstr "Todos los conjuntos de datos de ChecklistBank se pueden comparar entre s
 #. type: Plain text
 #: diff-viewer.en.adoc:11
 msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Dataset comparison’."
-msgstr "La herramienta se encuentra en el menú de la izquierda, al expandir el menú 'Tools' haciendo clic en la flecha, y luego en 'Name match'."
+msgstr "En el menú de la izquierda, expande el menú 'Tools' haciendo clic en la flecha. Luego haga clic en 'Name match'."
 
 #. type: Target for macro image
 #: diff-viewer.en.adoc:12
@@ -794,12 +794,12 @@ msgstr "*Paso 2. Seleccionar el segundo conjunto de datos*\n"
 #. type: Plain text
 #: diff-viewer.en.adoc:28
 msgid "Type COL 2021, and select the COL21 Annual Checklist 2021. +"
-msgstr "Escriba COL 2021 y seleccione 'COL21 Annual Checklist 2021'. +"
+msgstr "Escribe COL 2021 y selecciona \"COL21 Annual Checklist 2021\". +"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:29
 msgid "Click on 'Go to Lysiloma' to select the same genus as in dataset 1."
-msgstr "Haz clic en 'Go to Lysiloma' para seleccionar el mismo género que en el primer conjunto de datos."
+msgstr "HaZ clic en 'Go to Lysiloma' para seleccionar el mismo género que en el primer conjunto de datos."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:31
@@ -816,7 +816,7 @@ msgstr "img/web/CLB-compare-selection.png"
 #: diff-viewer.en.adoc:35
 #, no-wrap
 msgid "*Step 3. Check you selection*\n"
-msgstr "*Paso 3. Comprobar la selección*\n"
+msgstr "*Paso 3. Compruebe su selección*\n"
 
 #. type: Plain text
 #: diff-viewer.en.adoc:39
