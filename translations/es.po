@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-07-14 05:22\n"
+"PO-Revision-Date: 2023-07-14 06:23\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -615,7 +615,7 @@ msgstr "*Paso 3: Comparación*\n"
 #. type: Plain text
 #: name-match.en.adoc:35
 msgid "Once you click next in step 2, the matching will start. You can follow the progress in the progress bar. It is best to wait with exploring the results until the matching is complete."
-msgstr "Al hacer clic en 'Next' en el paso 2, comenzará la comparación entre las listas. Puede seguir el avance en la barra de progreso, espere a que se termine la comparación para explorar los resultados."
+msgstr "Al hacer clic en 'Next' en el paso 2, comenzará la comparación entre las listas. Se puede ver el avance en la barra de progreso, pero es mejor esperar a que concluya la comparación para explorar los resultados."
 
 #. type: Plain text
 #: name-match.en.adoc:37
@@ -637,7 +637,7 @@ msgstr "Ejemplo: Acacia Mill."
 #. type: Plain text
 #: name-match.en.adoc:43
 msgid "In this tutorial, we showcase the functionality of the name match tool with a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae."
-msgstr "En este tutorial se muestran las funcionalidades de la herramienta 'Name match' con una comparación del género _Acacia_ Mill, en la familia de plantas Fabaceae."
+msgstr "En este tutorial se muestran las funcionalidades de la herramienta 'Name match' comparando el género _Acacia_ Mill. en la familia de plantas Fabaceae."
 
 #. type: Plain text
 #: name-match.en.adoc:45
@@ -655,8 +655,8 @@ msgstr "Vaya a 'Choose a dataset in ChecklistBank'."
 #, no-wrap
 msgid "In the 'Select a subject dataset' box, start typing and select ‘WCVP-Fabaceae [2304]’.\n"
 "This is a dataset from the Legume Phylogeny Working Group 2021, which is a group of Fabaceae specialists that have worked on a comprehensive global taxonomic list for this taxon. +"
-msgstr "En la casilla 'Select a subject dataset', escribe y selecciona 'WCVP-Fabaceae [2304]'.\n"
-"Este es un conjunto de datos del \"Legume Phylogeny Working Group\" 2021, un grupo de especialistas de la familia Fabaceae que han trabajado en una lista taxonómica global."
+msgstr "En la casilla 'Select a subject dataset', escriba y seleccione 'WCVP-Fabaceae [2304]'.\n"
+"Este es el conjunto de datos del \"Legume Phylogeny Working Group\" 2021, un grupo de especialistas de la familia Fabaceae que han trabajado en una lista taxonómica global."
 
 #. type: Plain text
 #: name-match.en.adoc:50
@@ -682,7 +682,7 @@ msgstr "Para este tutorial seleccionar la lista COL 2021 (COL21)."
 #. type: Plain text
 #: name-match.en.adoc:56
 msgid "Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +"
-msgstr "Escriba 'COL21' en el cuadro de texto y selecciona 'COL21 Annual Checklist 2021 [2328]'. +"
+msgstr "Escriba 'COL21' en el cuadro de texto y seleccione 'COL21 Annual Checklist 2021 [2328]'. +"
 
 #. type: Plain text
 #: name-match.en.adoc:57
@@ -740,7 +740,7 @@ msgstr "La herramienta 'Dataset comparison' permite comparar los nombres cientí
 #. type: Plain text
 #: diff-viewer.en.adoc:7
 msgid "All datasets in ChecklistBank can be compared including the COL Checklist releases. The tool provides an overview of the differences in scientific names between datasets. The set of names to be compared can be filtered by various parameters, and a root taxon can also be selected to include only a certain group. Synonyms and names below a certain rank can be excluded on demand, i.e. you can just compare accepted genera or families."
-msgstr "Todos los conjuntos de datos de ChecklistBank pueden ser comparados entre si, incluyendo las versiones de la lista COL. La herramienta proporciona una visión general de las diferencias en los nombres científicos entre los conjuntos de datos. Los nombres pueden filtrarse por varios parámetros, y se puede seleccionar un taxón raíz sobre el cuál realizar la comparación. Los sinónimos y nombres pueden ser excluidos a demanda, por ejemplo para comparar los géneros o familias aceptadas."
+msgstr "Todos los conjuntos de datos de ChecklistBank se pueden comparar entre si, incluyendo las versiones de la lista COL. La herramienta proporciona una visión general de las diferencias en los nombres científicos entre los conjuntos de datos. Los nombres pueden filtrarse por varios parámetros, y se puede seleccionar un taxón raíz a partir del cual realizar la comparación. Los sinónimos y nombres inferiores a determinada categoría se pueden excluidos a demanda, por ejemplo para comparar los géneros o familias aceptadas."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:11
@@ -762,7 +762,7 @@ msgstr "Ejemplo: _Lysiloma_ (género en Fabaceae)"
 #. type: Plain text
 #: diff-viewer.en.adoc:17
 msgid "We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus _Lysiloma_ are provided by the ILDIS World Database of Legumes checklist (Roskov et al. 2014)."
-msgstr "Se usará la lista de la familia Fabaceae usada en el ejercicio anterior. Compararemos esta lista contra la lista COL 2021 para los datos del género _Lysiloma_, que son proporcionados por la lista 'ILDIS World Database of Legumes' (Roskov et al. 2014)."
+msgstr "Se usará la misma lista de la familia Fabaceae del ejercicio anterior. Compararemos esta lista contra la lista COL 2021 para los datos del género _Lysiloma_, que son proporcionados por la lista 'ILDIS World Database of Legumes' (Roskov et al. 2014)."
 
 #. type: Plain text
 #: diff-viewer.en.adoc:19
@@ -825,7 +825,7 @@ msgid "The next view shows you which datasets and roots you have selected.\n"
 "You can choose whether the scientific name comparisons should include authorship and synonyms, for this example select both options.\n"
 "Additionally, you can select whether to show the parent, and at which level. For this example, also select the box 'Show parent'."
 msgstr "La siguiente vista muestra qué conjuntos de datos y taxones se han seleccionado.\n"
-"Puede elegir si la comparación de los nombres científicos deben incluir la autoría y sinónimos, para este ejemplo seleccioea ambas opciones.\n"
+"Puede elegir si la comparación de los nombres científicos deben incluir la autoría y sinónimos, para este ejemplo seleccione ambas opciones.\n"
 "Además, puede decidir si mostrar al taxón padre y a qué nivel. Para este ejemplo, también seleccione el cuadro 'Show parent'."
 
 #. type: Plain text
@@ -888,7 +888,7 @@ msgstr "[[CC]]Licencias CC"
 #. type: Plain text
 #: glossary.en.adoc:12
 msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools."
-msgstr "Creative Commons. Son una serie de licencias establecidas por la organización Creative Commons que permiten compartir y reutilizar la creatividad y el conocimiento mediante la provisión de herramientas legales gratuitas."
+msgstr "Creative Commons. Son una serie de licencias establecidas por la organización Creative Commons que permiten compartir y reutilizar la creatividad y el conocimiento mediante herramientas legales gratuitas."
 
 #. type: Labeled list
 #: glossary.en.adoc:13
@@ -910,7 +910,7 @@ msgstr "[[vocab]]Vocabulario controlado"
 #. type: Plain text
 #: glossary.en.adoc:20
 msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
-msgstr "Un conjunto restringido de términos que se utilizan como valores posibles para un campo determinado. Se púede pensar en este como una lista de búsqueda o un menú desplegable para un campo en particular. Por ejemplo, el campo DwC basisOfRecord solo debe contener uno de estos valores: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\". Diríamos que la lista de valores es un vocabulario controlado para ese campo."
+msgstr "Un conjunto restringido de términos que se utilizan como valores permitidos para un campo determinado. Se puede pensar en este como una lista de búsqueda o un menú desplegable para un campo en particular. Por ejemplo, el campo DwC basisOfRecord solo puede contener uno de estos valores: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\". Diríamos que la lista de valores es un vocabulario controlado para ese campo."
 
 #. type: Labeled list
 #: glossary.en.adoc:21
@@ -932,7 +932,7 @@ msgstr "[[DwC]]DwC"
 #. type: Plain text
 #: glossary.en.adoc:26
 msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
-msgstr "Darwin Core es un estándar de datos sobre  biodiversidad, mantenido por TDWG y ampliamente utilizado dentro de la comunidad  de GBIF. Es un conjunto de términos estandarizados y sus definiciones, que se utilizan para compartir información sobre biodiversidad."
+msgstr "Darwin Core es un estándar de datos sobre biodiversidad, mantenido por TDWG y ampliamente utilizado dentro de la comunidad de GBIF. Es un conjunto de términos estandarizados (o nombres de campos) y sus definiciones, que se utilizan para compartir información sobre biodiversidad."
 
 #. type: Labeled list
 #: glossary.en.adoc:27
@@ -943,7 +943,7 @@ msgstr "[[DwC-A]]DwC-A"
 #. type: Plain text
 #: glossary.en.adoc:30
 msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
-msgstr "Archivo Darwin Core. Un archivo comprimido (zip) que contiene toda la información necesaria para compartir datos con GBIF. Cada comprimido contiene tres tipos de archivos:"
+msgstr "Archivo Darwin Core. Un archivo comprimido (zip) que contiene toda la información necesaria para compartir datos con GBIF. Cada archivo zip contiene tres tipos de archivos:"
 
 #. type: Plain text
 #: glossary.en.adoc:31
@@ -958,7 +958,7 @@ msgstr "un archivo de mapeo: rtf.xml"
 #. type: Plain text
 #: glossary.en.adoc:35
 msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
-msgstr "un archivo de metadatos (EML): eml.xml Cuando se utiliza el IPT, se crea un Archivo Darwin Core, que se comparte con GBIF. Además, cuando se descargan datos del sitio web de GBIF, también puede elegir un formato DwC-A."
+msgstr "archivo de metadatos (EML): eml.xml Cuando se utiliza el IPT, se crea un Archivo Darwin Core, que se comparte con GBIF. Además, cuando se descargan datos del sitio web de GBIF, también puede elegir un formato DwC-A."
 
 #. type: Labeled list
 #: glossary.en.adoc:36
