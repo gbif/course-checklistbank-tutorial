@@ -1,0 +1,1433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: checklistbank-tutorial\n"
+"POT-Creation-Date: 2023-06-21 15:45+0000\n"
+"PO-Revision-Date: 2023-11-07 10:53\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: checklistbank-tutorial\n"
+"X-Crowdin-Project-ID: 596833\n"
+"X-Crowdin-Language: nl\n"
+"X-Crowdin-File: /[gbif.course-checklistbank-tutorial] 1.0/translations/index.pot\n"
+"X-Crowdin-File-ID: 39561\n"
+
+#. type: Title =
+#: index.en.adoc:1
+#, no-wrap
+msgid "ChecklistBank tutorial"
+msgstr ""
+
+#. GBIF Secretariat <training@gbif.org>
+#. type: Plain text
+#: index.en.adoc:3
+msgid "Catalogue of Life <support@catalogueoflife.org>"
+msgstr ""
+
+#. type: Plain text
+#: index.en.adoc:18
+msgid "languageLinks:combined[]"
+msgstr ""
+
+#. type: Target for macro image
+#: index.en.adoc:23
+#, no-wrap
+msgid "img/logos/clb-col-dark.svg"
+msgstr ""
+
+#. type: Title ==
+#: description.en.adoc:2
+#, no-wrap
+msgid "Description"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:6
+msgid "ChecklistBank is a platform that supports the publication, analysis, and curation of checklists with emphasis in taxonomic and nomenclatural data. It is an integral part of the infrastructure developed and maintained by the Catalogue of Life (COL) and the Global Biodiversity Information Facility (GBIF)."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:8
+msgid "ChecklistBank includes all https://www.catalogueoflife.org/data/source-datasets[checklists] that form the Catalogue of Life, which are primarily global species lists provided by specific taxonomic communities. However, there are many other sources and uses for taxonomic checklists, such as national or local species lists, lists that share a common attribute such as red lists or invasive species lists, or lists that summarise taxonomic publications. Through ChecklistBank, we facilitate the discovery, use and citation of these valuable resources."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:10
+msgid "ChecklistBank is provided as a fundamental tool to ensure that basic data on species names and classifications can be shared and reused in support of the biological sciences and wider societal uses."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:12
+msgid "Currently, ChecklistBank provides a repository and a suite of tools to explore its content, and further examine checklists of particular interest. In this tutorial, we provide 4 exercises to explore these tools:"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:14
+msgid "Explore the *ChecklistBank repository*: search, inspect and download checklists."
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:15
+#, no-wrap
+msgid "*Cross dataset search* tool: look up the appearance of a particular scientific name in all data sources available in ChecklistBank.\n"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:16
+#, no-wrap
+msgid "*Name match* tool: enables comparison of the COL Checklist with one or two other datasets in ChecklistBank in terms of taxon name matching.\n"
+msgstr ""
+
+#. type: delimited block *
+#: description.en.adoc:17
+#, no-wrap
+msgid "*Dataset comparison* tool: allows for comparison of two taxonomic datasets in ChecklistBank on a scientific name by scientific name basis.\n"
+msgstr ""
+
+#. type: Title ===
+#: description.en.adoc:20
+#, no-wrap
+msgid "Audience"
+msgstr ""
+
+#. type: Plain text
+#: description.en.adoc:22
+msgid "This tutorial is for anyone interested in discovering, curating and publishing checklists with emphasis in taxonomic and nomenclatural checklists."
+msgstr ""
+
+#. type: Title ==
+#: login.en.adoc:2
+#, no-wrap
+msgid "ChecklistBank login"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:5
+msgid "Use the following steps to login to ChecklistBank:"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:7
+msgid "Go to https://www.checklistbank.org/"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:8
+msgid "Click on Login (top right)"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:9
+msgid "Login with your GBIF account +"
+msgstr ""
+
+#. type: Plain text
+#: login.en.adoc:11
+msgid "If you don’t have a GBIF account yet, use the register at https://www.gbif.org/[gbif.org] now!"
+msgstr ""
+
+#. type: Target for macro image
+#: login.en.adoc:12
+#, no-wrap
+msgid "img/web/CLB-front.png"
+msgstr ""
+
+#. type: Title ==
+#: explore-clb.en.adoc:2
+#, no-wrap
+msgid "Explore the ChecklistBank repository"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:5
+msgid "ChecklistBank is a public repository including over 40,000 checklists, established to simplify FAIR data sharing. It allows contributors to publish lists using a variety of typical data formats. Each list is then accessible through a standard API and reusable web browser components and can be cited using a ChecklistBank Digital Object Identifier."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:7
+msgid "Data publishers benefit both by making their datasets accessible for reuse and attribution and also through ChecklistBank tools for data review and detection of possible issues. Some of the datasets in ChecklistBank serve as authoritative sources for the Catalogue of Life Checklist, and new releases of the COL Checklist are also published as ChecklistBank datasets."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:9
+msgid "You can search through the ChecklistBank repository and explore the information and content of each checklist. All checklists can also be downloaded in multiple formats."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:11
+msgid "Before you start, please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
+msgstr ""
+
+#. type: Title ===
+#: explore-clb.en.adoc:12
+#, no-wrap
+msgid "Search for a checklist"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:15
+msgid "Click on Datasets in the menu on the left. This will bring you to the dataset search page."
+msgstr ""
+
+#. type: Target for macro image
+#: explore-clb.en.adoc:16
+#, no-wrap
+msgid "img/web/CLB-search.png"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:19
+msgid "You can use the Search field to type any keyword of the checklist you are searching for. Here are a few suggestions that you can use for this tutorial:"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:21
+msgid "search 'COL22' : this will only give 1 result, the Catalogue of Life Checklist 2022."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:22
+msgid "search 'Carabcat': the top result shows the Carabcat checklist, a global database of ground beetles, but additionally it will also show COL Checklists in which this checklist was included (since 2021)."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:23
+msgid "search 'Foraminifera': the top result shows the WoRMS Foraminifera checklist, below that the COL Checklists in which this checklist was included, and also a range of additional checklists that have been published in GBIF."
+msgstr ""
+
+#. type: Title ===
+#: explore-clb.en.adoc:24
+#, no-wrap
+msgid "Explore a checklist"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:28
+msgid "Let’s have a closer look at the information you can find for a particular dataset.  In this example, we use the Alucitoidea dataset by Donald Hobern: https://www.checklistbank.org/dataset/2207/about."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:30
+msgid "The menu on the left shows various options to explore this dataset:"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:32
+#, no-wrap
+msgid "*About*: here you can find all the metadata about this dataset including the author and contact person, the version of the dataset and date of when it was issued, licensing information and how to cite this source, link to the website of the dataset (if applicable), taxonomic scope, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:34
+#, no-wrap
+msgid "*Download*: on this page you can download this dataset in various formats:\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:36
+msgid "https://dwc.tdwg.org/list/[Darwin Core Archive] (DwC-A): commonly used standard for biodiversity data."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:37
+msgid "Annual Checklist Exchange Format (acef): data format previously used by Catalogue of Life."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:38
+msgid "https://github.com/gbif/text-tree[TextTree]: a simple format to represent taxonomic trees using indented, plain text."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:39
+msgid "https://github.com/CatalogueOfLife/coldp[Catalogue of Life Data Package] (ColDP): this is a tabular text format with a standard set of files and columns recommended for exchanging checklists with the Catalogue of Life."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:40
+msgid "https://en.wikipedia.org/wiki/Newick_format[Newick]: a way of representing graph-theoretical trees with edge lengths using parentheses and commas, often used with phylogenetic data."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:41
+msgid "http://www.graphviz.org/doc/info/lang.html[Graphviz dot]: a simple widely used format for representing graphs as nodes and edges. ChecklistBank exports will include synonym and basionym relations in the final graph that can be rendered with many software tools."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:43
+msgid "For your download you have the following options to select a subset of the checklist to be included in the download. This can be useful if you only want to download a selection of a large checklist."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:46
+#, no-wrap
+msgid "Choose root taxon: you can select a taxon within the checklist that will be the top level for the data included in your download. This means only taxonomic levels from this root level and further down are selected.\n"
+"For example, if we choose 'Cenoloba' here as root taxon, only this genus and the species within this genus would be included in the download."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:48
+#, no-wrap
+msgid "Exclude ranks below: select the highest taxonomic level you want to include in the download.\n"
+"For example, if we choose ‘genus’ all levels below will be excluded, thus species will not be listed."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:50
+msgid "The download consists of a zip file containing several tsv files of which the file ‘NameUsage.tsv’ includes the names in the checklist."
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:52
+#, no-wrap
+msgid "*Browse*: you can use this page to browse through the taxonomic tree for this particular checklist. This is useful to get a quick overview of which taxonomic levels and names are included in the checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:54
+msgid "This is the view if you unfold the taxonomic tree for the Alucitoidea checklist:"
+msgstr ""
+
+#. type: Target for macro image
+#: explore-clb.en.adoc:55
+#, no-wrap
+msgid "img/web/CLB-browse-Alucitoidea.png"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:58
+#, no-wrap
+msgid "*Search*:  here you can search for specific taxonomic names. This functionality is most useful if you are looking for a particular name.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:61
+#, no-wrap
+msgid "*Imports*: this shows the history and metrics of the import of this checklist into ChecklistBank including the different versions of the checklist. The timeline compares counts across imports, making it possible to see the growth in taxon counts, new datatypes added, etc. +\n"
+"Note: for the Catalogue of Life monthly and annual releases, the Imports is not available, because each release is a new checklist. For these checklists, there is just a Metrics page.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:64
+#, no-wrap
+msgid "*Issues*: this lists the issues found by automatic checks. When you hover your mouse over a particular issue it will show the definition of that issue. A full list of all issues can be found http://api.checklistbank.org/vocab/issue[here]. +\n"
+"When you click on the count number it will take you to the search page displaying the names with that particular issue.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:66
+#, no-wrap
+msgid "*References*: these are the references used to generate this checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: explore-clb.en.adoc:68
+#, no-wrap
+msgid "*Verbatim*: this shows the exact data as it was supplied without any alterations done by the importer to best fit the ChecklistBank data model. You can perform a full text search and browse the csv files. This page can be useful for data providers in debugging why ChecklistBank has interpreted things in a particular way, but also for others to search the original data and browse it.\n"
+msgstr ""
+
+#. type: Title ==
+#: name-usage.en.adoc:2
+#, no-wrap
+msgid "Cross dataset search"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:5
+msgid "The 'cross dataset search' tool gives an overview of the appearance of a particular scientific name in all data sources, taxonomic or nomenclatural, that are available in ChecklistBank."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:7
+msgid "A 'Taxonomic Name Usage' is a use of a particular scientific name in a particular resource. The resource can either be a dataset itself or it is any other source (e.g. human expert, literature reference) that is provided by a data custodian in the 'accordingTo' data standard term. The tool is helpful in understanding how a scientific name refers to different synonyms and hence a taxonomic concept that is used in a particular dataset or resource."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:9 name-match.en.adoc:7 diff-viewer.en.adoc:9
+msgid "Please make sure you are logged in to ChecklistBank. If you don't know how to do that, follow the steps <<ChecklistBank login,here>>."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:11
+msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Cross dataset search’."
+msgstr ""
+
+#. type: Target for macro image
+#: name-usage.en.adoc:12
+#, no-wrap
+msgid "img/web/CLB-tools-dataset-search.png"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:15
+msgid "You will find several options to improve your dataset search:"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:17
+msgid "Fuzzy: is an approximate string matching that matches two or more words even if there are typos or misspellings."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:18
+msgid "Extinct: if selected match only within extinct taxa names."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:19
+msgid "Matching:"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:21
+msgid "Exact: compares the entire name string (without considering authors)."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:22
+msgid "Words: matches word parts of the name, regardless of how they are combined."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:23
+msgid "Partial: a prefix search that matches names that begin with those letters."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:24
+msgid "Restrict to:"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:26
+msgid "Scientific name: search within the scientific names without authorship"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:27
+msgid "Authorship: search within the scientific name"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:28
+msgid "Any: search in all both scientific name and authorship"
+msgstr ""
+
+#. type: Target for macro image
+#: name-usage.en.adoc:29
+#, no-wrap
+msgid "img/web/CLB-matching-options.png"
+msgstr ""
+
+#. type: Title ===
+#: name-usage.en.adoc:31
+#, no-wrap
+msgid "Example: _Quercus robur_ L."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:34
+#, no-wrap
+msgid "We showcase the functionality and usability of the 'cross dataset search' tool by using a real example of a search on a scientific name. _Quercus robur_ L. is an oak tree belonging to the family of the Fagaceae with an extensive distribution across Europe.   \n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:36
+#, no-wrap
+msgid "*Step 1: Type Quercus robur in the search bar.*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:38
+#, no-wrap
+msgid "*Step 2: Select Exact in the options.*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:40
+msgid "Setting the matching to 'Exact' ensures that all results relate to tree taxa in the family of the Fagaceae plant family. If the matching on 'Words' is used, zoological taxa (for example _Stomaphis quercus_ (Linnaeus, 1758) from the Fauna Europaea dataset would also appear."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:42
+msgid "The search results show all datasets in ChecklistBank where the scientific name _Quercus robur_ L. appears in."
+msgstr ""
+
+#. type: Target for macro image
+#: name-usage.en.adoc:43
+#, no-wrap
+msgid "img/web/CLB-search-Quercus.png"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:46
+msgid "Through these results, it is possible to explore individual datasets in ChecklistBank which include _Quercus robur_ L. Several options for filtering the search results are also available."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:48
+#, no-wrap
+msgid "*Step 3: Select a Dataset.*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:50
+msgid "In the menu 'Dataset' on the top right, you can easily select the dataset which you want to explore further. Click on 'International Plant Names Index (IPNI)', and then click on the Scientific Name (Quercus robur L.) in the results."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:52
+msgid "This brings you to the record of this name, which includes its original resource."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:54
+#, no-wrap
+msgid "*Step 4: Navigate external resources.*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:56
+msgid "Click on the link of the Online resource."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:58
+msgid "This brings you to the information page about this name of the original source, in this case the International Plant Names Index (IPNI)."
+msgstr ""
+
+#. type: Target for macro image
+#: name-usage.en.adoc:59
+#, no-wrap
+msgid "img/web/Quercus-IPNI.png"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:62
+msgid "This example shows that by using the 'cross dataset search' tool, you can make linkages to other infrastructures to explore further evidence of a scientific name."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:64
+#, no-wrap
+msgid "*Exploring synonyms*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:66
+msgid "You can also check whether the name that you have searched is used as a synonym for other names."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:68
+msgid "Go back to the search page in the 'cross dataset search' tool, and again search for Quercus robur, select Exact, and under Status, select ‘Synonym’."
+msgstr ""
+
+#. type: Plain text
+#: name-usage.en.adoc:69
+msgid "You can now see how may synonyms of _Quercus robur_ are amongst the resources in ChecklistBank."
+msgstr ""
+
+#. type: Title ==
+#: name-match.en.adoc:2
+#, no-wrap
+msgid "Name match tool"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:5
+msgid "The 'name match' tool in ChecklistBank enables comparison of any checklist against one or two other datasets in ChecklistBank in terms of taxon name matching. There is a limit to matching a maximum of 6000 taxon names in one request."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:9
+msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Name match’."
+msgstr ""
+
+#. type: Target for macro image
+#: name-match.en.adoc:10
+#, no-wrap
+msgid "img/web/CLB-tools-match.png"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:13
+msgid "The user interface guides you through the steps to match your lists of interest."
+msgstr ""
+
+#. type: Target for macro image
+#: name-match.en.adoc:14
+#, no-wrap
+msgid "img/web/CLB-match-steps.png"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:17
+#, no-wrap
+msgid "*Step 1: Select your input data*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:19
+msgid "There are three different options for your input data:"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:21
+msgid "Simply paste a list of names in the text box. Use one name per row, and names can include author string."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:24
+msgid "Upload a csv file with a list of names.  This csv file must contain at least a column with the header 'scientificName' (which may include the author) and optional columns 'author', 'rank', 'code'(nomenclatural code)."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:27
+msgid "Choose a dataset in ChecklistBank.  You can select any checklist from the ChecklistBank repository. If this is a large checklist, it might be helpful to select a root taxon. The matching is then done for all names below the root taxon, ignoring higher taxonomic levels."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:29
+#, no-wrap
+msgid "*Step 2: Select the target data*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:31
+msgid "The default selection for the target data is the latest release of the COL Checklist. It is also possible to select a different checklist from ChecklistBank, or even match against two datasets."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:33
+#, no-wrap
+msgid "*Step 3: Matching*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:35
+msgid "Once you click next in step 2, the matching will start. You can follow the progress in the progress bar. It is best to wait with exploring the results until the matching is complete."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:37
+#, no-wrap
+msgid "*Step 4: Review result*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:39
+msgid "The results of the matchings can be explored in web pages in ChecklistBank or downloaded as a CSV file."
+msgstr ""
+
+#. type: Title ===
+#: name-match.en.adoc:40
+#, no-wrap
+msgid "Example: Acacia Mill."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:43
+msgid "In this tutorial, we showcase the functionality of the name match tool with a comparison of the genus _Acacia_ Mill. in the plant family Fabaceae."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:45
+#, no-wrap
+msgid "*Step 1. Select your input data*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:47
+msgid "Go to 'Choose a dataset in ChecklistBank'."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:49
+#, no-wrap
+msgid "In the 'Select a subject dataset' box, start typing and select ‘WCVP-Fabaceae [2304]’.\n"
+"This is a dataset from the Legume Phylogeny Working Group 2021, which is a group of Fabaceae specialists that have worked on a comprehensive global taxonomic list for this taxon. +"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:50
+msgid "Under 'And a root taxon', start typing and select 'Acacia (genus in Fabaceae)'"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:51
+msgid "Click on 'Fetch 3,297 names'."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:53
+#, no-wrap
+msgid "*Step 2. Select your target data*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:55
+msgid "For this tutorial select the COL Checklist 2021 (COL21)."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:56
+msgid "Type 'COL21' in the textbox and select 'COL21 Annual Checklist 2021 [2328]'. +"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:57
+msgid "Click Next."
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:59
+#, no-wrap
+msgid "*Step 3. Matching*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:61
+msgid "The matching will start, please wait until it is complete."
+msgstr ""
+
+#. type: Target for macro image
+#: name-match.en.adoc:62
+#, no-wrap
+msgid "img/web/CLB-match-Acacia.png"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:65
+#, no-wrap
+msgid "*Step 4. Review result*\n"
+msgstr ""
+
+#. type: Plain text
+#: name-match.en.adoc:68
+#, no-wrap
+msgid "The first column lists the scientific name from the provided dataset (in this case the Fabaceae dataset).\n"
+"The ‘Scientific Name’ column has a filter in which you can select whether you want to view the names that are also listed in the COL Checklist 2021 (usage in COL21), or the names that do not have a match (NO usage in COL21)."
+msgstr ""
+
+#. type: Target for macro image
+#: name-match.en.adoc:69
+#, no-wrap
+msgid "img/web/CLB-match-result.png"
+msgstr ""
+
+#. type: Title ==
+#: diff-viewer.en.adoc:2
+#, no-wrap
+msgid "Dataset comparison"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:5
+msgid "The 'dataset comparison' allows for comparison of two datasets in ChecklistBank on a scientific name by scientific name basis."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:7
+msgid "All datasets in ChecklistBank can be compared including the COL Checklist releases. The tool provides an overview of the differences in scientific names between datasets. The set of names to be compared can be filtered by various parameters, and a root taxon can also be selected to include only a certain group. Synonyms and names below a certain rank can be excluded on demand, i.e. you can just compare accepted genera or families."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:11
+msgid "You can find the tool in the menu on the left. Expand the Tools menu by clicking on the arrow. Then click ‘Dataset comparison’."
+msgstr ""
+
+#. type: Target for macro image
+#: diff-viewer.en.adoc:12
+#, no-wrap
+msgid "img/web/CLB-tools-compare.png"
+msgstr ""
+
+#. type: Title ===
+#: diff-viewer.en.adoc:14
+#, no-wrap
+msgid "Example: _Lysiloma_ (genus in Fabaceae)"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:17
+msgid "We use the Fabaceae checklist, which was also used in the ‘name match tool’ tutorial. We compare this list to the 2021 COL Checklist for which the data on the genus _Lysiloma_ are provided by the ILDIS World Database of Legumes checklist (Roskov et al. 2014)."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:19
+msgid "When you open the tool, the start screen of the dataset comparison allows you to choose two datasets to make the comparison on the basis of scientific names."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:21
+#, no-wrap
+msgid "*Step 1. Select dataset 1*\n"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:23
+msgid "Start typing WCVP-Fabaceae and this dataset will appear in the menu. Select it. +"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:24
+msgid "In the box 'Find taxon', type 'Lysiloma' and select it."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:26
+#, no-wrap
+msgid "*Step 2. Select dataset 2*\n"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:28
+msgid "Type COL 2021, and select the COL21 Annual Checklist 2021. +"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:29
+msgid "Click on 'Go to Lysiloma' to select the same genus as in dataset 1."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:31
+msgid "Click on ‘Show diff’"
+msgstr ""
+
+#. type: Target for macro image
+#: diff-viewer.en.adoc:32
+#, no-wrap
+msgid "img/web/CLB-compare-selection.png"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:35
+#, no-wrap
+msgid "*Step 3. Check you selection*\n"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:39
+#, no-wrap
+msgid "The next view shows you which datasets and roots you have selected.\n"
+"You can choose whether the scientific name comparisons should include authorship and synonyms, for this example select both options.\n"
+"Additionally, you can select whether to show the parent, and at which level. For this example, also select the box 'Show parent'."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:42
+#, no-wrap
+msgid "*Step 4. Get results**\n"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:44
+msgid "Once you have made your selection, click ‘Get diff’."
+msgstr ""
+
+#. type: Target for macro image
+#: diff-viewer.en.adoc:45
+#, no-wrap
+msgid "img/web/CLB-diff-Lysiloma.png"
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:49
+msgid "The results of the comparison can be explored in the webpage."
+msgstr ""
+
+#. type: Plain text
+#: diff-viewer.en.adoc:51
+msgid "You can see two columns, one for each dataset. Scientific name differences are shown in each column where a '-' or '+' sign indicates in which dataset the difference occurs. The results of the comparisons can also be downloaded in a CSV file for further investigation."
+msgstr ""
+
+#. type: Target for macro image
+#: diff-viewer.en.adoc:52
+#, no-wrap
+msgid "img/web/CLB-compare-Lysiloma-result.png"
+msgstr ""
+
+#. type: Title ==
+#: glossary.en.adoc:2
+#, no-wrap
+msgid "Glossary"
+msgstr ""
+
+#. Glossaries are optional. Glossaries entries are an example of a style of AsciiDoc labelled lists.
+#. type: Labeled list
+#: glossary.en.adoc:7
+#, no-wrap
+msgid "[[API]]API"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:9
+msgid "Application Programming Interface.  A set of clearly defined methods of communication between various software components."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:10
+#, no-wrap
+msgid "[[CC]]CC Licences"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:12
+msgid "Creative Commons.  These are a series of licenses set up by the Creative Commons organization that enable sharing and reuse of creativity and knowledge through the provision of free legal tools."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:13
+#, no-wrap
+msgid "[[COL]]COL"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:15
+msgid "Catalogue of Life.  A global collaboration bringing together the effort and contributions of taxonomists and informaticians from around the world."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:16
+#, no-wrap
+msgid "[[vocab]]Controlled Vocabulary"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:20
+msgid "This is a restricted set of terms that are used as possible values for a given field.  One can think of it as a lookup list or dropdown for a particular field.  For example the DwC field basisOfRecord should only contain one of these values: \"PreservedSpecimen\", \"FossilSpecimen\", \"LivingSpecimen\", \"HumanObservation\", \"MachineObservation\".  We would say that list of values is a controlled vocabulary for that field."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:21
+#, no-wrap
+msgid "[[DOI]]DOI"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:23
+msgid "Digital Object Identifier.  A persistent identifier or handle used to uniquely identify objects. DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports and data sets, and official publications."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:24
+#, no-wrap
+msgid "[[DwC]]DwC"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:26
+msgid "Darwin Core is a biodiversity data standard, maintained by TDWG & widely used within the GBIF community and partners.  It is a set of standardized terms (or field names) and their definitions, which are used to share biodiversity information."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:27
+#, no-wrap
+msgid "[[DwC-A]]DwC-A"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:30
+msgid "Darwin Core Archive.  A compressed (zipped) file containing all the information needed to share with GBIF, for a particular resource.  Each zip contains three types of files:"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:31
+msgid "the actual data, in one or more text files: occurrence.txt/event.txt/measurmentoffact.txt etc"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:32
+msgid "a mapping file: rtf.xml"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:35
+msgid "a metadata (EML) file: eml.xml When you publish using the IPT, it creates a Darwin Core Archive, which is shared with GBIF.  Also, when you download data from the GBIF website you can choose a DwC-A format as well."
+msgstr ""
+
+#. type: Labeled list
+#: glossary.en.adoc:36
+#, no-wrap
+msgid "[[GUID]]GUID"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:37
+msgid "Globally Unique IDentifier"
+msgstr ""
+
+#. type: Plain text
+#: glossary.en.adoc:39
+msgid "<<<"
+msgstr ""
+
+#. type: Title ==
+#: colophon.en.adoc:1
+#, no-wrap
+msgid "Colophon"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:3
+#, no-wrap
+msgid "Suggested citation"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:7
+msgid "Huijbers C., Bánki O., Döring M., Stjernegaard T., Hernández D., Plata C. & Miller J (2023). ChecklistBank Tutorial, version 1.  https://doi.org/10.35035/ce-9sw4-e095."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:9
+#, no-wrap
+msgid "Authors"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:12
+msgid "Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, Diana Hernández, Camila Plata and Joe Miller."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:13
+#, no-wrap
+msgid "Contributors"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:16
+msgid "The ChecklistBank tutorial was developed as part of workshop series at various international meetings. Naturalis Biodiversity Center acknowledges the European Commission funded project Synthesys+ (grant agreement number 823827)."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:17
+#, no-wrap
+msgid "Licence"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:20
+msgid "The ChecklistBank tutorial is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License]."
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:21
+#, no-wrap
+msgid "Persistent URI"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:24
+msgid "https://doi.org/10.35035/ce-9sw4-e095"
+msgstr ""
+
+#. type: Title ===
+#: colophon.en.adoc:25
+#, no-wrap
+msgid "Document control"
+msgstr ""
+
+#. type: Plain text
+#: colophon.en.adoc:28
+msgid "First edition, June 2023"
+msgstr ""
+
+#. type: Table
+#: colophon.en.adoc:34
+#, no-wrap
+msgid "|image::img/logos/col_logo.svg[Catalogue of Life,width=303,height=70]\n"
+"|image::img/logos/normal-reproduction-low-resolution.jpg[European Union,width=104,height=70]\n"
+"|image::img/logos/logo-gbif.svg[GBIF,width=174,height=70]\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:2
+#, no-wrap
+msgid "// Slide 1\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:5
+#, no-wrap
+msgid "In this presentation, we’ll have a look at the different types of data that can be called ‘primary biodiversity data’ and shared within GBIF.\n"
+"These data can be complex and have different origins; we’ll see how they can be structured into one of the three data classes accepted by GBIF, based on the Darwin Core data sharing standard that is used within the GBIF community.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:7
+#, no-wrap
+msgid "// Slide 2\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:10
+#, no-wrap
+msgid "As you can see on this slide, GBIF currently supports four types of dataset: Resource datasets (e.g. metadata-only datasets), species checklists, Occurrence datasets and Sampling-event datasets.\n"
+"I will not discuss Resource datasets in this presentation as metadata-only datasets are not supported by the GBIF-funded programmes.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:12
+#, no-wrap
+msgid "// Slide 3\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:15
+#, no-wrap
+msgid "The first type of dataset that can be published within GBIF is the checklist, aka a list of species or higher taxa.\n"
+"In a checklist, the main unit is the taxon, not the occurrence (individual).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:17
+#, no-wrap
+msgid "// Slide 4\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:19
+#, no-wrap
+msgid "Checklists, and more generally, taxonomical datasets can vary in scope : \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:21
+#, no-wrap
+msgid "a list of species present in a protected area is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:23
+#, no-wrap
+msgid "a national or thematic list of taxa (e.g. Butterflies of Laos, or the Flora of Malaysia), which sometimes provide more info on the distribution, taxonomical hierarchy and synonyms of the taxa is a checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:25
+#, no-wrap
+msgid "IUCN red lists (at the international, national or regional levels) also are checklists and can give more information about the vulnerability status of the listed taxa. \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:27
+#, no-wrap
+msgid "// Slide 5\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:31
+#, no-wrap
+msgid "GBIF provides data publishers with templates for each class of dataset.\n"
+"The GBIF template for checklists (taxon Data) allows you to share information linked to each species or taxa: its ID, full name and authorship, relationship to other taxa, geographical details and so on.\n"
+"In this template, one line represents one taxon and a taxon can only appear once in the dataset (otherwise it will create a duplicate).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:33
+#, no-wrap
+msgid "// Slide 6\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:36
+#, no-wrap
+msgid "The second type of data that can be published within GBIF is data coming from natural history or scientific collections, also known as specimens.\n"
+"Unlike checklists, the main unit in a specimen collection will be the specimen (a single organism or group of organisms), and you can have multiple specimens from the same species or taxon group.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:38
+#, no-wrap
+msgid "// Slide 7\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:41
+#, no-wrap
+msgid "Collections and specimens vastly differ in numbers, size and preservation methods.\n"
+"However, any kind of collection that holds preserved living organisms can be captured and shared within GBIF; herbarium or zoological collections (including fossils) for example, but geology or human artifacts collections do not fall under the GBIF scope.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:43
+#, no-wrap
+msgid "// Slide 8\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:45
+#, no-wrap
+msgid "Biodiversity data can also be found in technical and scientific literature: it is possible to compile and share this kind of data within GBIF, but you should be extra-cautious not to share duplicate data (for example, a specimen described in a scientific article might already be present on GBIF.org in the dataset of its collection)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:47
+#, no-wrap
+msgid "// Slide 9\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:50
+#, no-wrap
+msgid "In the absence of digitized datasets, biodiversity data can be extracted and compiled from scientific articles, phD or master theses, reports and other documents.\n"
+"ALWAYS contact the data owner first when compiling literature data to ask for permission to publish them to GBIF ! \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:52
+#, no-wrap
+msgid "// Slide 10\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:55
+#, no-wrap
+msgid "A large majority of the data available on GBIF.org now comes from fieldwork records.\n"
+"These data can be observed and/or collected using different protocols in the field, by scientists, naturalists or amateur citizen-scientists via programmes and apps.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:57
+#, no-wrap
+msgid "// Slide 11\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:60
+#, no-wrap
+msgid "These field data can be compiled in survey reports, environmental impact assessment studies, field notes and other logs.\n"
+"They can be linked to other types of data, such as checklists, which are complementary to occurrence data observed or collected in the wilderness.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:62
+#, no-wrap
+msgid "// Slide 12\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:67
+#, no-wrap
+msgid "Occurrence data represents the GBIF class of datasets with the largest number of records on GBIF.org.\n"
+"Collection (aka specimens), literature and fieldwork data can be shared within GBIF using this template, which focuses on the observed individual or collected specimen.\n"
+"In this kind of dataset, multiple individuals or specimens can be recorded for a single taxon, as long as they each have a unique identifier.\n"
+"Other fields for occurrence data include where, when, how and by whom was each occurrence observed and/or collected in the field.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:69
+#, no-wrap
+msgid "// Slide 13\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:72
+#, no-wrap
+msgid "Event data is a class of datasets that was added on GBIF.org in 2015.\n"
+"They allow data publishers to share more information about the context of the observation or collection of specimens, and to group occurrences linked to the same event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:74
+#, no-wrap
+msgid "// Slide 14\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:77
+#, no-wrap
+msgid "The GBIF template for Event data allows data publishers to share more information about the context of a biodiversity data collecting/recording event such as camera traps, insect traps, botanical relevés, birding sites and so on.\n"
+"Its structure is a bit more complex than the Taxonomical datasets and Occurrence datasets as it involves two files (e.g., two tabs in a spreadsheet): one for describing the ‘events’ (e.g. each trap) and the other one to describe the specimens or occurrences linked to each event.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:79
+#, no-wrap
+msgid "// Slide 15\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:81
+#, no-wrap
+msgid "Sometimes, additional information or data can be found using other source materials than those previously mentioned in this video.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:83
+#, no-wrap
+msgid "// Slide 16\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:86
+#, no-wrap
+msgid "These other sources include remote sensing tools, maps and satellite data, and other information supports such as pictures, audio and video recordings of wildlife.\n"
+"Most of the time, the information retrieved this way is supplemental to existing data but can provide valuable information about individuals and their location, habitat, migratory routes, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:88
+#, no-wrap
+msgid "// Slide 17\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:90
+#, no-wrap
+msgid "In the following slides, we will see how the Darwin Core standard works with different types of data, and how to choose the dataset class that best fits a given dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:92
+#, no-wrap
+msgid "// Slide 18\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:96
+#, no-wrap
+msgid "As you learned in the Foundations - Darwin Core presentation, Darwin Core is a data sharing standard developed by the Biodiversity Information Standards (TDWG) organization, and is widely used to publish data within the extended GBIF community.\n"
+"Depending on the type of dataset with which you work, you’ll have to choose one of its three Cores (Occurrence, Taxon or Event Core), which can be linked to one or more Extensions to share more information (such as multimedia links, variables, identification history and so on).\n"
+"In some cases, a core can be used as an extension linked to another core: that is the case when publishing Event data, where one can use the Event Core to describe the sampled areas and then use the Occurrence Core as an Extension to share the specimens or individuals recorded.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:98
+#, no-wrap
+msgid "// Slide 19\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:102
+#, no-wrap
+msgid "Once the data has been standardized using the Darwin Core standard, each class of dataset (metadata-only, sampling event, taxonomic or occurrence datasets) can be published on GBIF.org using one of the tools mentioned on this figure.\n"
+"The most frequently used tool within the GBIF community is the GBIF-developed Integrated Publishing Toolkit (IPT), which transforms the source data into Darwin Core archives that are then harvested and indexed by GBIF.\n"
+"The data are then searchable and downloadable via GBIF.org.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:104
+#, no-wrap
+msgid "// Slide 20\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:107
+#, no-wrap
+msgid "Choosing a dataset class can take some time, especially if you’re new to data publishing within GBIF.\n"
+"The GBIF helpdesk team created this useful flowchart which can be found on the GBIF Data Blog: \n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:109
+#, no-wrap
+msgid "If your data are not yet captured in a database or spreadsheet, or if they are too incomplete to be shared yet, you can publish a description of your data as a metadata-only dataset (please note this option is not allowed in the context of the BID and BIFA programmes).\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:111
+#, no-wrap
+msgid "If your dataset contains a list of scientific names that are not referring to observed and/or collected organisms or specimens, you can publish it as a taxonomical resource, or checklist.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:113
+#, no-wrap
+msgid "If your dataset includes scientific names linked to observed and/or collected specimens, as well as dates and locations, you can share it as an occurrence dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:115
+#, no-wrap
+msgid "Lastly, if information about the protocols used on the field are available, you can choose to share your dataset as a sampling-event dataset.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:117
+#, no-wrap
+msgid "// Slide 21\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:121
+#, no-wrap
+msgid "Each class of dataset shared within GBIF has to meet its own data quality requirements.\n"
+"Some requirements are mandatory (such as the occurrenceID, taxonID or eventID, depending on the type of dataset), others are optional but strongly recommended (such as coordinates in decimal degrees).\n"
+"You can find these requirements on GBIF.org from the How-to menu.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:123
+#, no-wrap
+msgid "// Slide 22\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:125
+#, no-wrap
+msgid "In order to be able to publish data to GBIF, it is important to understand the differences between the dataset classes at the early stages of the data capture and data managing process.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:127
+#, no-wrap
+msgid "You can reflect on this topic with the following questions:\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:129
+#, no-wrap
+msgid "Is your data type different than you originally thought?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:131
+#, no-wrap
+msgid "With what kind of data do you work?\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:133
+#, no-wrap
+msgid "How would you publish them to GBIF? (using which Core and/or extension?)\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:135
+#, no-wrap
+msgid "// Slide 23\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:137
+#, no-wrap
+msgid "If you have questions on this presentation, please use the provided forum in the e-Learning platform.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:139
+#, no-wrap
+msgid "This video is part of a series of presentations used in the GBIF Biodiversity Data Mobilization course.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:141
+#, no-wrap
+msgid "The biodiversity data mobilization curriculum was originally developed as part of the Biodiversity Information Development Programme funded by the European Union.\n"
+msgstr ""
+
+#. type: Plain text
+#: scripts/data-types.en.txt:142
+#, no-wrap
+msgid "This presentation was originally created and narrated by Sophie Pamerlon with additional contributions by BID and BIFA Trainers, Mentors and Students.\n"
+msgstr ""
+
