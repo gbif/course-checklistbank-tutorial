@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: checklistbank-tutorial\n"
 "POT-Creation-Date: 2023-06-21 15:45+0000\n"
-"PO-Revision-Date: 2023-11-07 10:53\n"
+"PO-Revision-Date: 2023-11-07 15:24\n"
 "Last-Translator: \n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -20,30 +20,30 @@ msgstr ""
 #: index.en.adoc:1
 #, no-wrap
 msgid "ChecklistBank tutorial"
-msgstr ""
+msgstr "ChecklistBank handleiding"
 
 #. GBIF Secretariat <training@gbif.org>
 #. type: Plain text
 #: index.en.adoc:3
 msgid "Catalogue of Life <support@catalogueoflife.org>"
-msgstr ""
+msgstr "Catalogue of Life <support@catalogueoflife.org>"
 
 #. type: Plain text
 #: index.en.adoc:18
 msgid "languageLinks:combined[]"
-msgstr ""
+msgstr "taalLinks:gecombineerd[]"
 
 #. type: Target for macro image
 #: index.en.adoc:23
 #, no-wrap
 msgid "img/logos/clb-col-dark.svg"
-msgstr ""
+msgstr "img/logos/clb-colk.svg"
 
 #. type: Title ==
 #: description.en.adoc:2
 #, no-wrap
 msgid "Description"
-msgstr ""
+msgstr "Beschrijving"
 
 #. type: delimited block *
 #: description.en.adoc:6
