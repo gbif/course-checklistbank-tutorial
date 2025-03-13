@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-06-03 14:12+0000\n"
+"POT-Creation-Date: 2025-03-13 20:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -685,7 +685,7 @@ msgstr ""
 
 #.  Uncomment once a DOI is assigned: https://doi.org/10.EXAMPLE/EXAMPLE.
 #. type: Plain text
-#: colophon.en.adoc:7
+#: colophon.en.adoc:6
 msgid ""
 "GBIF Secretariat (2021) GBIF Biodiversity Data Mobilization Course. 12th "
 "edition. GBIF Secretariat: Copenhagen."
