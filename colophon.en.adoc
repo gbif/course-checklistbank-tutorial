@@ -12,7 +12,7 @@ Chantal Huijbers, Olaf Bánki, Markus Döring, Thomas Stjernegaard Jeppesen, Dia
 
 === Contributors
 
-The ChecklistBank tutorial was developed as part of workshop series at various international meetings. Naturalis Biodiversity Center acknowledges the European Commission funded project Synthesys+ (grant agreement number 823827). 
+The ChecklistBank tutorial was developed as part of workshop series at various international meetings. Naturalis Biodiversity Center acknowledges the European Commission funded project Synthesys+ (grant agreement number 823827). Catalogue of Life acknowledges from the Netherlands Biodiversity Information Facility (nlbif2021.021)
 
 === Licence
 
